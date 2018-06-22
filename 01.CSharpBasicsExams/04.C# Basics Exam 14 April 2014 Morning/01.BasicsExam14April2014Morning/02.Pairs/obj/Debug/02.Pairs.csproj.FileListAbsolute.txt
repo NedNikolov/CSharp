@@ -1,0 +1,6 @@
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\04.C# Basics Exam 14 April 2014 Morning\01.BasicsExam14April2014Morning\02.Pairs\bin\Debug\02.Pairs.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\04.C# Basics Exam 14 April 2014 Morning\01.BasicsExam14April2014Morning\02.Pairs\bin\Debug\02.Pairs.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\04.C# Basics Exam 14 April 2014 Morning\01.BasicsExam14April2014Morning\02.Pairs\bin\Debug\02.Pairs.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\04.C# Basics Exam 14 April 2014 Morning\01.BasicsExam14April2014Morning\02.Pairs\obj\Debug\02.Pairs.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\04.C# Basics Exam 14 April 2014 Morning\01.BasicsExam14April2014Morning\02.Pairs\obj\Debug\02.Pairs.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\04.C# Basics Exam 14 April 2014 Morning\01.BasicsExam14April2014Morning\02.Pairs\obj\Debug\02.Pairs.pdb

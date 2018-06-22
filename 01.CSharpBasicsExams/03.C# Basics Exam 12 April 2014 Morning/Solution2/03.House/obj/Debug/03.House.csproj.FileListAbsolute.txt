@@ -1,0 +1,9 @@
+C:\Users\lenovo\Desktop\Solution2\03.House\bin\Debug\03.House.exe.config
+C:\Users\lenovo\Desktop\Solution2\03.House\bin\Debug\03.House.exe
+C:\Users\lenovo\Desktop\Solution2\03.House\bin\Debug\03.House.pdb
+C:\Users\lenovo\Desktop\Solution2\03.House\obj\Debug\03.House.exe
+C:\Users\lenovo\Desktop\Solution2\03.House\obj\Debug\03.House.pdb
+C:\Users\lenovo\Desktop\Solution2\03.House\obj\Debug\03.House.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\03.C# Basics Exam 12 April 2014 Morning\Solution2\03.House\bin\Debug\03.House.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\03.C# Basics Exam 12 April 2014 Morning\Solution2\03.House\obj\Debug\03.House.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\03.C# Basics Exam 12 April 2014 Morning\Solution2\03.House\obj\Debug\03.House.pdb

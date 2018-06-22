@@ -1,0 +1,6 @@
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\03.C# Basics Exam 12 April 2014 Morning\Solution2\02.Values\bin\Debug\02.Values.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\03.C# Basics Exam 12 April 2014 Morning\Solution2\02.Values\bin\Debug\02.Values.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\03.C# Basics Exam 12 April 2014 Morning\Solution2\02.Values\bin\Debug\02.Values.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\03.C# Basics Exam 12 April 2014 Morning\Solution2\02.Values\obj\Debug\02.Values.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\03.C# Basics Exam 12 April 2014 Morning\Solution2\02.Values\obj\Debug\02.Values.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\03.C# Basics Exam 12 April 2014 Morning\Solution2\02.Values\obj\Debug\02.Values.pdb

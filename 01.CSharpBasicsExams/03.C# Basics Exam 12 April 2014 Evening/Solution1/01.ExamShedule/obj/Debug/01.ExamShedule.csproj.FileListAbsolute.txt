@@ -1,0 +1,9 @@
+C:\Users\lenovo\Desktop\Solution1\01.ExamShedule\bin\Debug\01.ExamShedule.exe.config
+C:\Users\lenovo\Desktop\Solution1\01.ExamShedule\bin\Debug\01.ExamShedule.exe
+C:\Users\lenovo\Desktop\Solution1\01.ExamShedule\bin\Debug\01.ExamShedule.pdb
+C:\Users\lenovo\Desktop\Solution1\01.ExamShedule\obj\Debug\01.ExamShedule.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\Solution1\01.ExamShedule\obj\Debug\01.ExamShedule.exe
+C:\Users\lenovo\Desktop\Solution1\01.ExamShedule\obj\Debug\01.ExamShedule.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\03.C# Basics Exam 12 April 2014 Evening\Solution1\01.ExamShedule\bin\Debug\01.ExamShedule.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\03.C# Basics Exam 12 April 2014 Evening\Solution1\01.ExamShedule\obj\Debug\01.ExamShedule.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\03.C# Basics Exam 12 April 2014 Evening\Solution1\01.ExamShedule\obj\Debug\01.ExamShedule.pdb

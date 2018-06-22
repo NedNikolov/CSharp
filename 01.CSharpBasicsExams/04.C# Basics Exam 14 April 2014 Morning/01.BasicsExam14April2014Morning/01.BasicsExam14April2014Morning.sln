@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.FruitMarket", "01.FruitMarket\01.FruitMarket.csproj", "{5B5D1A79-BFCF-424E-8E7E-9054CDDCA239}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.WineGlass", "03.WineGlass\03.WineGlass.csproj", "{D5BEF211-5DA8-41A1-BC11-AF1DB4B0F710}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Pairs", "02.Pairs\02.Pairs.csproj", "{CDE290FA-DEEF-4576-B06B-953E06F3AB51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B5D1A79-BFCF-424E-8E7E-9054CDDCA239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B5D1A79-BFCF-424E-8E7E-9054CDDCA239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B5D1A79-BFCF-424E-8E7E-9054CDDCA239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B5D1A79-BFCF-424E-8E7E-9054CDDCA239}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5BEF211-5DA8-41A1-BC11-AF1DB4B0F710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5BEF211-5DA8-41A1-BC11-AF1DB4B0F710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5BEF211-5DA8-41A1-BC11-AF1DB4B0F710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5BEF211-5DA8-41A1-BC11-AF1DB4B0F710}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDE290FA-DEEF-4576-B06B-953E06F3AB51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDE290FA-DEEF-4576-B06B-953E06F3AB51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDE290FA-DEEF-4576-B06B-953E06F3AB51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDE290FA-DEEF-4576-B06B-953E06F3AB51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

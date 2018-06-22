@@ -1,0 +1,12 @@
+C:\Users\lenovo\Desktop\Solution1\03. Arrow\bin\Debug\_03.Arrow.exe.config
+C:\Users\lenovo\Desktop\Solution1\03. Arrow\bin\Debug\_03.Arrow.exe
+C:\Users\lenovo\Desktop\Solution1\03. Arrow\bin\Debug\_03.Arrow.pdb
+C:\Users\lenovo\Desktop\Solution1\03. Arrow\obj\Debug\_03.Arrow.exe
+C:\Users\lenovo\Desktop\Solution1\03. Arrow\obj\Debug\_03.Arrow.pdb
+C:\Users\lenovo\Desktop\Solution1\03. Arrow\obj\Debug\03. Arrow.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\03.C# Basics Exam 12 April 2014 Evening\Solution1\03. Arrow\bin\Debug\_03.Arrow.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\03.C# Basics Exam 12 April 2014 Evening\Solution1\03. Arrow\obj\Debug\_03.Arrow.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\03.C# Basics Exam 12 April 2014 Evening\Solution1\03. Arrow\obj\Debug\_03.Arrow.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\03.C# Basics Exam 12 April 2014 Evening\Solution1\03. Arrow\bin\Debug\_03.Arrow.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\03.C# Basics Exam 12 April 2014 Evening\Solution1\03. Arrow\bin\Debug\_03.Arrow.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\03.C# Basics Exam 12 April 2014 Evening\Solution1\03. Arrow\obj\Debug\03. Arrow.csprojResolveAssemblyReference.cache

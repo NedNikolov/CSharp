@@ -1,0 +1,9 @@
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\03.C# Basics Exam 12 April 2014 Evening\Solution1\02.EOElements\bin\Debug\02.EOElements.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\03.C# Basics Exam 12 April 2014 Evening\Solution1\02.EOElements\obj\Debug\02.EOElements.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\03.C# Basics Exam 12 April 2014 Evening\Solution1\02.EOElements\bin\Debug\02.EOElements.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\03.C# Basics Exam 12 April 2014 Evening\Solution1\02.EOElements\bin\Debug\02.EOElements.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\03.C# Basics Exam 12 April 2014 Evening\Solution1\02.EOElements\obj\Debug\02.EOElements.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\03.C# Basics Exam 12 April 2014 Evening\Solution1\02.EOElements\obj\Debug\02.EOElements.pdb
+D:\SOFTUNI\Professional Module\01. Java Fundamentals\Задачи\Задачи от изпити\Java Basics\Задачи за изпита\03.C# Basics Exam 12 April 2014 Evening\Solution1\02.EOElements\bin\Debug\02.EOElements.exe.config
+D:\SOFTUNI\Professional Module\01. Java Fundamentals\Задачи\Задачи от изпити\Java Basics\Задачи за изпита\03.C# Basics Exam 12 April 2014 Evening\Solution1\02.EOElements\obj\Debug\02.EOElements.exe
+D:\SOFTUNI\Professional Module\01. Java Fundamentals\Задачи\Задачи от изпити\Java Basics\Задачи за изпита\03.C# Basics Exam 12 April 2014 Evening\Solution1\02.EOElements\obj\Debug\02.EOElements.pdb

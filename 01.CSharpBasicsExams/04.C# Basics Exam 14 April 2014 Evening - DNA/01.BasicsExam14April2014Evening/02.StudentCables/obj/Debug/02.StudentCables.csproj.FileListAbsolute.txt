@@ -1,0 +1,9 @@
+C:\Users\lenovo\Desktop\01.BasicsExam14April2014Evening\02.StudentCables\bin\Debug\02.StudentCables.exe.config
+C:\Users\lenovo\Desktop\01.BasicsExam14April2014Evening\02.StudentCables\bin\Debug\02.StudentCables.exe
+C:\Users\lenovo\Desktop\01.BasicsExam14April2014Evening\02.StudentCables\bin\Debug\02.StudentCables.pdb
+C:\Users\lenovo\Desktop\01.BasicsExam14April2014Evening\02.StudentCables\obj\Debug\02.StudentCables.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\01.BasicsExam14April2014Evening\02.StudentCables\obj\Debug\02.StudentCables.exe
+C:\Users\lenovo\Desktop\01.BasicsExam14April2014Evening\02.StudentCables\obj\Debug\02.StudentCables.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\04.C# Basics Exam 14 April 2014 Evening - DNA\01.BasicsExam14April2014Evening\02.StudentCables\bin\Debug\02.StudentCables.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\04.C# Basics Exam 14 April 2014 Evening - DNA\01.BasicsExam14April2014Evening\02.StudentCables\obj\Debug\02.StudentCables.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\04.C# Basics Exam 14 April 2014 Evening - DNA\01.BasicsExam14April2014Evening\02.StudentCables\obj\Debug\02.StudentCables.pdb

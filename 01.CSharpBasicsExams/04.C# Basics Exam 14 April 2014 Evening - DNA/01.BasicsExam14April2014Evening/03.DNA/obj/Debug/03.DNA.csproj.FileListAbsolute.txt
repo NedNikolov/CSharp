@@ -1,0 +1,7 @@
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\04.C# Basics Exam 14 April 2014 Evening\01.BasicsExam14April2014Evening\03.DNA\bin\Debug\03.DNA.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\04.C# Basics Exam 14 April 2014 Evening - DNA\01.BasicsExam14April2014Evening\03.DNA\bin\Debug\03.DNA.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\04.C# Basics Exam 14 April 2014 Evening - DNA\01.BasicsExam14April2014Evening\03.DNA\bin\Debug\03.DNA.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\04.C# Basics Exam 14 April 2014 Evening - DNA\01.BasicsExam14April2014Evening\03.DNA\bin\Debug\03.DNA.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\04.C# Basics Exam 14 April 2014 Evening - DNA\01.BasicsExam14April2014Evening\03.DNA\obj\Debug\03.DNA.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\04.C# Basics Exam 14 April 2014 Evening - DNA\01.BasicsExam14April2014Evening\03.DNA\obj\Debug\03.DNA.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\04.C# Basics Exam 14 April 2014 Evening - DNA\01.BasicsExam14April2014Evening\03.DNA\obj\Debug\03.DNA.pdb
