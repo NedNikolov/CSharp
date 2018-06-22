@@ -1,0 +1,6 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\17.ListsMoreEx\03.CamelsBack\bin\Debug\03.CamelsBack.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\17.ListsMoreEx\03.CamelsBack\bin\Debug\03.CamelsBack.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\17.ListsMoreEx\03.CamelsBack\bin\Debug\03.CamelsBack.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\17.ListsMoreEx\03.CamelsBack\obj\Debug\03.CamelsBack.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\17.ListsMoreEx\03.CamelsBack\obj\Debug\03.CamelsBack.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\17.ListsMoreEx\03.CamelsBack\obj\Debug\03.CamelsBack.pdb

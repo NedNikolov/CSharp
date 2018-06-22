@@ -1,0 +1,6 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\08.DefiningMethods\07.GreaterOfTwoValues\bin\Debug\07.GreaterOfTwoValues.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\08.DefiningMethods\07.GreaterOfTwoValues\bin\Debug\07.GreaterOfTwoValues.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\08.DefiningMethods\07.GreaterOfTwoValues\bin\Debug\07.GreaterOfTwoValues.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\08.DefiningMethods\07.GreaterOfTwoValues\obj\Debug\07.GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\08.DefiningMethods\07.GreaterOfTwoValues\obj\Debug\07.GreaterOfTwoValues.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\08.DefiningMethods\07.GreaterOfTwoValues\obj\Debug\07.GreaterOfTwoValues.pdb

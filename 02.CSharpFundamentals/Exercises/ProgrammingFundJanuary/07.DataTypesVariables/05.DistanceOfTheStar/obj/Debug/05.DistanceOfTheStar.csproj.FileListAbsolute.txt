@@ -1,0 +1,6 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\07.DataTypesVariables\05.DistanceOfTheStar\bin\Debug\05.DistanceOfTheStar.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\07.DataTypesVariables\05.DistanceOfTheStar\bin\Debug\05.DistanceOfTheStar.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\07.DataTypesVariables\05.DistanceOfTheStar\bin\Debug\05.DistanceOfTheStar.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\07.DataTypesVariables\05.DistanceOfTheStar\obj\Debug\05.DistanceOfTheStar.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\07.DataTypesVariables\05.DistanceOfTheStar\obj\Debug\05.DistanceOfTheStar.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\07.DataTypesVariables\05.DistanceOfTheStar\obj\Debug\05.DistanceOfTheStar.pdb

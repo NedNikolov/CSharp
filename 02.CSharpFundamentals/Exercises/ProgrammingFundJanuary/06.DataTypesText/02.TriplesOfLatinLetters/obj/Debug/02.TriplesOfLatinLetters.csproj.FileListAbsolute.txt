@@ -1,0 +1,6 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\06.DataTypesText\02.TriplesOfLatinLetters\bin\Debug\02.TriplesOfLatinLetters.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\06.DataTypesText\02.TriplesOfLatinLetters\bin\Debug\02.TriplesOfLatinLetters.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\06.DataTypesText\02.TriplesOfLatinLetters\bin\Debug\02.TriplesOfLatinLetters.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\06.DataTypesText\02.TriplesOfLatinLetters\obj\Debug\02.TriplesOfLatinLetters.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\06.DataTypesText\02.TriplesOfLatinLetters\obj\Debug\02.TriplesOfLatinLetters.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\06.DataTypesText\02.TriplesOfLatinLetters\obj\Debug\02.TriplesOfLatinLetters.pdb

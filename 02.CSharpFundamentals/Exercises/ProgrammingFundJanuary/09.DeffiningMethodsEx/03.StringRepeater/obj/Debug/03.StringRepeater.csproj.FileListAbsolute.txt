@@ -1,0 +1,6 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\09.DeffiningMethodsEx\03.StringRepeater\bin\Debug\03.StringRepeater.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\09.DeffiningMethodsEx\03.StringRepeater\bin\Debug\03.StringRepeater.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\09.DeffiningMethodsEx\03.StringRepeater\bin\Debug\03.StringRepeater.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\09.DeffiningMethodsEx\03.StringRepeater\obj\Debug\03.StringRepeater.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\09.DeffiningMethodsEx\03.StringRepeater\obj\Debug\03.StringRepeater.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\09.DeffiningMethodsEx\03.StringRepeater\obj\Debug\03.StringRepeater.pdb

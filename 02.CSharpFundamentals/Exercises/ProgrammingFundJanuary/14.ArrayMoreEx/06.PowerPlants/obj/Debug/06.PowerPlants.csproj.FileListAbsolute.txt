@@ -1,0 +1,6 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\14.ArrayMoreEx\06.PowerPlants\bin\Debug\06.PowerPlants.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\14.ArrayMoreEx\06.PowerPlants\bin\Debug\06.PowerPlants.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\14.ArrayMoreEx\06.PowerPlants\bin\Debug\06.PowerPlants.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\14.ArrayMoreEx\06.PowerPlants\obj\Debug\06.PowerPlants.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\14.ArrayMoreEx\06.PowerPlants\obj\Debug\06.PowerPlants.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\14.ArrayMoreEx\06.PowerPlants\obj\Debug\06.PowerPlants.pdb

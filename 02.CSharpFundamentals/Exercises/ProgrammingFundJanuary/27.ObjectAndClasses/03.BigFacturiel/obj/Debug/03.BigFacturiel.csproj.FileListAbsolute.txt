@@ -1,0 +1,7 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\27.ObjectAndClasses\03.BigFacturiel\bin\Debug\03.BigFacturiel.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\27.ObjectAndClasses\03.BigFacturiel\bin\Debug\03.BigFacturiel.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\27.ObjectAndClasses\03.BigFacturiel\bin\Debug\03.BigFacturiel.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\27.ObjectAndClasses\03.BigFacturiel\obj\Debug\03.BigFacturiel.csprojResolveAssemblyReference.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\27.ObjectAndClasses\03.BigFacturiel\obj\Debug\03.BigFacturiel.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\27.ObjectAndClasses\03.BigFacturiel\obj\Debug\03.BigFacturiel.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\27.ObjectAndClasses\03.BigFacturiel\obj\Debug\03.BigFacturiel.pdb

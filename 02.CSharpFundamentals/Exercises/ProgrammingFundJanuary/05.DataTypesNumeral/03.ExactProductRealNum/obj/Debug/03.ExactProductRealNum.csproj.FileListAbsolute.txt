@@ -1,0 +1,7 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\05.DataTypesNumeral\03.ExactProductRealNum\bin\Debug\03.ExactProductRealNum.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\05.DataTypesNumeral\03.ExactProductRealNum\bin\Debug\03.ExactProductRealNum.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\05.DataTypesNumeral\03.ExactProductRealNum\bin\Debug\03.ExactProductRealNum.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\05.DataTypesNumeral\03.ExactProductRealNum\obj\Debug\03.ExactProductRealNum.csprojResolveAssemblyReference.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\05.DataTypesNumeral\03.ExactProductRealNum\obj\Debug\03.ExactProductRealNum.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\05.DataTypesNumeral\03.ExactProductRealNum\obj\Debug\03.ExactProductRealNum.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\05.DataTypesNumeral\03.ExactProductRealNum\obj\Debug\03.ExactProductRealNum.pdb

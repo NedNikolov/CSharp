@@ -1,0 +1,6 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\08.DefiningMethods\04.DrawFilledSquare\bin\Debug\04.DrawFilledSquare.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\08.DefiningMethods\04.DrawFilledSquare\bin\Debug\04.DrawFilledSquare.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\08.DefiningMethods\04.DrawFilledSquare\bin\Debug\04.DrawFilledSquare.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\08.DefiningMethods\04.DrawFilledSquare\obj\Debug\04.DrawFilledSquare.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\08.DefiningMethods\04.DrawFilledSquare\obj\Debug\04.DrawFilledSquare.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\08.DefiningMethods\04.DrawFilledSquare\obj\Debug\04.DrawFilledSquare.pdb

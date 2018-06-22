@@ -1,0 +1,6 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\16.ListsEx\06.StuckZipper\bin\Debug\06.StuckZipper.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\16.ListsEx\06.StuckZipper\bin\Debug\06.StuckZipper.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\16.ListsEx\06.StuckZipper\bin\Debug\06.StuckZipper.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\16.ListsEx\06.StuckZipper\obj\Debug\06.StuckZipper.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\16.ListsEx\06.StuckZipper\obj\Debug\06.StuckZipper.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\16.ListsEx\06.StuckZipper\obj\Debug\06.StuckZipper.pdb

@@ -1,0 +1,7 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\24.NestedDictEx\06.ForumTopic\bin\Debug\06.ForumTopic.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\24.NestedDictEx\06.ForumTopic\bin\Debug\06.ForumTopic.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\24.NestedDictEx\06.ForumTopic\bin\Debug\06.ForumTopic.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\24.NestedDictEx\06.ForumTopic\obj\Debug\06.ForumTopic.csprojResolveAssemblyReference.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\24.NestedDictEx\06.ForumTopic\obj\Debug\06.ForumTopic.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\24.NestedDictEx\06.ForumTopic\obj\Debug\06.ForumTopic.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\24.NestedDictEx\06.ForumTopic\obj\Debug\06.ForumTopic.pdb

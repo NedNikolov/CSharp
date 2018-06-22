@@ -1,0 +1,6 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\07.DataTypesVariables\07.FromTerabytesToBits\bin\Debug\07.FromTerabytesToBits.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\07.DataTypesVariables\07.FromTerabytesToBits\bin\Debug\07.FromTerabytesToBits.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\07.DataTypesVariables\07.FromTerabytesToBits\bin\Debug\07.FromTerabytesToBits.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\07.DataTypesVariables\07.FromTerabytesToBits\obj\Debug\07.FromTerabytesToBits.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\07.DataTypesVariables\07.FromTerabytesToBits\obj\Debug\07.FromTerabytesToBits.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\07.DataTypesVariables\07.FromTerabytesToBits\obj\Debug\07.FromTerabytesToBits.pdb

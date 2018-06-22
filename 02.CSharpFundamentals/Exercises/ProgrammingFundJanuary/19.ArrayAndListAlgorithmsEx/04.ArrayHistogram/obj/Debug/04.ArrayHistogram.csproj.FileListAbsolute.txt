@@ -1,0 +1,7 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\19.ArrayAndListAlgorithmsEx\04.ArrayHistogram\bin\Debug\04.ArrayHistogram.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\19.ArrayAndListAlgorithmsEx\04.ArrayHistogram\bin\Debug\04.ArrayHistogram.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\19.ArrayAndListAlgorithmsEx\04.ArrayHistogram\bin\Debug\04.ArrayHistogram.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\19.ArrayAndListAlgorithmsEx\04.ArrayHistogram\obj\Debug\04.ArrayHistogram.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\19.ArrayAndListAlgorithmsEx\04.ArrayHistogram\obj\Debug\04.ArrayHistogram.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\19.ArrayAndListAlgorithmsEx\04.ArrayHistogram\obj\Debug\04.ArrayHistogram.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\19.ArrayAndListAlgorithmsEx\04.ArrayHistogram\obj\Debug\04.ArrayHistogram.csprojResolveAssemblyReference.cache

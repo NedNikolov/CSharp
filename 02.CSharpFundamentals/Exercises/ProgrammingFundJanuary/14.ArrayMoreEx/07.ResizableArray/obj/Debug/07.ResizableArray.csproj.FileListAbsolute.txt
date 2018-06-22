@@ -1,0 +1,6 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\14.ArrayMoreEx\07.ResizableArray\bin\Debug\07.ResizableArray.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\14.ArrayMoreEx\07.ResizableArray\bin\Debug\07.ResizableArray.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\14.ArrayMoreEx\07.ResizableArray\bin\Debug\07.ResizableArray.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\14.ArrayMoreEx\07.ResizableArray\obj\Debug\07.ResizableArray.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\14.ArrayMoreEx\07.ResizableArray\obj\Debug\07.ResizableArray.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\14.ArrayMoreEx\07.ResizableArray\obj\Debug\07.ResizableArray.pdb

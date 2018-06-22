@@ -1,0 +1,6 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\13.ArraysEx\06.EqualSeqNums\bin\Debug\06.EqualSeqNums.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\13.ArraysEx\06.EqualSeqNums\bin\Debug\06.EqualSeqNums.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\13.ArraysEx\06.EqualSeqNums\bin\Debug\06.EqualSeqNums.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\13.ArraysEx\06.EqualSeqNums\obj\Debug\06.EqualSeqNums.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\13.ArraysEx\06.EqualSeqNums\obj\Debug\06.EqualSeqNums.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\13.ArraysEx\06.EqualSeqNums\obj\Debug\06.EqualSeqNums.pdb

@@ -1,0 +1,7 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\26.LambdaEx\04.SoftUniBeerPong\bin\Debug\04.SoftUniBeerPong.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\26.LambdaEx\04.SoftUniBeerPong\bin\Debug\04.SoftUniBeerPong.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\26.LambdaEx\04.SoftUniBeerPong\bin\Debug\04.SoftUniBeerPong.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\26.LambdaEx\04.SoftUniBeerPong\obj\Debug\04.SoftUniBeerPong.csprojResolveAssemblyReference.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\26.LambdaEx\04.SoftUniBeerPong\obj\Debug\04.SoftUniBeerPong.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\26.LambdaEx\04.SoftUniBeerPong\obj\Debug\04.SoftUniBeerPong.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\26.LambdaEx\04.SoftUniBeerPong\obj\Debug\04.SoftUniBeerPong.pdb

@@ -1,0 +1,6 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\11.DebuggingEx\01.TrickyString\bin\Debug\01.TrickyString.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\11.DebuggingEx\01.TrickyString\bin\Debug\01.TrickyString.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\11.DebuggingEx\01.TrickyString\bin\Debug\01.TrickyString.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\11.DebuggingEx\01.TrickyString\obj\Debug\01.TrickyString.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\11.DebuggingEx\01.TrickyString\obj\Debug\01.TrickyString.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\11.DebuggingEx\01.TrickyString\obj\Debug\01.TrickyString.pdb

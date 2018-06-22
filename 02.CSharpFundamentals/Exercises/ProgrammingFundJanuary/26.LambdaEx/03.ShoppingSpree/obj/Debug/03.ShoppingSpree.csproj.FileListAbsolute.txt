@@ -1,0 +1,7 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\26.LambdaEx\03.ShoppingSpree\bin\Debug\03.ShoppingSpree.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\26.LambdaEx\03.ShoppingSpree\bin\Debug\03.ShoppingSpree.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\26.LambdaEx\03.ShoppingSpree\bin\Debug\03.ShoppingSpree.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\26.LambdaEx\03.ShoppingSpree\obj\Debug\03.ShoppingSpree.csprojResolveAssemblyReference.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\26.LambdaEx\03.ShoppingSpree\obj\Debug\03.ShoppingSpree.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\26.LambdaEx\03.ShoppingSpree\obj\Debug\03.ShoppingSpree.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\26.LambdaEx\03.ShoppingSpree\obj\Debug\03.ShoppingSpree.pdb

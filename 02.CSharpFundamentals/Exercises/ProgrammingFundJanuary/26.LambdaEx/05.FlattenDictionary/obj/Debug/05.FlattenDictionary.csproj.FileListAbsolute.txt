@@ -1,0 +1,7 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\26.LambdaEx\05.FlattenDictionary\bin\Debug\05.FlattenDictionary.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\26.LambdaEx\05.FlattenDictionary\bin\Debug\05.FlattenDictionary.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\26.LambdaEx\05.FlattenDictionary\bin\Debug\05.FlattenDictionary.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\26.LambdaEx\05.FlattenDictionary\obj\Debug\05.FlattenDictionary.csprojResolveAssemblyReference.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\26.LambdaEx\05.FlattenDictionary\obj\Debug\05.FlattenDictionary.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\26.LambdaEx\05.FlattenDictionary\obj\Debug\05.FlattenDictionary.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\26.LambdaEx\05.FlattenDictionary\obj\Debug\05.FlattenDictionary.pdb

@@ -1,0 +1,6 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\22.DictionariesEx\03.MixedPhones\bin\Debug\03.MixedPhones.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\22.DictionariesEx\03.MixedPhones\bin\Debug\03.MixedPhones.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\22.DictionariesEx\03.MixedPhones\bin\Debug\03.MixedPhones.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\22.DictionariesEx\03.MixedPhones\obj\Debug\03.MixedPhones.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\22.DictionariesEx\03.MixedPhones\obj\Debug\03.MixedPhones.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\22.DictionariesEx\03.MixedPhones\obj\Debug\03.MixedPhones.pdb

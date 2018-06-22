@@ -1,0 +1,7 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\27.ObjectAndClasses\07.SalesReport\bin\Debug\07.SalesReport.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\27.ObjectAndClasses\07.SalesReport\bin\Debug\07.SalesReport.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\27.ObjectAndClasses\07.SalesReport\bin\Debug\07.SalesReport.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\27.ObjectAndClasses\07.SalesReport\obj\Debug\07.SalesReport.csprojResolveAssemblyReference.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\27.ObjectAndClasses\07.SalesReport\obj\Debug\07.SalesReport.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\27.ObjectAndClasses\07.SalesReport\obj\Debug\07.SalesReport.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\27.ObjectAndClasses\07.SalesReport\obj\Debug\07.SalesReport.pdb

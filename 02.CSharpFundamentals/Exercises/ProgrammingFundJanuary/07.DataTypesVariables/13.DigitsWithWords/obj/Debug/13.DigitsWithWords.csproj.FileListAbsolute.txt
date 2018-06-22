@@ -1,0 +1,6 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\07.DataTypesVariables\13.DigitsWithWords\bin\Debug\13.DigitsWithWords.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\07.DataTypesVariables\13.DigitsWithWords\bin\Debug\13.DigitsWithWords.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\07.DataTypesVariables\13.DigitsWithWords\bin\Debug\13.DigitsWithWords.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\07.DataTypesVariables\13.DigitsWithWords\obj\Debug\13.DigitsWithWords.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\07.DataTypesVariables\13.DigitsWithWords\obj\Debug\13.DigitsWithWords.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\07.DataTypesVariables\13.DigitsWithWords\obj\Debug\13.DigitsWithWords.pdb

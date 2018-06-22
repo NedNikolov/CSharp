@@ -1,0 +1,6 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\12.Arrays\04.RotateArrayStrings\bin\Debug\04.RotateArrayStrings.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\12.Arrays\04.RotateArrayStrings\bin\Debug\04.RotateArrayStrings.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\12.Arrays\04.RotateArrayStrings\bin\Debug\04.RotateArrayStrings.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\12.Arrays\04.RotateArrayStrings\obj\Debug\04.RotateArrayStrings.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\12.Arrays\04.RotateArrayStrings\obj\Debug\04.RotateArrayStrings.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\12.Arrays\04.RotateArrayStrings\obj\Debug\04.RotateArrayStrings.pdb

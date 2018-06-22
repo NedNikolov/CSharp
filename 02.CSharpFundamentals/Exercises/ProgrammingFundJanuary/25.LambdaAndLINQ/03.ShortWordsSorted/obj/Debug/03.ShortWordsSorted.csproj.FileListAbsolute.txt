@@ -1,0 +1,7 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\25.LambdaAndLINQ\03.ShortWordsSorted\bin\Debug\03.ShortWordsSorted.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\25.LambdaAndLINQ\03.ShortWordsSorted\bin\Debug\03.ShortWordsSorted.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\25.LambdaAndLINQ\03.ShortWordsSorted\bin\Debug\03.ShortWordsSorted.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\25.LambdaAndLINQ\03.ShortWordsSorted\obj\Debug\03.ShortWordsSorted.csprojResolveAssemblyReference.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\25.LambdaAndLINQ\03.ShortWordsSorted\obj\Debug\03.ShortWordsSorted.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\25.LambdaAndLINQ\03.ShortWordsSorted\obj\Debug\03.ShortWordsSorted.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\25.LambdaAndLINQ\03.ShortWordsSorted\obj\Debug\03.ShortWordsSorted.pdb

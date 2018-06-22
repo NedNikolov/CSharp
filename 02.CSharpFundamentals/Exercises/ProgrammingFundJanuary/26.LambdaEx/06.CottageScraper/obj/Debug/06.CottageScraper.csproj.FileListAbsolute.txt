@@ -1,0 +1,7 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\26.LambdaEx\06.CottageScraper\bin\Debug\06.CottageScraper.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\26.LambdaEx\06.CottageScraper\bin\Debug\06.CottageScraper.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\26.LambdaEx\06.CottageScraper\bin\Debug\06.CottageScraper.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\26.LambdaEx\06.CottageScraper\obj\Debug\06.CottageScraper.csprojResolveAssemblyReference.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\26.LambdaEx\06.CottageScraper\obj\Debug\06.CottageScraper.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\26.LambdaEx\06.CottageScraper\obj\Debug\06.CottageScraper.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\26.LambdaEx\06.CottageScraper\obj\Debug\06.CottageScraper.pdb

@@ -1,0 +1,7 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\23.NestedDictionaries\02.CitiesByCont\bin\Debug\02.CitiesByCont.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\23.NestedDictionaries\02.CitiesByCont\bin\Debug\02.CitiesByCont.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\23.NestedDictionaries\02.CitiesByCont\bin\Debug\02.CitiesByCont.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\23.NestedDictionaries\02.CitiesByCont\obj\Debug\02.CitiesByCont.csprojResolveAssemblyReference.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\23.NestedDictionaries\02.CitiesByCont\obj\Debug\02.CitiesByCont.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\23.NestedDictionaries\02.CitiesByCont\obj\Debug\02.CitiesByCont.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\23.NestedDictionaries\02.CitiesByCont\obj\Debug\02.CitiesByCont.pdb

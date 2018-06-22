@@ -1,0 +1,7 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\19.ArrayAndListAlgorithmsEx\06.Batteries\bin\Debug\06.Batteries.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\19.ArrayAndListAlgorithmsEx\06.Batteries\bin\Debug\06.Batteries.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\19.ArrayAndListAlgorithmsEx\06.Batteries\bin\Debug\06.Batteries.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\19.ArrayAndListAlgorithmsEx\06.Batteries\obj\Debug\06.Batteries.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\19.ArrayAndListAlgorithmsEx\06.Batteries\obj\Debug\06.Batteries.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\19.ArrayAndListAlgorithmsEx\06.Batteries\obj\Debug\06.Batteries.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\19.ArrayAndListAlgorithmsEx\06.Batteries\obj\Debug\06.Batteries.csprojResolveAssemblyReference.cache

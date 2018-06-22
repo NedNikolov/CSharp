@@ -1,0 +1,6 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\17.ListsMoreEx\04.UnunionLists\bin\Debug\04.UnunionLists.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\17.ListsMoreEx\04.UnunionLists\bin\Debug\04.UnunionLists.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\17.ListsMoreEx\04.UnunionLists\bin\Debug\04.UnunionLists.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\17.ListsMoreEx\04.UnunionLists\obj\Debug\04.UnunionLists.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\17.ListsMoreEx\04.UnunionLists\obj\Debug\04.UnunionLists.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\17.ListsMoreEx\04.UnunionLists\obj\Debug\04.UnunionLists.pdb

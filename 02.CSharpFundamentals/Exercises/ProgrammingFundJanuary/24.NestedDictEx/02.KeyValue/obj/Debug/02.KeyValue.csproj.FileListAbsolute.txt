@@ -1,0 +1,7 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\24.NestedDictEx\02.KeyValue\bin\Debug\02.KeyValue.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\24.NestedDictEx\02.KeyValue\bin\Debug\02.KeyValue.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\24.NestedDictEx\02.KeyValue\bin\Debug\02.KeyValue.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\24.NestedDictEx\02.KeyValue\obj\Debug\02.KeyValue.csprojResolveAssemblyReference.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\24.NestedDictEx\02.KeyValue\obj\Debug\02.KeyValue.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\24.NestedDictEx\02.KeyValue\obj\Debug\02.KeyValue.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\24.NestedDictEx\02.KeyValue\obj\Debug\02.KeyValue.pdb

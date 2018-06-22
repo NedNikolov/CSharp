@@ -1,0 +1,7 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\09.DeffiningMethodsEx\05.IntegerToBase\bin\Debug\05.IntegerToBase.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\09.DeffiningMethodsEx\05.IntegerToBase\bin\Debug\05.IntegerToBase.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\09.DeffiningMethodsEx\05.IntegerToBase\bin\Debug\05.IntegerToBase.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\09.DeffiningMethodsEx\05.IntegerToBase\obj\Debug\05.IntegerToBase.csprojResolveAssemblyReference.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\09.DeffiningMethodsEx\05.IntegerToBase\obj\Debug\05.IntegerToBase.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\09.DeffiningMethodsEx\05.IntegerToBase\obj\Debug\05.IntegerToBase.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\09.DeffiningMethodsEx\05.IntegerToBase\obj\Debug\05.IntegerToBase.pdb

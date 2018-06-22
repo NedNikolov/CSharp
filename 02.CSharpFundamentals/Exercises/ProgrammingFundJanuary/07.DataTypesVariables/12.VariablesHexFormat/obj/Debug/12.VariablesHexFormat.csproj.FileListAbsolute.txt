@@ -1,0 +1,6 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\07.DataTypesVariables\12.VariablesHexFormat\bin\Debug\12.VariablesHexFormat.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\07.DataTypesVariables\12.VariablesHexFormat\bin\Debug\12.VariablesHexFormat.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\07.DataTypesVariables\12.VariablesHexFormat\bin\Debug\12.VariablesHexFormat.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\07.DataTypesVariables\12.VariablesHexFormat\obj\Debug\12.VariablesHexFormat.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\07.DataTypesVariables\12.VariablesHexFormat\obj\Debug\12.VariablesHexFormat.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\07.DataTypesVariables\12.VariablesHexFormat\obj\Debug\12.VariablesHexFormat.pdb

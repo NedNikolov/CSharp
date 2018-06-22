@@ -1,0 +1,6 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\15.Lists\03.SumAdjacentEqualNums\bin\Debug\03.SumAdjacentEqualNums.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\15.Lists\03.SumAdjacentEqualNums\bin\Debug\03.SumAdjacentEqualNums.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\15.Lists\03.SumAdjacentEqualNums\bin\Debug\03.SumAdjacentEqualNums.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\15.Lists\03.SumAdjacentEqualNums\obj\Debug\03.SumAdjacentEqualNums.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\15.Lists\03.SumAdjacentEqualNums\obj\Debug\03.SumAdjacentEqualNums.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\15.Lists\03.SumAdjacentEqualNums\obj\Debug\03.SumAdjacentEqualNums.pdb

@@ -1,0 +1,6 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\09.DeffiningMethodsEx\07.NumsToWords\bin\Debug\07.NumsToWords.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\09.DeffiningMethodsEx\07.NumsToWords\bin\Debug\07.NumsToWords.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\09.DeffiningMethodsEx\07.NumsToWords\bin\Debug\07.NumsToWords.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\09.DeffiningMethodsEx\07.NumsToWords\obj\Debug\07.NumsToWords.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\09.DeffiningMethodsEx\07.NumsToWords\obj\Debug\07.NumsToWords.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\09.DeffiningMethodsEx\07.NumsToWords\obj\Debug\07.NumsToWords.pdb

@@ -1,0 +1,6 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\25.LambdaAndLINQ\02.Largest3Nums\bin\Debug\02.Largest3Nums.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\25.LambdaAndLINQ\02.Largest3Nums\bin\Debug\02.Largest3Nums.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\25.LambdaAndLINQ\02.Largest3Nums\bin\Debug\02.Largest3Nums.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\25.LambdaAndLINQ\02.Largest3Nums\obj\Debug\02.Largest3Nums.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\25.LambdaAndLINQ\02.Largest3Nums\obj\Debug\02.Largest3Nums.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\25.LambdaAndLINQ\02.Largest3Nums\obj\Debug\02.Largest3Nums.pdb

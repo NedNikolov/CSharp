@@ -1,0 +1,7 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\27.ObjectAndClasses\02.RandomizeWords\bin\Debug\02.RandomizeWords.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\27.ObjectAndClasses\02.RandomizeWords\bin\Debug\02.RandomizeWords.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\27.ObjectAndClasses\02.RandomizeWords\bin\Debug\02.RandomizeWords.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\27.ObjectAndClasses\02.RandomizeWords\obj\Debug\02.RandomizeWords.csprojResolveAssemblyReference.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\27.ObjectAndClasses\02.RandomizeWords\obj\Debug\02.RandomizeWords.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\27.ObjectAndClasses\02.RandomizeWords\obj\Debug\02.RandomizeWords.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\27.ObjectAndClasses\02.RandomizeWords\obj\Debug\02.RandomizeWords.pdb

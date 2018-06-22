@@ -1,0 +1,6 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\14.ArrayMoreEx\02.ArrayEqualToTheirIndex\bin\Debug\02.ArrayEqualToTheirIndex.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\14.ArrayMoreEx\02.ArrayEqualToTheirIndex\bin\Debug\02.ArrayEqualToTheirIndex.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\14.ArrayMoreEx\02.ArrayEqualToTheirIndex\bin\Debug\02.ArrayEqualToTheirIndex.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\14.ArrayMoreEx\02.ArrayEqualToTheirIndex\obj\Debug\02.ArrayEqualToTheirIndex.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\14.ArrayMoreEx\02.ArrayEqualToTheirIndex\obj\Debug\02.ArrayEqualToTheirIndex.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\14.ArrayMoreEx\02.ArrayEqualToTheirIndex\obj\Debug\02.ArrayEqualToTheirIndex.pdb

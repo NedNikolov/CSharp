@@ -1,0 +1,7 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\19.ArrayAndListAlgorithmsEx\05.DecodeRadioFrequen\bin\Debug\05.DecodeRadioFrequen.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\19.ArrayAndListAlgorithmsEx\05.DecodeRadioFrequen\bin\Debug\05.DecodeRadioFrequen.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\19.ArrayAndListAlgorithmsEx\05.DecodeRadioFrequen\bin\Debug\05.DecodeRadioFrequen.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\19.ArrayAndListAlgorithmsEx\05.DecodeRadioFrequen\obj\Debug\05.DecodeRadioFrequen.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\19.ArrayAndListAlgorithmsEx\05.DecodeRadioFrequen\obj\Debug\05.DecodeRadioFrequen.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\19.ArrayAndListAlgorithmsEx\05.DecodeRadioFrequen\obj\Debug\05.DecodeRadioFrequen.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\19.ArrayAndListAlgorithmsEx\05.DecodeRadioFrequen\obj\Debug\05.DecodeRadioFrequen.csprojResolveAssemblyReference.cache

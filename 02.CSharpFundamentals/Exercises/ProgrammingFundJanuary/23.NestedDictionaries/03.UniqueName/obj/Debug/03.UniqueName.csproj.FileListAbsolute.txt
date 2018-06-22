@@ -1,0 +1,6 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\23.NestedDictionaries\03.UniqueName\bin\Debug\03.UniqueName.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\23.NestedDictionaries\03.UniqueName\bin\Debug\03.UniqueName.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\23.NestedDictionaries\03.UniqueName\bin\Debug\03.UniqueName.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\23.NestedDictionaries\03.UniqueName\obj\Debug\03.UniqueName.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\23.NestedDictionaries\03.UniqueName\obj\Debug\03.UniqueName.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\23.NestedDictionaries\03.UniqueName\obj\Debug\03.UniqueName.pdb

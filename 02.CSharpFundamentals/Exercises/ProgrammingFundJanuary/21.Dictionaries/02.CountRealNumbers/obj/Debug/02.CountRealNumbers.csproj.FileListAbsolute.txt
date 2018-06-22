@@ -1,0 +1,7 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\21.Dictionaries\02.CountRealNumbers\bin\Debug\02.CountRealNumbers.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\21.Dictionaries\02.CountRealNumbers\bin\Debug\02.CountRealNumbers.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\21.Dictionaries\02.CountRealNumbers\bin\Debug\02.CountRealNumbers.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\21.Dictionaries\02.CountRealNumbers\obj\Debug\02.CountRealNumbers.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\21.Dictionaries\02.CountRealNumbers\obj\Debug\02.CountRealNumbers.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\21.Dictionaries\02.CountRealNumbers\obj\Debug\02.CountRealNumbers.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\21.Dictionaries\02.CountRealNumbers\obj\Debug\02.CountRealNumbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\27.ObjectAndClasses\05.ClosestObject\obj\Debug\05.ClosestObject.csprojResolveAssemblyReference.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\27.ObjectAndClasses\05.ClosestObject\obj\Debug\05.ClosestObject.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\27.ObjectAndClasses\05.ClosestObject\bin\Debug\05.ClosestObject.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\27.ObjectAndClasses\05.ClosestObject\bin\Debug\05.ClosestObject.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\27.ObjectAndClasses\05.ClosestObject\bin\Debug\05.ClosestObject.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\27.ObjectAndClasses\05.ClosestObject\obj\Debug\05.ClosestObject.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\27.ObjectAndClasses\05.ClosestObject\obj\Debug\05.ClosestObject.pdb

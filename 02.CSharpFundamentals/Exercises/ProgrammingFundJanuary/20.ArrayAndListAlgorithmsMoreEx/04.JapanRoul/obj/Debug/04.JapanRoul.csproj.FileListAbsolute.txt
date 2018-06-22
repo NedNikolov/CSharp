@@ -1,0 +1,7 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\20.ArrayAndListAlgorithmsMoreEx\04.JapanRoul\bin\Debug\04.JapanRoul.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\20.ArrayAndListAlgorithmsMoreEx\04.JapanRoul\bin\Debug\04.JapanRoul.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\20.ArrayAndListAlgorithmsMoreEx\04.JapanRoul\bin\Debug\04.JapanRoul.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\20.ArrayAndListAlgorithmsMoreEx\04.JapanRoul\obj\Debug\04.JapanRoul.csprojResolveAssemblyReference.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\20.ArrayAndListAlgorithmsMoreEx\04.JapanRoul\obj\Debug\04.JapanRoul.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\20.ArrayAndListAlgorithmsMoreEx\04.JapanRoul\obj\Debug\04.JapanRoul.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\20.ArrayAndListAlgorithmsMoreEx\04.JapanRoul\obj\Debug\04.JapanRoul.pdb

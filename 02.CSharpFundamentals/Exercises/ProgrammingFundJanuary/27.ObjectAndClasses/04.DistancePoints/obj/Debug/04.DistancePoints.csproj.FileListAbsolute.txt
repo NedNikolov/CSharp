@@ -1,0 +1,7 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\27.ObjectAndClasses\04.DistancePoints\bin\Debug\04.DistancePoints.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\27.ObjectAndClasses\04.DistancePoints\bin\Debug\04.DistancePoints.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\27.ObjectAndClasses\04.DistancePoints\bin\Debug\04.DistancePoints.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\27.ObjectAndClasses\04.DistancePoints\obj\Debug\04.DistancePoints.csprojResolveAssemblyReference.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\27.ObjectAndClasses\04.DistancePoints\obj\Debug\04.DistancePoints.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\27.ObjectAndClasses\04.DistancePoints\obj\Debug\04.DistancePoints.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\27.ObjectAndClasses\04.DistancePoints\obj\Debug\04.DistancePoints.pdb

@@ -1,0 +1,6 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\16.ListsEx\05.TearListInHalf\bin\Debug\05.TearListInHalf.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\16.ListsEx\05.TearListInHalf\bin\Debug\05.TearListInHalf.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\16.ListsEx\05.TearListInHalf\bin\Debug\05.TearListInHalf.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\16.ListsEx\05.TearListInHalf\obj\Debug\05.TearListInHalf.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\16.ListsEx\05.TearListInHalf\obj\Debug\05.TearListInHalf.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\16.ListsEx\05.TearListInHalf\obj\Debug\05.TearListInHalf.pdb

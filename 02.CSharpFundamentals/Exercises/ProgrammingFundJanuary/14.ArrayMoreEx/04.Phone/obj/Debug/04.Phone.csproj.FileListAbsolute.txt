@@ -1,0 +1,6 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\14.ArrayMoreEx\04.Phone\bin\Debug\04.Phone.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\14.ArrayMoreEx\04.Phone\bin\Debug\04.Phone.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\14.ArrayMoreEx\04.Phone\bin\Debug\04.Phone.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\14.ArrayMoreEx\04.Phone\obj\Debug\04.Phone.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\14.ArrayMoreEx\04.Phone\obj\Debug\04.Phone.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\14.ArrayMoreEx\04.Phone\obj\Debug\04.Phone.pdb

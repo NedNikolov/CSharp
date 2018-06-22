@@ -1,0 +1,6 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\11.DebuggingEx\04.MiningCoins\bin\Debug\04.MiningCoins.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\11.DebuggingEx\04.MiningCoins\bin\Debug\04.MiningCoins.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\11.DebuggingEx\04.MiningCoins\bin\Debug\04.MiningCoins.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\11.DebuggingEx\04.MiningCoins\obj\Debug\04.MiningCoins.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\11.DebuggingEx\04.MiningCoins\obj\Debug\04.MiningCoins.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\11.DebuggingEx\04.MiningCoins\obj\Debug\04.MiningCoins.pdb

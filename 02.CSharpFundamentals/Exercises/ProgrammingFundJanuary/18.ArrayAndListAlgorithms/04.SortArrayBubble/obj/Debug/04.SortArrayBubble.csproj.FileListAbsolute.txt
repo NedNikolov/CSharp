@@ -1,0 +1,6 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\18.ArrayAndListAlgorithms\04.SortArrayBubble\bin\Debug\04.SortArrayBubble.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\18.ArrayAndListAlgorithms\04.SortArrayBubble\bin\Debug\04.SortArrayBubble.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\18.ArrayAndListAlgorithms\04.SortArrayBubble\bin\Debug\04.SortArrayBubble.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\18.ArrayAndListAlgorithms\04.SortArrayBubble\obj\Debug\04.SortArrayBubble.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\18.ArrayAndListAlgorithms\04.SortArrayBubble\obj\Debug\04.SortArrayBubble.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\18.ArrayAndListAlgorithms\04.SortArrayBubble\obj\Debug\04.SortArrayBubble.pdb

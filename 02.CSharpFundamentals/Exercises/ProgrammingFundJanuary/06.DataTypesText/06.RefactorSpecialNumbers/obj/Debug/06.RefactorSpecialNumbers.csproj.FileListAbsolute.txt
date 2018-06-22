@@ -1,0 +1,6 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\06.DataTypesText\06.RefactorSpecialNumbers\bin\Debug\06.RefactorSpecialNumbers.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\06.DataTypesText\06.RefactorSpecialNumbers\bin\Debug\06.RefactorSpecialNumbers.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\06.DataTypesText\06.RefactorSpecialNumbers\bin\Debug\06.RefactorSpecialNumbers.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\06.DataTypesText\06.RefactorSpecialNumbers\obj\Debug\06.RefactorSpecialNumbers.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\06.DataTypesText\06.RefactorSpecialNumbers\obj\Debug\06.RefactorSpecialNumbers.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\06.DataTypesText\06.RefactorSpecialNumbers\obj\Debug\06.RefactorSpecialNumbers.pdb

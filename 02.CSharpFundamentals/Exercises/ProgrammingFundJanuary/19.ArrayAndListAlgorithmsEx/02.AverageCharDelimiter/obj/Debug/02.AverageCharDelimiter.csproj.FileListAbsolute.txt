@@ -1,0 +1,6 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\19.ArrayAndListAlgorithmsEx\02.AverageCharDelimiter\bin\Debug\02.AverageCharDelimiter.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\19.ArrayAndListAlgorithmsEx\02.AverageCharDelimiter\bin\Debug\02.AverageCharDelimiter.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\19.ArrayAndListAlgorithmsEx\02.AverageCharDelimiter\bin\Debug\02.AverageCharDelimiter.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\19.ArrayAndListAlgorithmsEx\02.AverageCharDelimiter\obj\Debug\02.AverageCharDelimiter.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\19.ArrayAndListAlgorithmsEx\02.AverageCharDelimiter\obj\Debug\02.AverageCharDelimiter.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\19.ArrayAndListAlgorithmsEx\02.AverageCharDelimiter\obj\Debug\02.AverageCharDelimiter.pdb

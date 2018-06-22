@@ -1,0 +1,7 @@
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\20.ArrayAndListAlgorithmsMoreEx\02.BinSearch\bin\Debug\02.BinSearch.exe.config
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\20.ArrayAndListAlgorithmsMoreEx\02.BinSearch\bin\Debug\02.BinSearch.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\20.ArrayAndListAlgorithmsMoreEx\02.BinSearch\bin\Debug\02.BinSearch.pdb
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\20.ArrayAndListAlgorithmsMoreEx\02.BinSearch\obj\Debug\02.BinSearch.csprojResolveAssemblyReference.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\20.ArrayAndListAlgorithmsMoreEx\02.BinSearch\obj\Debug\02.BinSearch.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\20.ArrayAndListAlgorithmsMoreEx\02.BinSearch\obj\Debug\02.BinSearch.exe
+D:\Програмиране\SOFTUNI\Professional Module\00. Tech Module\Проекти\ProgrammingFundamentals\ProgrammingFundJanuary\20.ArrayAndListAlgorithmsMoreEx\02.BinSearch\obj\Debug\02.BinSearch.pdb
