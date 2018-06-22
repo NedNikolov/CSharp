@@ -1,0 +1,6 @@
+C:\Users\asus\Desktop\Programing Basics Exam - 26 March 2016\Exam - 26 March 2016\Exam - 26 March 2016\03.Trip\bin\Debug\03.Trip.exe.config
+C:\Users\asus\Desktop\Programing Basics Exam - 26 March 2016\Exam - 26 March 2016\Exam - 26 March 2016\03.Trip\bin\Debug\03.Trip.exe
+C:\Users\asus\Desktop\Programing Basics Exam - 26 March 2016\Exam - 26 March 2016\Exam - 26 March 2016\03.Trip\bin\Debug\03.Trip.pdb
+C:\Users\asus\Desktop\Programing Basics Exam - 26 March 2016\Exam - 26 March 2016\Exam - 26 March 2016\03.Trip\obj\Debug\03.Trip.exe
+C:\Users\asus\Desktop\Programing Basics Exam - 26 March 2016\Exam - 26 March 2016\Exam - 26 March 2016\03.Trip\obj\Debug\03.Trip.pdb
+C:\Users\asus\Desktop\Programing Basics Exam - 26 March 2016\Exam - 26 March 2016\Exam - 26 March 2016\03.Trip\obj\Debug\03.Trip.csprojResolveAssemblyReference.cache

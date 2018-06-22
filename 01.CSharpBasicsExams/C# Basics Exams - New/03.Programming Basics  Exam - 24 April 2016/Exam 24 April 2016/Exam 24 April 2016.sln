@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Repairing The Tiles", "01.Repairing The Tiles\01.Repairing The Tiles.csproj", "{D295400E-ADB4-4DB2-8C5C-BDFABB480AAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Sleepy Tom Cat", "02.Sleepy Tom Cat\02.Sleepy Tom Cat.csproj", "{AC3DCAFD-7CCE-4A1C-84DD-25CD7B00AD94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Operations", "03.Operations\03.Operations.csproj", "{BDAE6153-F020-40E6-9123-5C10459D7A99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D295400E-ADB4-4DB2-8C5C-BDFABB480AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D295400E-ADB4-4DB2-8C5C-BDFABB480AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D295400E-ADB4-4DB2-8C5C-BDFABB480AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D295400E-ADB4-4DB2-8C5C-BDFABB480AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC3DCAFD-7CCE-4A1C-84DD-25CD7B00AD94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC3DCAFD-7CCE-4A1C-84DD-25CD7B00AD94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC3DCAFD-7CCE-4A1C-84DD-25CD7B00AD94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC3DCAFD-7CCE-4A1C-84DD-25CD7B00AD94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDAE6153-F020-40E6-9123-5C10459D7A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDAE6153-F020-40E6-9123-5C10459D7A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDAE6153-F020-40E6-9123-5C10459D7A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDAE6153-F020-40E6-9123-5C10459D7A99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

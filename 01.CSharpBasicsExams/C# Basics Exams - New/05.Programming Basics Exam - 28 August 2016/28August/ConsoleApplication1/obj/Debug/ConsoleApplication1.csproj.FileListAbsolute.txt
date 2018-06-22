@@ -1,0 +1,6 @@
+C:\Users\asus\Desktop\Programming Basics Exam - 28 August 2016\28August\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\asus\Desktop\Programming Basics Exam - 28 August 2016\28August\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\asus\Desktop\Programming Basics Exam - 28 August 2016\28August\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\asus\Desktop\Programming Basics Exam - 28 August 2016\28August\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\Programming Basics Exam - 28 August 2016\28August\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\asus\Desktop\Programming Basics Exam - 28 August 2016\28August\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

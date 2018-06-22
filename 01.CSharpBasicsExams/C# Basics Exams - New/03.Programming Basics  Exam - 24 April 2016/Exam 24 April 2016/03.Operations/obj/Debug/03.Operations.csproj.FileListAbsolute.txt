@@ -1,0 +1,6 @@
+C:\Users\asus\Desktop\Programing Basics  Exam - 24 April 2016\Exam 24 April 2016\03.Operations\bin\Debug\03.Operations.exe.config
+C:\Users\asus\Desktop\Programing Basics  Exam - 24 April 2016\Exam 24 April 2016\03.Operations\bin\Debug\03.Operations.exe
+C:\Users\asus\Desktop\Programing Basics  Exam - 24 April 2016\Exam 24 April 2016\03.Operations\bin\Debug\03.Operations.pdb
+C:\Users\asus\Desktop\Programing Basics  Exam - 24 April 2016\Exam 24 April 2016\03.Operations\obj\Debug\03.Operations.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\Programing Basics  Exam - 24 April 2016\Exam 24 April 2016\03.Operations\obj\Debug\03.Operations.exe
+C:\Users\asus\Desktop\Programing Basics  Exam - 24 April 2016\Exam 24 April 2016\03.Operations\obj\Debug\03.Operations.pdb

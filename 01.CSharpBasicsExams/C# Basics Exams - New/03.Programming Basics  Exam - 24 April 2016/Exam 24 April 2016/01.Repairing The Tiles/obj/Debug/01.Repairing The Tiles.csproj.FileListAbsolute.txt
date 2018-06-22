@@ -1,0 +1,6 @@
+C:\Users\asus\Desktop\Programing Basics  Exam - 24 April 2016\Exam 24 April 2016\01.Repairing The Tiles\bin\Debug\01.Repairing The Tiles.exe.config
+C:\Users\asus\Desktop\Programing Basics  Exam - 24 April 2016\Exam 24 April 2016\01.Repairing The Tiles\bin\Debug\01.Repairing The Tiles.exe
+C:\Users\asus\Desktop\Programing Basics  Exam - 24 April 2016\Exam 24 April 2016\01.Repairing The Tiles\bin\Debug\01.Repairing The Tiles.pdb
+C:\Users\asus\Desktop\Programing Basics  Exam - 24 April 2016\Exam 24 April 2016\01.Repairing The Tiles\obj\Debug\01.Repairing The Tiles.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\Programing Basics  Exam - 24 April 2016\Exam 24 April 2016\01.Repairing The Tiles\obj\Debug\01.Repairing The Tiles.exe
+C:\Users\asus\Desktop\Programing Basics  Exam - 24 April 2016\Exam 24 April 2016\01.Repairing The Tiles\obj\Debug\01.Repairing The Tiles.pdb

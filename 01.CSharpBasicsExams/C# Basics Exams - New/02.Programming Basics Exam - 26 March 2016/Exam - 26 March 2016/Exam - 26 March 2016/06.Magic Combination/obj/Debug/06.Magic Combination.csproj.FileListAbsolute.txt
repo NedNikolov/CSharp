@@ -1,0 +1,5 @@
+C:\Users\asus\Desktop\Programing Basics Exam - 26 March 2016\Exam - 26 March 2016\Exam - 26 March 2016\06.Magic Combination\bin\Debug\06.Magic Combination.exe.config
+C:\Users\asus\Desktop\Programing Basics Exam - 26 March 2016\Exam - 26 March 2016\Exam - 26 March 2016\06.Magic Combination\bin\Debug\06.Magic Combination.exe
+C:\Users\asus\Desktop\Programing Basics Exam - 26 March 2016\Exam - 26 March 2016\Exam - 26 March 2016\06.Magic Combination\bin\Debug\06.Magic Combination.pdb
+C:\Users\asus\Desktop\Programing Basics Exam - 26 March 2016\Exam - 26 March 2016\Exam - 26 March 2016\06.Magic Combination\obj\Debug\06.Magic Combination.exe
+C:\Users\asus\Desktop\Programing Basics Exam - 26 March 2016\Exam - 26 March 2016\Exam - 26 March 2016\06.Magic Combination\obj\Debug\06.Magic Combination.pdb
