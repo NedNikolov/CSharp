@@ -1,0 +1,5 @@
+D:\Николай\Програмиране\C#\Задачи от изпити\08.Programming Basics  - 18 December 2016\18 December 2016\2. Change Tiles\bin\Debug\_2.Change_Tiles.exe.config
+D:\Николай\Програмиране\C#\Задачи от изпити\08.Programming Basics  - 18 December 2016\18 December 2016\2. Change Tiles\bin\Debug\_2.Change_Tiles.exe
+D:\Николай\Програмиране\C#\Задачи от изпити\08.Programming Basics  - 18 December 2016\18 December 2016\2. Change Tiles\bin\Debug\_2.Change_Tiles.pdb
+D:\Николай\Програмиране\C#\Задачи от изпити\08.Programming Basics  - 18 December 2016\18 December 2016\2. Change Tiles\obj\Debug\_2.Change_Tiles.exe
+D:\Николай\Програмиране\C#\Задачи от изпити\08.Programming Basics  - 18 December 2016\18 December 2016\2. Change Tiles\obj\Debug\_2.Change_Tiles.pdb

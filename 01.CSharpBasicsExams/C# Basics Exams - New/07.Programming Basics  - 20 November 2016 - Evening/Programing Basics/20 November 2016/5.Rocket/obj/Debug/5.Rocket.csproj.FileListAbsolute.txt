@@ -1,0 +1,6 @@
+D:\Николай\Програмиране\C#\Задачи от изпити\07.Programming Basics  - 20 November 2016 - Evening\Programing Basics\20 November 2016\5.Rocket\bin\Debug\5.Rocket.exe.config
+D:\Николай\Програмиране\C#\Задачи от изпити\07.Programming Basics  - 20 November 2016 - Evening\Programing Basics\20 November 2016\5.Rocket\bin\Debug\5.Rocket.exe
+D:\Николай\Програмиране\C#\Задачи от изпити\07.Programming Basics  - 20 November 2016 - Evening\Programing Basics\20 November 2016\5.Rocket\bin\Debug\5.Rocket.pdb
+D:\Николай\Програмиране\C#\Задачи от изпити\07.Programming Basics  - 20 November 2016 - Evening\Programing Basics\20 November 2016\5.Rocket\obj\Debug\5.Rocket.csprojResolveAssemblyReference.cache
+D:\Николай\Програмиране\C#\Задачи от изпити\07.Programming Basics  - 20 November 2016 - Evening\Programing Basics\20 November 2016\5.Rocket\obj\Debug\5.Rocket.exe
+D:\Николай\Програмиране\C#\Задачи от изпити\07.Programming Basics  - 20 November 2016 - Evening\Programing Basics\20 November 2016\5.Rocket\obj\Debug\5.Rocket.pdb

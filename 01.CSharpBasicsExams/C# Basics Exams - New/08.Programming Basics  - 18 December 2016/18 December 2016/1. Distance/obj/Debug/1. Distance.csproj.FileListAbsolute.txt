@@ -1,0 +1,6 @@
+D:\Николай\Програмиране\C#\Задачи от изпити\08.Programming Basics  - 18 December 2016\18 December 2016\1. Distance\bin\Debug\_1.Distance.exe.config
+D:\Николай\Програмиране\C#\Задачи от изпити\08.Programming Basics  - 18 December 2016\18 December 2016\1. Distance\bin\Debug\_1.Distance.exe
+D:\Николай\Програмиране\C#\Задачи от изпити\08.Programming Basics  - 18 December 2016\18 December 2016\1. Distance\bin\Debug\_1.Distance.pdb
+D:\Николай\Програмиране\C#\Задачи от изпити\08.Programming Basics  - 18 December 2016\18 December 2016\1. Distance\obj\Debug\1. Distance.csprojResolveAssemblyReference.cache
+D:\Николай\Програмиране\C#\Задачи от изпити\08.Programming Basics  - 18 December 2016\18 December 2016\1. Distance\obj\Debug\_1.Distance.exe
+D:\Николай\Програмиране\C#\Задачи от изпити\08.Programming Basics  - 18 December 2016\18 December 2016\1. Distance\obj\Debug\_1.Distance.pdb

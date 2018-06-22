@@ -1,0 +1,3 @@
+C:\Users\asus\Desktop\Programing Basics - 20 November 2016\Programing Basics\06.Battles1\bin\Debug\06.Battles1.exe.config
+D:\Николай\Програмиране\C#\Задачи от изпити\06.Programing Basics - 20 November 2016\Programing Basics\06.Battles1\bin\Debug\06.Battles1.exe.config
+D:\Николай\Програмиране\C#\Задачи от изпити\06.Programming Basics - 20 November 2016 Morning\Programing Basics\06.Battles1\bin\Debug\06.Battles1.exe.config

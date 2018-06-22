@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\Programing Basics - 20 November 2016\Programing Basics\01.Fishland\bin\Debug\01.Fishland.exe.config
+C:\Users\asus\Desktop\Programing Basics - 20 November 2016\Programing Basics\01.Fishland\bin\Debug\01.Fishland.exe
+C:\Users\asus\Desktop\Programing Basics - 20 November 2016\Programing Basics\01.Fishland\bin\Debug\01.Fishland.pdb
+C:\Users\asus\Desktop\Programing Basics - 20 November 2016\Programing Basics\01.Fishland\obj\Debug\01.Fishland.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\Programing Basics - 20 November 2016\Programing Basics\01.Fishland\obj\Debug\01.Fishland.exe
+C:\Users\asus\Desktop\Programing Basics - 20 November 2016\Programing Basics\01.Fishland\obj\Debug\01.Fishland.pdb
+D:\Николай\Програмиране\C#\Задачи от изпити\06.Programing Basics - 20 November 2016\Programing Basics\01.Fishland\bin\Debug\01.Fishland.exe.config
+D:\Николай\Програмиране\C#\Задачи от изпити\06.Programing Basics - 20 November 2016\Programing Basics\01.Fishland\obj\Debug\01.Fishland.exe
+D:\Николай\Програмиране\C#\Задачи от изпити\06.Programing Basics - 20 November 2016\Programing Basics\01.Fishland\obj\Debug\01.Fishland.pdb
+D:\Николай\Програмиране\C#\Задачи от изпити\06.Programming Basics - 20 November 2016 Morning\Programing Basics\01.Fishland\bin\Debug\01.Fishland.exe.config
+D:\Николай\Програмиране\C#\Задачи от изпити\06.Programming Basics - 20 November 2016 Morning\Programing Basics\01.Fishland\obj\Debug\01.Fishland.exe
+D:\Николай\Програмиране\C#\Задачи от изпити\06.Programming Basics - 20 November 2016 Morning\Programing Basics\01.Fishland\obj\Debug\01.Fishland.pdb
+D:\Николай\Програмиране\C#\Задачи от изпити\06.Programming Basics - 20 November 2016 Morning\Programing Basics\01.Fishland\bin\Debug\01.Fishland.exe
+D:\Николай\Програмиране\C#\Задачи от изпити\06.Programming Basics - 20 November 2016 Morning\Programing Basics\01.Fishland\bin\Debug\01.Fishland.pdb
+D:\Николай\Програмиране\C#\Задачи от изпити\06.Programming Basics - 20 November 2016 Morning\Programing Basics\01.Fishland\obj\Debug\01.Fishland.csprojResolveAssemblyReference.cache

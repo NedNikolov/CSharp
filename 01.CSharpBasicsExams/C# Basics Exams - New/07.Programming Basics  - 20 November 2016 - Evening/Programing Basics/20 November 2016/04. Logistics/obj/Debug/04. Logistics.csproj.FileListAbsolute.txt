@@ -1,0 +1,6 @@
+D:\Николай\Програмиране\C#\Задачи от изпити\07.Programming Basics  - 20 November 2016 - Evening\Programing Basics\20 November 2016\04. Logistics\bin\Debug\_04.Logistics.exe.config
+D:\Николай\Програмиране\C#\Задачи от изпити\07.Programming Basics  - 20 November 2016 - Evening\Programing Basics\20 November 2016\04. Logistics\bin\Debug\_04.Logistics.exe
+D:\Николай\Програмиране\C#\Задачи от изпити\07.Programming Basics  - 20 November 2016 - Evening\Programing Basics\20 November 2016\04. Logistics\bin\Debug\_04.Logistics.pdb
+D:\Николай\Програмиране\C#\Задачи от изпити\07.Programming Basics  - 20 November 2016 - Evening\Programing Basics\20 November 2016\04. Logistics\obj\Debug\04. Logistics.csprojResolveAssemblyReference.cache
+D:\Николай\Програмиране\C#\Задачи от изпити\07.Programming Basics  - 20 November 2016 - Evening\Programing Basics\20 November 2016\04. Logistics\obj\Debug\_04.Logistics.exe
+D:\Николай\Програмиране\C#\Задачи от изпити\07.Programming Basics  - 20 November 2016 - Evening\Programing Basics\20 November 2016\04. Logistics\obj\Debug\_04.Logistics.pdb

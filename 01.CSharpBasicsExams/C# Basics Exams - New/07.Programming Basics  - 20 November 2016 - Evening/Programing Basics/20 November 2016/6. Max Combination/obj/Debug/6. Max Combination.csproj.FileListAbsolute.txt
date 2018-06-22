@@ -1,0 +1,6 @@
+D:\Николай\Програмиране\C#\Задачи от изпити\07.Programming Basics  - 20 November 2016 - Evening\Programing Basics\20 November 2016\6. Max Combination\bin\Debug\_6.Max_Combination.exe.config
+D:\Николай\Програмиране\C#\Задачи от изпити\07.Programming Basics  - 20 November 2016 - Evening\Programing Basics\20 November 2016\6. Max Combination\bin\Debug\_6.Max_Combination.exe
+D:\Николай\Програмиране\C#\Задачи от изпити\07.Programming Basics  - 20 November 2016 - Evening\Programing Basics\20 November 2016\6. Max Combination\bin\Debug\_6.Max_Combination.pdb
+D:\Николай\Програмиране\C#\Задачи от изпити\07.Programming Basics  - 20 November 2016 - Evening\Programing Basics\20 November 2016\6. Max Combination\obj\Debug\6. Max Combination.csprojResolveAssemblyReference.cache
+D:\Николай\Програмиране\C#\Задачи от изпити\07.Programming Basics  - 20 November 2016 - Evening\Programing Basics\20 November 2016\6. Max Combination\obj\Debug\_6.Max_Combination.exe
+D:\Николай\Програмиране\C#\Задачи от изпити\07.Programming Basics  - 20 November 2016 - Evening\Programing Basics\20 November 2016\6. Max Combination\obj\Debug\_6.Max_Combination.pdb

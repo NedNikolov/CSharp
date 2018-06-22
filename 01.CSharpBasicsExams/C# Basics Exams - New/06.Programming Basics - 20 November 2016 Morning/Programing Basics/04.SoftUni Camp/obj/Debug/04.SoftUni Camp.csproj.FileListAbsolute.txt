@@ -1,0 +1,4 @@
+C:\Users\asus\Desktop\Programing Basics - 20 November 2016\Programing Basics\04.SoftUni Camp\bin\Debug\04.SoftUni Camp.exe.config
+C:\Users\asus\Desktop\Programing Basics - 20 November 2016\Programing Basics\04.SoftUni Camp\bin\Debug\_04.SoftUni_Camp.exe.config
+D:\Николай\Програмиране\C#\Задачи от изпити\06.Programing Basics - 20 November 2016\Programing Basics\04.SoftUni Camp\bin\Debug\04.SoftUni Camp.exe.config
+D:\Николай\Програмиране\C#\Задачи от изпити\06.Programming Basics - 20 November 2016 Morning\Programing Basics\04.SoftUni Camp\bin\Debug\04.SoftUni Camp.exe.config

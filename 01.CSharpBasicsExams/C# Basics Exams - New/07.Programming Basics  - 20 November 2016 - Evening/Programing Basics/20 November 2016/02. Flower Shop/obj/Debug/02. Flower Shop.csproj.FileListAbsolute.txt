@@ -1,0 +1,6 @@
+D:\Николай\Програмиране\C#\Задачи от изпити\07.Programming Basics  - 20 November 2016 - Evening\Programing Basics\20 November 2016\02. Flower Shop\bin\Debug\_02.Flower_Shop.exe.config
+D:\Николай\Програмиране\C#\Задачи от изпити\07.Programming Basics  - 20 November 2016 - Evening\Programing Basics\20 November 2016\02. Flower Shop\obj\Debug\02. Flower Shop.csprojResolveAssemblyReference.cache
+D:\Николай\Програмиране\C#\Задачи от изпити\07.Programming Basics  - 20 November 2016 - Evening\Programing Basics\20 November 2016\02. Flower Shop\bin\Debug\_02.Flower_Shop.exe
+D:\Николай\Програмиране\C#\Задачи от изпити\07.Programming Basics  - 20 November 2016 - Evening\Programing Basics\20 November 2016\02. Flower Shop\bin\Debug\_02.Flower_Shop.pdb
+D:\Николай\Програмиране\C#\Задачи от изпити\07.Programming Basics  - 20 November 2016 - Evening\Programing Basics\20 November 2016\02. Flower Shop\obj\Debug\_02.Flower_Shop.exe
+D:\Николай\Програмиране\C#\Задачи от изпити\07.Programming Basics  - 20 November 2016 - Evening\Programing Basics\20 November 2016\02. Flower Shop\obj\Debug\_02.Flower_Shop.pdb

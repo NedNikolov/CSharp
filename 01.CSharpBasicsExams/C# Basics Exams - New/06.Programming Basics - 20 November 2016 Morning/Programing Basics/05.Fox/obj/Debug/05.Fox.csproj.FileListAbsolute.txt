@@ -1,0 +1,18 @@
+C:\Users\asus\Desktop\Programing Basics - 20 November 2016\Programing Basics\05.Fox\bin\Debug\05.Fox.exe.config
+C:\Users\asus\Desktop\Programing Basics - 20 November 2016\Programing Basics\05.Fox\bin\Debug\05.Fox.exe
+C:\Users\asus\Desktop\Programing Basics - 20 November 2016\Programing Basics\05.Fox\bin\Debug\05.Fox.pdb
+C:\Users\asus\Desktop\Programing Basics - 20 November 2016\Programing Basics\05.Fox\obj\Debug\05.Fox.exe
+C:\Users\asus\Desktop\Programing Basics - 20 November 2016\Programing Basics\05.Fox\obj\Debug\05.Fox.pdb
+C:\Users\asus\Desktop\Programing Basics - 20 November 2016\Programing Basics\05.Fox\obj\Debug\05.Fox.csprojResolveAssemblyReference.cache
+D:\Николай\Програмиране\C#\Задачи от изпити\06.Programing Basics - 20 November 2016\Programing Basics\05.Fox\bin\Debug\05.Fox.exe.config
+D:\Николай\Програмиране\C#\Задачи от изпити\06.Programing Basics - 20 November 2016\Programing Basics\05.Fox\obj\Debug\05.Fox.exe
+D:\Николай\Програмиране\C#\Задачи от изпити\06.Programing Basics - 20 November 2016\Programing Basics\05.Fox\obj\Debug\05.Fox.pdb
+D:\Николай\Програмиране\C#\Задачи от изпити\06.Programing Basics - 20 November 2016\Programing Basics\05.Fox\bin\Debug\05.Fox.exe
+D:\Николай\Програмиране\C#\Задачи от изпити\06.Programing Basics - 20 November 2016\Programing Basics\05.Fox\bin\Debug\05.Fox.pdb
+D:\Николай\Програмиране\C#\Задачи от изпити\06.Programing Basics - 20 November 2016\Programing Basics\05.Fox\obj\Debug\05.Fox.csprojResolveAssemblyReference.cache
+D:\Николай\Програмиране\C#\Задачи от изпити\06.Programming Basics - 20 November 2016 Morning\Programing Basics\05.Fox\bin\Debug\05.Fox.exe.config
+D:\Николай\Програмиране\C#\Задачи от изпити\06.Programming Basics - 20 November 2016 Morning\Programing Basics\05.Fox\obj\Debug\05.Fox.exe
+D:\Николай\Програмиране\C#\Задачи от изпити\06.Programming Basics - 20 November 2016 Morning\Programing Basics\05.Fox\obj\Debug\05.Fox.pdb
+D:\Николай\Програмиране\C#\Задачи от изпити\06.Programming Basics - 20 November 2016 Morning\Programing Basics\05.Fox\bin\Debug\05.Fox.exe
+D:\Николай\Програмиране\C#\Задачи от изпити\06.Programming Basics - 20 November 2016 Morning\Programing Basics\05.Fox\bin\Debug\05.Fox.pdb
+D:\Николай\Програмиране\C#\Задачи от изпити\06.Programming Basics - 20 November 2016 Morning\Programing Basics\05.Fox\obj\Debug\05.Fox.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Николай\Програмиране\C#\Задачи от изпити\07.Programming Basics  - 20 November 2016 - Evening\Programing Basics\20 November 2016\03. Bike Race\bin\Debug\_03.Bike_Race.exe.config
+D:\Николай\Програмиране\C#\Задачи от изпити\07.Programming Basics  - 20 November 2016 - Evening\Programing Basics\20 November 2016\03. Bike Race\bin\Debug\_03.Bike_Race.exe
+D:\Николай\Програмиране\C#\Задачи от изпити\07.Programming Basics  - 20 November 2016 - Evening\Programing Basics\20 November 2016\03. Bike Race\bin\Debug\_03.Bike_Race.pdb
+D:\Николай\Програмиране\C#\Задачи от изпити\07.Programming Basics  - 20 November 2016 - Evening\Programing Basics\20 November 2016\03. Bike Race\obj\Debug\03. Bike Race.csprojResolveAssemblyReference.cache
+D:\Николай\Програмиране\C#\Задачи от изпити\07.Programming Basics  - 20 November 2016 - Evening\Programing Basics\20 November 2016\03. Bike Race\obj\Debug\_03.Bike_Race.exe
+D:\Николай\Програмиране\C#\Задачи от изпити\07.Programming Basics  - 20 November 2016 - Evening\Programing Basics\20 November 2016\03. Bike Race\obj\Debug\_03.Bike_Race.pdb

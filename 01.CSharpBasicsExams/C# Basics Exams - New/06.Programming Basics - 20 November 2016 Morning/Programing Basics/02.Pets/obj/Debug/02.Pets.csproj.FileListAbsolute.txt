@@ -1,0 +1,8 @@
+C:\Users\asus\Desktop\Programing Basics - 20 November 2016\Programing Basics\02.Pets\bin\Debug\02.Pets.exe.config
+C:\Users\asus\Desktop\Programing Basics - 20 November 2016\Programing Basics\02.Pets\bin\Debug\02.Pets.exe
+C:\Users\asus\Desktop\Programing Basics - 20 November 2016\Programing Basics\02.Pets\bin\Debug\02.Pets.pdb
+C:\Users\asus\Desktop\Programing Basics - 20 November 2016\Programing Basics\02.Pets\obj\Debug\02.Pets.exe
+C:\Users\asus\Desktop\Programing Basics - 20 November 2016\Programing Basics\02.Pets\obj\Debug\02.Pets.pdb
+D:\Николай\Програмиране\C#\Задачи от изпити\06.Programing Basics - 20 November 2016\Programing Basics\02.Pets\bin\Debug\02.Pets.exe.config
+D:\Николай\Програмиране\C#\Задачи от изпити\06.Programing Basics - 20 November 2016\Programing Basics\02.Pets\obj\Debug\02.Pets.exe
+D:\Николай\Програмиране\C#\Задачи от изпити\06.Programing Basics - 20 November 2016\Programing Basics\02.Pets\obj\Debug\02.Pets.pdb
