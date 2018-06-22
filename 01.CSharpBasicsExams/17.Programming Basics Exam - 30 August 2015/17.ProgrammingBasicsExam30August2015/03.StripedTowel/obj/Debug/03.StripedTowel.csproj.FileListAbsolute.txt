@@ -1,0 +1,12 @@
+C:\Users\lenovo\Desktop\17.ProgrammingBasicsExam30August2015\03.StripedTowel\bin\Debug\03.StripedTowel.exe.config
+C:\Users\lenovo\Desktop\17.ProgrammingBasicsExam30August2015\03.StripedTowel\bin\Debug\03.StripedTowel.exe
+C:\Users\lenovo\Desktop\17.ProgrammingBasicsExam30August2015\03.StripedTowel\bin\Debug\03.StripedTowel.pdb
+C:\Users\lenovo\Desktop\17.ProgrammingBasicsExam30August2015\03.StripedTowel\obj\Debug\03.StripedTowel.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\17.ProgrammingBasicsExam30August2015\03.StripedTowel\obj\Debug\03.StripedTowel.exe
+C:\Users\lenovo\Desktop\17.ProgrammingBasicsExam30August2015\03.StripedTowel\obj\Debug\03.StripedTowel.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\17.Programming Basics Exam - 30 August 2015\17.ProgrammingBasicsExam30August2015\03.StripedTowel\bin\Debug\03.StripedTowel.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\17.Programming Basics Exam - 30 August 2015\17.ProgrammingBasicsExam30August2015\03.StripedTowel\obj\Debug\03.StripedTowel.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\17.Programming Basics Exam - 30 August 2015\17.ProgrammingBasicsExam30August2015\03.StripedTowel\obj\Debug\03.StripedTowel.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\17.Programming Basics Exam - 30 August 2015\17.ProgrammingBasicsExam30August2015\03.StripedTowel\bin\Debug\03.StripedTowel.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\17.Programming Basics Exam - 30 August 2015\17.ProgrammingBasicsExam30August2015\03.StripedTowel\bin\Debug\03.StripedTowel.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\17.Programming Basics Exam - 30 August 2015\17.ProgrammingBasicsExam30August2015\03.StripedTowel\obj\Debug\03.StripedTowel.csprojResolveAssemblyReference.cache

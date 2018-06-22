@@ -1,0 +1,5 @@
+C:\Users\lenovo\Desktop\Programming Basics Exam - 8 November 2015\05.Problem\bin\Debug\05.Problem.exe.config
+C:\Users\lenovo\Desktop\Programming Basics Exam - 8 November 2015\05.Problem\bin\Debug\05.Problem.exe
+C:\Users\lenovo\Desktop\Programming Basics Exam - 8 November 2015\05.Problem\bin\Debug\05.Problem.pdb
+C:\Users\lenovo\Desktop\Programming Basics Exam - 8 November 2015\05.Problem\obj\Debug\05.Problem.exe
+C:\Users\lenovo\Desktop\Programming Basics Exam - 8 November 2015\05.Problem\obj\Debug\05.Problem.pdb

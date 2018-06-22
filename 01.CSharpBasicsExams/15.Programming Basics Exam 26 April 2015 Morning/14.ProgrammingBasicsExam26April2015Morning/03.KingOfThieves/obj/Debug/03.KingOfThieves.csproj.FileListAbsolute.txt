@@ -1,0 +1,6 @@
+C:\Users\lenovo\Desktop\14.ProgrammingBasicsExam26April2015Morning\03.KingOfThieves\bin\Debug\03.KingOfThieves.exe.config
+C:\Users\lenovo\Desktop\14.ProgrammingBasicsExam26April2015Morning\03.KingOfThieves\bin\Debug\03.KingOfThieves.exe
+C:\Users\lenovo\Desktop\14.ProgrammingBasicsExam26April2015Morning\03.KingOfThieves\bin\Debug\03.KingOfThieves.pdb
+C:\Users\lenovo\Desktop\14.ProgrammingBasicsExam26April2015Morning\03.KingOfThieves\obj\Debug\03.KingOfThieves.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\14.ProgrammingBasicsExam26April2015Morning\03.KingOfThieves\obj\Debug\03.KingOfThieves.exe
+C:\Users\lenovo\Desktop\14.ProgrammingBasicsExam26April2015Morning\03.KingOfThieves\obj\Debug\03.KingOfThieves.pdb

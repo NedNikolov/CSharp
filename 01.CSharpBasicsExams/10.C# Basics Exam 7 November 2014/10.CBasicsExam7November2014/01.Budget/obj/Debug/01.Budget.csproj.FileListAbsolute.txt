@@ -1,0 +1,6 @@
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\10.C# Basics Exam 7 November 2014\10.CBasicsExam7November2014\01.Budget\bin\Debug\01.Budget.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\10.C# Basics Exam 7 November 2014\10.CBasicsExam7November2014\01.Budget\bin\Debug\01.Budget.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\10.C# Basics Exam 7 November 2014\10.CBasicsExam7November2014\01.Budget\bin\Debug\01.Budget.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\10.C# Basics Exam 7 November 2014\10.CBasicsExam7November2014\01.Budget\obj\Debug\01.Budget.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\10.C# Basics Exam 7 November 2014\10.CBasicsExam7November2014\01.Budget\obj\Debug\01.Budget.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\10.C# Basics Exam 7 November 2014\10.CBasicsExam7November2014\01.Budget\obj\Debug\01.Budget.pdb

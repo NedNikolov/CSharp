@@ -1,0 +1,5 @@
+C:\Users\lenovo\Desktop\11.CBasicsExam8November2014\03.Rock\bin\Debug\03.Rock.exe.config
+C:\Users\lenovo\Desktop\11.CBasicsExam8November2014\03.Rock\bin\Debug\03.Rock.exe
+C:\Users\lenovo\Desktop\11.CBasicsExam8November2014\03.Rock\bin\Debug\03.Rock.pdb
+C:\Users\lenovo\Desktop\11.CBasicsExam8November2014\03.Rock\obj\Debug\03.Rock.exe
+C:\Users\lenovo\Desktop\11.CBasicsExam8November2014\03.Rock\obj\Debug\03.Rock.pdb

@@ -1,0 +1,9 @@
+C:\Users\lenovo\Desktop\14.ProgrammingBasicsExam29March2015Morning\03.Dumbbell\bin\Debug\03.Dumbbell.exe.config
+C:\Users\lenovo\Desktop\14.ProgrammingBasicsExam29March2015Morning\03.Dumbbell\bin\Debug\03.Dumbbell.exe
+C:\Users\lenovo\Desktop\14.ProgrammingBasicsExam29March2015Morning\03.Dumbbell\bin\Debug\03.Dumbbell.pdb
+C:\Users\lenovo\Desktop\14.ProgrammingBasicsExam29March2015Morning\03.Dumbbell\obj\Debug\03.Dumbbell.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\14.ProgrammingBasicsExam29March2015Morning\03.Dumbbell\obj\Debug\03.Dumbbell.exe
+C:\Users\lenovo\Desktop\14.ProgrammingBasicsExam29March2015Morning\03.Dumbbell\obj\Debug\03.Dumbbell.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\14.Programming Basics Exam 29 March 2015 Morning\14.ProgrammingBasicsExam29March2015Morning\03.Dumbbell\bin\Debug\03.Dumbbell.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\14.Programming Basics Exam 29 March 2015 Morning\14.ProgrammingBasicsExam29March2015Morning\03.Dumbbell\obj\Debug\03.Dumbbell.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\14.Programming Basics Exam 29 March 2015 Morning\14.ProgrammingBasicsExam29March2015Morning\03.Dumbbell\obj\Debug\03.Dumbbell.pdb

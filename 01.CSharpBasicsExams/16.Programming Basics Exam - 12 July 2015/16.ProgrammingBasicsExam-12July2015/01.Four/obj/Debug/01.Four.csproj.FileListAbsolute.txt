@@ -1,0 +1,8 @@
+C:\Users\lenovo\Desktop\16.ProgrammingBasicsExam-12July2015\01.Four\bin\Debug\01.Four.exe.config
+C:\Users\lenovo\Desktop\16.ProgrammingBasicsExam-12July2015\01.Four\bin\Debug\01.Four.exe
+C:\Users\lenovo\Desktop\16.ProgrammingBasicsExam-12July2015\01.Four\bin\Debug\01.Four.pdb
+C:\Users\lenovo\Desktop\16.ProgrammingBasicsExam-12July2015\01.Four\obj\Debug\01.Four.exe
+C:\Users\lenovo\Desktop\16.ProgrammingBasicsExam-12July2015\01.Four\obj\Debug\01.Four.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\16.Programming Basics Exam - 12 July 2015\16.ProgrammingBasicsExam-12July2015\01.Four\bin\Debug\01.Four.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\16.Programming Basics Exam - 12 July 2015\16.ProgrammingBasicsExam-12July2015\01.Four\obj\Debug\01.Four.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\16.Programming Basics Exam - 12 July 2015\16.ProgrammingBasicsExam-12July2015\01.Four\obj\Debug\01.Four.pdb

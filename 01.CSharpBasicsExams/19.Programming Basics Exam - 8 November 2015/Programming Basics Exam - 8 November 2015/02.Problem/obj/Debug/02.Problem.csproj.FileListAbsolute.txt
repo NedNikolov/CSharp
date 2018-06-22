@@ -1,0 +1,6 @@
+C:\Users\lenovo\Desktop\Programming Basics Exam - 8 November 2015\02.Problem\bin\Debug\02.Problem.exe.config
+C:\Users\lenovo\Desktop\Programming Basics Exam - 8 November 2015\02.Problem\bin\Debug\02.Problem.exe
+C:\Users\lenovo\Desktop\Programming Basics Exam - 8 November 2015\02.Problem\bin\Debug\02.Problem.pdb
+C:\Users\lenovo\Desktop\Programming Basics Exam - 8 November 2015\02.Problem\obj\Debug\02.Problem.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\Programming Basics Exam - 8 November 2015\02.Problem\obj\Debug\02.Problem.exe
+C:\Users\lenovo\Desktop\Programming Basics Exam - 8 November 2015\02.Problem\obj\Debug\02.Problem.pdb

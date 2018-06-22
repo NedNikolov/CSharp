@@ -1,0 +1,12 @@
+C:\Users\lenovo\Desktop\12.Basics Exam 19 December 2014\03.BRA\bin\Debug\03.BRA.exe.config
+C:\Users\lenovo\Desktop\12.Basics Exam 19 December 2014\03.BRA\bin\Debug\03.BRA.exe
+C:\Users\lenovo\Desktop\12.Basics Exam 19 December 2014\03.BRA\bin\Debug\03.BRA.pdb
+C:\Users\lenovo\Desktop\12.Basics Exam 19 December 2014\03.BRA\obj\Debug\03.BRA.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\12.Basics Exam 19 December 2014\03.BRA\obj\Debug\03.BRA.exe
+C:\Users\lenovo\Desktop\12.Basics Exam 19 December 2014\03.BRA\obj\Debug\03.BRA.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\12.C# Basics Exam 19 December 2014\12.Basics Exam 19 December 2014\03.BRA\bin\Debug\03.BRA.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\12.C# Basics Exam 19 December 2014\12.Basics Exam 19 December 2014\03.BRA\obj\Debug\03.BRA.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\12.C# Basics Exam 19 December 2014\12.Basics Exam 19 December 2014\03.BRA\obj\Debug\03.BRA.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\12.C# Basics Exam 19 December 2014\12.Basics Exam 19 December 2014\03.BRA\bin\Debug\03.BRA.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\12.C# Basics Exam 19 December 2014\12.Basics Exam 19 December 2014\03.BRA\bin\Debug\03.BRA.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\12.C# Basics Exam 19 December 2014\12.Basics Exam 19 December 2014\03.BRA\obj\Debug\03.BRA.csprojResolveAssemblyReference.cache

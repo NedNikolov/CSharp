@@ -1,0 +1,6 @@
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\12.C# Basics Exam 19 December 2014\12.Basics Exam 19 December 2014\04.Matrix\bin\Debug\04.Matrix.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\12.C# Basics Exam 19 December 2014\12.Basics Exam 19 December 2014\04.Matrix\bin\Debug\04.Matrix.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\12.C# Basics Exam 19 December 2014\12.Basics Exam 19 December 2014\04.Matrix\bin\Debug\04.Matrix.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\12.C# Basics Exam 19 December 2014\12.Basics Exam 19 December 2014\04.Matrix\obj\Debug\04.Matrix.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\12.C# Basics Exam 19 December 2014\12.Basics Exam 19 December 2014\04.Matrix\obj\Debug\04.Matrix.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\12.C# Basics Exam 19 December 2014\12.Basics Exam 19 December 2014\04.Matrix\obj\Debug\04.Matrix.pdb

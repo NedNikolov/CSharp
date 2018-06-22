@@ -1,0 +1,9 @@
+C:\Users\lenovo\Desktop\10.CBasicsExam7November2014\03.Plane\bin\Debug\03.Plane.exe.config
+C:\Users\lenovo\Desktop\10.CBasicsExam7November2014\03.Plane\bin\Debug\03.Plane.exe
+C:\Users\lenovo\Desktop\10.CBasicsExam7November2014\03.Plane\bin\Debug\03.Plane.pdb
+C:\Users\lenovo\Desktop\10.CBasicsExam7November2014\03.Plane\obj\Debug\03.Plane.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\10.CBasicsExam7November2014\03.Plane\obj\Debug\03.Plane.exe
+C:\Users\lenovo\Desktop\10.CBasicsExam7November2014\03.Plane\obj\Debug\03.Plane.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\10.C# Basics Exam 7 November 2014\10.CBasicsExam7November2014\03.Plane\bin\Debug\03.Plane.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\10.C# Basics Exam 7 November 2014\10.CBasicsExam7November2014\03.Plane\obj\Debug\03.Plane.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\10.C# Basics Exam 7 November 2014\10.CBasicsExam7November2014\03.Plane\obj\Debug\03.Plane.pdb

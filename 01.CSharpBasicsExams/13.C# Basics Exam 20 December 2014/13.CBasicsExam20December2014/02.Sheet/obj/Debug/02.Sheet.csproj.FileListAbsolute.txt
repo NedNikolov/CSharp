@@ -1,0 +1,6 @@
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\13.C# Basics Exam 20 December 2014\13.CBasicsExam20December2014\02.Sheet\bin\Debug\02.Sheet.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\13.C# Basics Exam 20 December 2014\13.CBasicsExam20December2014\02.Sheet\bin\Debug\02.Sheet.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\13.C# Basics Exam 20 December 2014\13.CBasicsExam20December2014\02.Sheet\bin\Debug\02.Sheet.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\13.C# Basics Exam 20 December 2014\13.CBasicsExam20December2014\02.Sheet\obj\Debug\02.Sheet.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\13.C# Basics Exam 20 December 2014\13.CBasicsExam20December2014\02.Sheet\obj\Debug\02.Sheet.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\13.C# Basics Exam 20 December 2014\13.CBasicsExam20December2014\02.Sheet\obj\Debug\02.Sheet.pdb

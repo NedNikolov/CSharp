@@ -1,0 +1,12 @@
+C:\Users\lenovo\Desktop\BasicsExam26April2015Morning\02.ChessboardGame\bin\Debug\02.ChessboardGame.exe.config
+C:\Users\lenovo\Desktop\BasicsExam26April2015Morning\02.ChessboardGame\bin\Debug\02.ChessboardGame.exe
+C:\Users\lenovo\Desktop\BasicsExam26April2015Morning\02.ChessboardGame\bin\Debug\02.ChessboardGame.pdb
+C:\Users\lenovo\Desktop\BasicsExam26April2015Morning\02.ChessboardGame\obj\Debug\02.ChessboardGame.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\BasicsExam26April2015Morning\02.ChessboardGame\obj\Debug\02.ChessboardGame.exe
+C:\Users\lenovo\Desktop\BasicsExam26April2015Morning\02.ChessboardGame\obj\Debug\02.ChessboardGame.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\14.Programming Basics Exam 26 April 2015 Morning\BasicsExam26April2015Morning\02.ChessboardGame\bin\Debug\02.ChessboardGame.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\14.Programming Basics Exam 26 April 2015 Morning\BasicsExam26April2015Morning\02.ChessboardGame\obj\Debug\02.ChessboardGame.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\14.Programming Basics Exam 26 April 2015 Morning\BasicsExam26April2015Morning\02.ChessboardGame\obj\Debug\02.ChessboardGame.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\14.Programming Basics Exam 26 April 2015 Morning\BasicsExam26April2015Morning\02.ChessboardGame\bin\Debug\02.ChessboardGame.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\14.Programming Basics Exam 26 April 2015 Morning\BasicsExam26April2015Morning\02.ChessboardGame\bin\Debug\02.ChessboardGame.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\14.Programming Basics Exam 26 April 2015 Morning\BasicsExam26April2015Morning\02.ChessboardGame\obj\Debug\02.ChessboardGame.csprojResolveAssemblyReference.cache

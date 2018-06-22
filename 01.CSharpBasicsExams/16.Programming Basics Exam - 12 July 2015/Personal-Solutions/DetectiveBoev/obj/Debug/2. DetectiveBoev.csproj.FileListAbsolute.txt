@@ -1,0 +1,6 @@
+C:\Users\Angel\Downloads\Programming-Basics-Exam-12-Jul-2015\Exam\Personal-Solutions\DetectiveBoev\bin\Debug\DetectiveBoev.exe.config
+C:\Users\Angel\Downloads\Programming-Basics-Exam-12-Jul-2015\Exam\Personal-Solutions\DetectiveBoev\bin\Debug\DetectiveBoev.exe
+C:\Users\Angel\Downloads\Programming-Basics-Exam-12-Jul-2015\Exam\Personal-Solutions\DetectiveBoev\bin\Debug\DetectiveBoev.pdb
+C:\Users\Angel\Downloads\Programming-Basics-Exam-12-Jul-2015\Exam\Personal-Solutions\DetectiveBoev\obj\Debug\2. DetectiveBoev.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Downloads\Programming-Basics-Exam-12-Jul-2015\Exam\Personal-Solutions\DetectiveBoev\obj\Debug\DetectiveBoev.exe
+C:\Users\Angel\Downloads\Programming-Basics-Exam-12-Jul-2015\Exam\Personal-Solutions\DetectiveBoev\obj\Debug\DetectiveBoev.pdb

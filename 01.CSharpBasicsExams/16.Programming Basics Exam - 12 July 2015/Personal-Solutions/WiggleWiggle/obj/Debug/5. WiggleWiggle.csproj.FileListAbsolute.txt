@@ -1,0 +1,6 @@
+C:\Users\Angel\Documents\Programming\SoftUni\softuni\Exam-Problems\C# SoftUni\Programming-Basics-Exam-12-Jul-2015\Exam\Personal-Solutions\WiggleWiggle\obj\Debug\5. WiggleWiggle.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Documents\Programming\SoftUni\softuni\Exam-Problems\C# SoftUni\Programming-Basics-Exam-12-Jul-2015\Exam\Personal-Solutions\WiggleWiggle\bin\Debug\WiggleWiggle.exe.config
+C:\Users\Angel\Documents\Programming\SoftUni\softuni\Exam-Problems\C# SoftUni\Programming-Basics-Exam-12-Jul-2015\Exam\Personal-Solutions\WiggleWiggle\bin\Debug\WiggleWiggle.exe
+C:\Users\Angel\Documents\Programming\SoftUni\softuni\Exam-Problems\C# SoftUni\Programming-Basics-Exam-12-Jul-2015\Exam\Personal-Solutions\WiggleWiggle\bin\Debug\WiggleWiggle.pdb
+C:\Users\Angel\Documents\Programming\SoftUni\softuni\Exam-Problems\C# SoftUni\Programming-Basics-Exam-12-Jul-2015\Exam\Personal-Solutions\WiggleWiggle\obj\Debug\WiggleWiggle.exe
+C:\Users\Angel\Documents\Programming\SoftUni\softuni\Exam-Problems\C# SoftUni\Programming-Basics-Exam-12-Jul-2015\Exam\Personal-Solutions\WiggleWiggle\obj\Debug\WiggleWiggle.pdb

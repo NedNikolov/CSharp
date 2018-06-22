@@ -1,0 +1,6 @@
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\12.C# Basics Exam 19 December 2014\12.Basics Exam 19 December 2014\02.SpyHard\bin\Debug\02.SpyHard.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\12.C# Basics Exam 19 December 2014\12.Basics Exam 19 December 2014\02.SpyHard\bin\Debug\02.SpyHard.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\12.C# Basics Exam 19 December 2014\12.Basics Exam 19 December 2014\02.SpyHard\bin\Debug\02.SpyHard.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\12.C# Basics Exam 19 December 2014\12.Basics Exam 19 December 2014\02.SpyHard\obj\Debug\02.SpyHard.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\12.C# Basics Exam 19 December 2014\12.Basics Exam 19 December 2014\02.SpyHard\obj\Debug\02.SpyHard.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\12.C# Basics Exam 19 December 2014\12.Basics Exam 19 December 2014\02.SpyHard\obj\Debug\02.SpyHard.pdb

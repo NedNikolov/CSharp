@@ -1,0 +1,6 @@
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\14.Programming Basics Exam 29 March 2015 Evening\14.ProgrammingBasicsExam29March2015Evening\03.DreamItem\bin\Debug\03.DreamItem.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\14.Programming Basics Exam 29 March 2015 Evening\14.ProgrammingBasicsExam29March2015Evening\03.DreamItem\bin\Debug\03.DreamItem.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\14.Programming Basics Exam 29 March 2015 Evening\14.ProgrammingBasicsExam29March2015Evening\03.DreamItem\bin\Debug\03.DreamItem.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\14.Programming Basics Exam 29 March 2015 Evening\14.ProgrammingBasicsExam29March2015Evening\03.DreamItem\obj\Debug\03.DreamItem.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\14.Programming Basics Exam 29 March 2015 Evening\14.ProgrammingBasicsExam29March2015Evening\03.DreamItem\obj\Debug\03.DreamItem.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\14.Programming Basics Exam 29 March 2015 Evening\14.ProgrammingBasicsExam29March2015Evening\03.DreamItem\obj\Debug\03.DreamItem.pdb

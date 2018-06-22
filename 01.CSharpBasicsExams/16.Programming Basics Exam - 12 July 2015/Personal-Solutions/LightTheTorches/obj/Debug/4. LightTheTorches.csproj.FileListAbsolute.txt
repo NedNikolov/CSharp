@@ -1,0 +1,6 @@
+C:\Users\Angel\Downloads\Programming-Basics-Exam-12-Jul-2015\Exam\Personal-Solutions\LightTheTorches\bin\Debug\LightTheTorches.exe.config
+C:\Users\Angel\Downloads\Programming-Basics-Exam-12-Jul-2015\Exam\Personal-Solutions\LightTheTorches\bin\Debug\LightTheTorches.exe
+C:\Users\Angel\Downloads\Programming-Basics-Exam-12-Jul-2015\Exam\Personal-Solutions\LightTheTorches\bin\Debug\LightTheTorches.pdb
+C:\Users\Angel\Downloads\Programming-Basics-Exam-12-Jul-2015\Exam\Personal-Solutions\LightTheTorches\obj\Debug\4. LightTheTorches.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Downloads\Programming-Basics-Exam-12-Jul-2015\Exam\Personal-Solutions\LightTheTorches\obj\Debug\LightTheTorches.exe
+C:\Users\Angel\Downloads\Programming-Basics-Exam-12-Jul-2015\Exam\Personal-Solutions\LightTheTorches\obj\Debug\LightTheTorches.pdb

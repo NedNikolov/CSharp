@@ -1,0 +1,6 @@
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\17.Programming Basics Exam - 30 August 2015\17.ProgrammingBasicsExam30August2015\02.FootStat\bin\Debug\02.FootStat.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\17.Programming Basics Exam - 30 August 2015\17.ProgrammingBasicsExam30August2015\02.FootStat\bin\Debug\02.FootStat.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\17.Programming Basics Exam - 30 August 2015\17.ProgrammingBasicsExam30August2015\02.FootStat\bin\Debug\02.FootStat.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\17.Programming Basics Exam - 30 August 2015\17.ProgrammingBasicsExam30August2015\02.FootStat\obj\Debug\02.FootStat.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\17.Programming Basics Exam - 30 August 2015\17.ProgrammingBasicsExam30August2015\02.FootStat\obj\Debug\02.FootStat.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\17.Programming Basics Exam - 30 August 2015\17.ProgrammingBasicsExam30August2015\02.FootStat\obj\Debug\02.FootStat.pdb

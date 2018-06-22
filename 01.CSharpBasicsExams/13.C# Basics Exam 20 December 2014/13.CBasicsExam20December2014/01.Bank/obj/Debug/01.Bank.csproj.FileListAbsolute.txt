@@ -1,0 +1,5 @@
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\13.C# Basics Exam 20 December 2014\13.CBasicsExam20December2014\01.Bank\bin\Debug\01.Bank.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\13.C# Basics Exam 20 December 2014\13.CBasicsExam20December2014\01.Bank\bin\Debug\01.Bank.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\13.C# Basics Exam 20 December 2014\13.CBasicsExam20December2014\01.Bank\bin\Debug\01.Bank.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\13.C# Basics Exam 20 December 2014\13.CBasicsExam20December2014\01.Bank\obj\Debug\01.Bank.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\13.C# Basics Exam 20 December 2014\13.CBasicsExam20December2014\01.Bank\obj\Debug\01.Bank.pdb

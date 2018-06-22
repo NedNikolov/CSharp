@@ -1,0 +1,6 @@
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\10.C# Basics Exam 7 November 2014\10.CBasicsExam7November2014\02.OECounter\bin\Debug\02.OECounter.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\10.C# Basics Exam 7 November 2014\10.CBasicsExam7November2014\02.OECounter\bin\Debug\02.OECounter.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\10.C# Basics Exam 7 November 2014\10.CBasicsExam7November2014\02.OECounter\bin\Debug\02.OECounter.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\10.C# Basics Exam 7 November 2014\10.CBasicsExam7November2014\02.OECounter\obj\Debug\02.OECounter.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\10.C# Basics Exam 7 November 2014\10.CBasicsExam7November2014\02.OECounter\obj\Debug\02.OECounter.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\10.C# Basics Exam 7 November 2014\10.CBasicsExam7November2014\02.OECounter\obj\Debug\02.OECounter.pdb

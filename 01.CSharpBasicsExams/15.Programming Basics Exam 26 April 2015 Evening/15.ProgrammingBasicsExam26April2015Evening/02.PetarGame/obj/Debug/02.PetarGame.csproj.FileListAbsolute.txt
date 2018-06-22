@@ -1,0 +1,6 @@
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\15.Programming Basics Exam 26 April 2015 Evening\15.ProgrammingBasicsExam26April2015Evening\02.PetarGame\bin\Debug\02.PetarGame.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\15.Programming Basics Exam 26 April 2015 Evening\15.ProgrammingBasicsExam26April2015Evening\02.PetarGame\bin\Debug\02.PetarGame.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\15.Programming Basics Exam 26 April 2015 Evening\15.ProgrammingBasicsExam26April2015Evening\02.PetarGame\bin\Debug\02.PetarGame.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\15.Programming Basics Exam 26 April 2015 Evening\15.ProgrammingBasicsExam26April2015Evening\02.PetarGame\obj\Debug\02.PetarGame.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\15.Programming Basics Exam 26 April 2015 Evening\15.ProgrammingBasicsExam26April2015Evening\02.PetarGame\obj\Debug\02.PetarGame.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\15.Programming Basics Exam 26 April 2015 Evening\15.ProgrammingBasicsExam26April2015Evening\02.PetarGame\obj\Debug\02.PetarGame.pdb

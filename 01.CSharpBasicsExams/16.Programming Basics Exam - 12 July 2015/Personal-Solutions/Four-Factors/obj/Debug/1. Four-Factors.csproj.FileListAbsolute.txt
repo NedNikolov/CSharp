@@ -1,0 +1,9 @@
+C:\Users\Angel\Documents\Programming\SoftUni\softuni\Exam-Problems\C# SoftUni\Programming-Basics-Exam-12-Jul-2015\Exam\Personal-Solutions\Four-Factors\obj\Debug\1. Four-Factors.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Documents\Programming\SoftUni\softuni\Exam-Problems\C# SoftUni\Programming-Basics-Exam-12-Jul-2015\Exam\Personal-Solutions\Four-Factors\bin\Debug\Four-Factors.exe.config
+C:\Users\Angel\Documents\Programming\SoftUni\softuni\Exam-Problems\C# SoftUni\Programming-Basics-Exam-12-Jul-2015\Exam\Personal-Solutions\Four-Factors\bin\Debug\Four-Factors.exe
+C:\Users\Angel\Documents\Programming\SoftUni\softuni\Exam-Problems\C# SoftUni\Programming-Basics-Exam-12-Jul-2015\Exam\Personal-Solutions\Four-Factors\bin\Debug\Four-Factors.pdb
+C:\Users\Angel\Documents\Programming\SoftUni\softuni\Exam-Problems\C# SoftUni\Programming-Basics-Exam-12-Jul-2015\Exam\Personal-Solutions\Four-Factors\obj\Debug\Four-Factors.exe
+C:\Users\Angel\Documents\Programming\SoftUni\softuni\Exam-Problems\C# SoftUni\Programming-Basics-Exam-12-Jul-2015\Exam\Personal-Solutions\Four-Factors\obj\Debug\Four-Factors.pdb
+C:\Users\Angel\Downloads\Programming-Basics-Exam-12-Jul-2015\Exam\Personal-Solutions\Four-Factors\bin\Debug\Four-Factors.exe.config
+C:\Users\Angel\Downloads\Programming-Basics-Exam-12-Jul-2015\Exam\Personal-Solutions\Four-Factors\obj\Debug\Four-Factors.exe
+C:\Users\Angel\Downloads\Programming-Basics-Exam-12-Jul-2015\Exam\Personal-Solutions\Four-Factors\obj\Debug\Four-Factors.pdb

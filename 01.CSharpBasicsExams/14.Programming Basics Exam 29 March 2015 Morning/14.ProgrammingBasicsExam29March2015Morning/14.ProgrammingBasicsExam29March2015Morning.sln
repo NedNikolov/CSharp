@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Dumbbell", "03.Dumbbell\03.Dumbbell.csproj", "{3ADC21D8-2A90-410F-BB47-6697EB6BA11A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Pirate", "01.Pirate\01.Pirate.csproj", "{0100E2F2-F6C9-426C-9D11-3F862A5E5EE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ADC21D8-2A90-410F-BB47-6697EB6BA11A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ADC21D8-2A90-410F-BB47-6697EB6BA11A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ADC21D8-2A90-410F-BB47-6697EB6BA11A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ADC21D8-2A90-410F-BB47-6697EB6BA11A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0100E2F2-F6C9-426C-9D11-3F862A5E5EE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0100E2F2-F6C9-426C-9D11-3F862A5E5EE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0100E2F2-F6C9-426C-9D11-3F862A5E5EE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0100E2F2-F6C9-426C-9D11-3F862A5E5EE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

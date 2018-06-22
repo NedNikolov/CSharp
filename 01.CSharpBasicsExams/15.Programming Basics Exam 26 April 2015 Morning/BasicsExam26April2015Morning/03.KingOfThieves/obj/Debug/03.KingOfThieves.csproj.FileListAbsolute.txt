@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\BasicsExam26April2015Morning\03.KingOfThieves\bin\Debug\03.KingOfThieves.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\14.Programming Basics Exam 26 April 2015 Morning\BasicsExam26April2015Morning\03.KingOfThieves\bin\Debug\03.KingOfThieves.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\14.Programming Basics Exam 26 April 2015 Morning\BasicsExam26April2015Morning\03.KingOfThieves\obj\Debug\03.KingOfThieves.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\14.Programming Basics Exam 26 April 2015 Morning\BasicsExam26April2015Morning\03.KingOfThieves\bin\Debug\03.KingOfThieves.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\14.Programming Basics Exam 26 April 2015 Morning\BasicsExam26April2015Morning\03.KingOfThieves\bin\Debug\03.KingOfThieves.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\14.Programming Basics Exam 26 April 2015 Morning\BasicsExam26April2015Morning\03.KingOfThieves\obj\Debug\03.KingOfThieves.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\14.Programming Basics Exam 26 April 2015 Morning\BasicsExam26April2015Morning\03.KingOfThieves\obj\Debug\03.KingOfThieves.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\15.Programming Basics Exam 26 April 2015 Morning\BasicsExam26April2015Morning\03.KingOfThieves\bin\Debug\03.KingOfThieves.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\15.Programming Basics Exam 26 April 2015 Morning\BasicsExam26April2015Morning\03.KingOfThieves\obj\Debug\03.KingOfThieves.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\15.Programming Basics Exam 26 April 2015 Morning\BasicsExam26April2015Morning\03.KingOfThieves\obj\Debug\03.KingOfThieves.pdb

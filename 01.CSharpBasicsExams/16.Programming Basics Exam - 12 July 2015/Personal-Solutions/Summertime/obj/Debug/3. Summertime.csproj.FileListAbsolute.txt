@@ -1,0 +1,3 @@
+C:\Users\Angel\Downloads\Programming-Basics-Exam-12-Jul-2015\Exam\Personal-Solutions\Summertime\bin\Debug\Summertime.exe.config
+C:\Users\Angel\Downloads\Programming-Basics-Exam-12-Jul-2015\Exam\Personal-Solutions\Summertime\obj\Debug\Summertime.exe
+C:\Users\Angel\Downloads\Programming-Basics-Exam-12-Jul-2015\Exam\Personal-Solutions\Summertime\obj\Debug\Summertime.pdb

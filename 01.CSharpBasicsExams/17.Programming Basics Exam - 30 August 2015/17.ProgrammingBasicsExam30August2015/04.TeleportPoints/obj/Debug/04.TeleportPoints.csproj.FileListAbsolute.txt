@@ -1,0 +1,8 @@
+C:\Users\lenovo\Desktop\17.ProgrammingBasicsExam30August2015\04.TeleportPoints\bin\Debug\04.TeleportPoints.exe.config
+C:\Users\lenovo\Desktop\17.ProgrammingBasicsExam30August2015\04.TeleportPoints\bin\Debug\04.TeleportPoints.exe
+C:\Users\lenovo\Desktop\17.ProgrammingBasicsExam30August2015\04.TeleportPoints\bin\Debug\04.TeleportPoints.pdb
+C:\Users\lenovo\Desktop\17.ProgrammingBasicsExam30August2015\04.TeleportPoints\obj\Debug\04.TeleportPoints.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\17.ProgrammingBasicsExam30August2015\04.TeleportPoints\obj\Debug\04.TeleportPoints.exe
+C:\Users\lenovo\Desktop\17.ProgrammingBasicsExam30August2015\04.TeleportPoints\obj\Debug\04.TeleportPoints.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\17.Programming Basics Exam - 30 August 2015\17.ProgrammingBasicsExam30August2015\04.TeleportPoints\bin\Debug\04.TeleportPoints.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\17.Programming Basics Exam - 30 August 2015\17.ProgrammingBasicsExam30August2015\04.TeleportPoints\obj\Debug\04.TeleportPoints.exe

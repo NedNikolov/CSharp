@@ -1,0 +1,8 @@
+C:\Users\lenovo\Desktop\14.ProgrammingBasicsExam29March2015Evening\03.MagicWand\bin\Debug\03.MagicWand.exe.config
+C:\Users\lenovo\Desktop\14.ProgrammingBasicsExam29March2015Evening\03.MagicWand\bin\Debug\03.MagicWand.exe
+C:\Users\lenovo\Desktop\14.ProgrammingBasicsExam29March2015Evening\03.MagicWand\bin\Debug\03.MagicWand.pdb
+C:\Users\lenovo\Desktop\14.ProgrammingBasicsExam29March2015Evening\03.MagicWand\obj\Debug\03.MagicWand.exe
+C:\Users\lenovo\Desktop\14.ProgrammingBasicsExam29March2015Evening\03.MagicWand\obj\Debug\03.MagicWand.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\14.Programming Basics Exam 29 March 2015 Evening\14.ProgrammingBasicsExam29March2015Evening\03.MagicWand\bin\Debug\03.MagicWand.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\14.Programming Basics Exam 29 March 2015 Evening\14.ProgrammingBasicsExam29March2015Evening\03.MagicWand\obj\Debug\03.MagicWand.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\14.Programming Basics Exam 29 March 2015 Evening\14.ProgrammingBasicsExam29March2015Evening\03.MagicWand\obj\Debug\03.MagicWand.pdb

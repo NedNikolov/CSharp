@@ -1,0 +1,5 @@
+C:\Users\lenovo\Desktop\ProgrammingBasicsLab16August2015\01.BaiIvan\bin\Debug\01.BaiIvan.exe.config
+C:\Users\lenovo\Desktop\ProgrammingBasicsLab16August2015\01.BaiIvan\bin\Debug\01.BaiIvan.exe
+C:\Users\lenovo\Desktop\ProgrammingBasicsLab16August2015\01.BaiIvan\bin\Debug\01.BaiIvan.pdb
+C:\Users\lenovo\Desktop\ProgrammingBasicsLab16August2015\01.BaiIvan\obj\Debug\01.BaiIvan.exe
+C:\Users\lenovo\Desktop\ProgrammingBasicsLab16August2015\01.BaiIvan\obj\Debug\01.BaiIvan.pdb

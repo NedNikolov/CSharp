@@ -1,0 +1,6 @@
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\14.Programming Basics Exam 29 March 2015 Evening\14.ProgrammingBasicsExam29March2015Evening\04.Арраъ\bin\Debug\04.Арраъ.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\14.Programming Basics Exam 29 March 2015 Evening\14.ProgrammingBasicsExam29March2015Evening\04.Арраъ\bin\Debug\04.Арраъ.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\14.Programming Basics Exam 29 March 2015 Evening\14.ProgrammingBasicsExam29March2015Evening\04.Арраъ\bin\Debug\04.Арраъ.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\14.Programming Basics Exam 29 March 2015 Evening\14.ProgrammingBasicsExam29March2015Evening\04.Арраъ\obj\Debug\04.array.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\14.Programming Basics Exam 29 March 2015 Evening\14.ProgrammingBasicsExam29March2015Evening\04.Арраъ\obj\Debug\04.Арраъ.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\14.Programming Basics Exam 29 March 2015 Evening\14.ProgrammingBasicsExam29March2015Evening\04.Арраъ\obj\Debug\04.Арраъ.pdb

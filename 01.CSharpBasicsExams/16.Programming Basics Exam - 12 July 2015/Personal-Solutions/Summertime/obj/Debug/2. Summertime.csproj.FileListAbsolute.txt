@@ -1,0 +1,5 @@
+C:\Users\Angel\Documents\Programming\SoftUni\softuni\Exam-Problems\C# SoftUni\Programming-Basics-Exam-12-Jul-2015\Exam\Personal-Solutions\Summertime\bin\Debug\Summertime.exe.config
+C:\Users\Angel\Documents\Programming\SoftUni\softuni\Exam-Problems\C# SoftUni\Programming-Basics-Exam-12-Jul-2015\Exam\Personal-Solutions\Summertime\bin\Debug\Summertime.exe
+C:\Users\Angel\Documents\Programming\SoftUni\softuni\Exam-Problems\C# SoftUni\Programming-Basics-Exam-12-Jul-2015\Exam\Personal-Solutions\Summertime\bin\Debug\Summertime.pdb
+C:\Users\Angel\Documents\Programming\SoftUni\softuni\Exam-Problems\C# SoftUni\Programming-Basics-Exam-12-Jul-2015\Exam\Personal-Solutions\Summertime\obj\Debug\Summertime.exe
+C:\Users\Angel\Documents\Programming\SoftUni\softuni\Exam-Problems\C# SoftUni\Programming-Basics-Exam-12-Jul-2015\Exam\Personal-Solutions\Summertime\obj\Debug\Summertime.pdb

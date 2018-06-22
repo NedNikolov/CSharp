@@ -1,0 +1,6 @@
+C:\Users\lenovo\Desktop\ProgrammingBasicsLab16August2015\02.AnnieDrunk\bin\Debug\02.AnnieDrunk.exe.config
+C:\Users\lenovo\Desktop\ProgrammingBasicsLab16August2015\02.AnnieDrunk\bin\Debug\02.AnnieDrunk.exe
+C:\Users\lenovo\Desktop\ProgrammingBasicsLab16August2015\02.AnnieDrunk\bin\Debug\02.AnnieDrunk.pdb
+C:\Users\lenovo\Desktop\ProgrammingBasicsLab16August2015\02.AnnieDrunk\obj\Debug\02.AnnieDrunk.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\ProgrammingBasicsLab16August2015\02.AnnieDrunk\obj\Debug\02.AnnieDrunk.exe
+C:\Users\lenovo\Desktop\ProgrammingBasicsLab16August2015\02.AnnieDrunk\obj\Debug\02.AnnieDrunk.pdb

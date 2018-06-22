@@ -1,0 +1,3 @@
+C:\Users\lenovo\Desktop\BasicsExam26April2015Morning\05.BitAsCrossboards\bin\Debug\05.BitAsCrossboards.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\14.Programming Basics Exam 26 April 2015 Morning\BasicsExam26April2015Morning\05.BitAsCrossboards\bin\Debug\05.BitAsCrossboards.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\15.Programming Basics Exam 26 April 2015 Morning\BasicsExam26April2015Morning\05.BitAsCrossboards\bin\Debug\05.BitAsCrossboards.exe.config

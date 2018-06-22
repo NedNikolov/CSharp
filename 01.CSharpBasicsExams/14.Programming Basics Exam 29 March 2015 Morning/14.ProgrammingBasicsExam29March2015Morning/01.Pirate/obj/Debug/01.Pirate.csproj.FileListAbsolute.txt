@@ -1,0 +1,6 @@
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\14.Programming Basics Exam 29 March 2015 Morning\14.ProgrammingBasicsExam29March2015Morning\01.Pirate\bin\Debug\01.Pirate.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\14.Programming Basics Exam 29 March 2015 Morning\14.ProgrammingBasicsExam29March2015Morning\01.Pirate\bin\Debug\01.Pirate.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\14.Programming Basics Exam 29 March 2015 Morning\14.ProgrammingBasicsExam29March2015Morning\01.Pirate\bin\Debug\01.Pirate.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\14.Programming Basics Exam 29 March 2015 Morning\14.ProgrammingBasicsExam29March2015Morning\01.Pirate\obj\Debug\01.Pirate.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\14.Programming Basics Exam 29 March 2015 Morning\14.ProgrammingBasicsExam29March2015Morning\01.Pirate\obj\Debug\01.Pirate.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\14.Programming Basics Exam 29 March 2015 Morning\14.ProgrammingBasicsExam29March2015Morning\01.Pirate\obj\Debug\01.Pirate.pdb

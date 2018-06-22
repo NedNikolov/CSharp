@@ -1,0 +1,9 @@
+C:\Users\lenovo\Desktop\15.ProgrammingBasicsExam26April2015Evening\03.Sunlight\bin\Debug\03.Sunlight.exe.config
+C:\Users\lenovo\Desktop\15.ProgrammingBasicsExam26April2015Evening\03.Sunlight\bin\Debug\03.Sunlight.exe
+C:\Users\lenovo\Desktop\15.ProgrammingBasicsExam26April2015Evening\03.Sunlight\bin\Debug\03.Sunlight.pdb
+C:\Users\lenovo\Desktop\15.ProgrammingBasicsExam26April2015Evening\03.Sunlight\obj\Debug\03.Sunlight.exe
+C:\Users\lenovo\Desktop\15.ProgrammingBasicsExam26April2015Evening\03.Sunlight\obj\Debug\03.Sunlight.pdb
+C:\Users\lenovo\Desktop\15.ProgrammingBasicsExam26April2015Evening\03.Sunlight\obj\Debug\03.Sunlight.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\15.Programming Basics Exam 26 April 2015 Evening\15.ProgrammingBasicsExam26April2015Evening\03.Sunlight\bin\Debug\03.Sunlight.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\15.Programming Basics Exam 26 April 2015 Evening\15.ProgrammingBasicsExam26April2015Evening\03.Sunlight\obj\Debug\03.Sunlight.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\15.Programming Basics Exam 26 April 2015 Evening\15.ProgrammingBasicsExam26April2015Evening\03.Sunlight\obj\Debug\03.Sunlight.pdb

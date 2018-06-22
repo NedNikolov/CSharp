@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\15.ProgrammingBasicsExam26April2015Evening\01.CompoundInterest\bin\Debug\01.CompoundInterest.exe.config
+C:\Users\lenovo\Desktop\15.ProgrammingBasicsExam26April2015Evening\01.CompoundInterest\bin\Debug\01.CompoundInterest.exe
+C:\Users\lenovo\Desktop\15.ProgrammingBasicsExam26April2015Evening\01.CompoundInterest\bin\Debug\01.CompoundInterest.pdb
+C:\Users\lenovo\Desktop\15.ProgrammingBasicsExam26April2015Evening\01.CompoundInterest\obj\Debug\01.CompoundInterest.exe
+C:\Users\lenovo\Desktop\15.ProgrammingBasicsExam26April2015Evening\01.CompoundInterest\obj\Debug\01.CompoundInterest.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\15.Programming Basics Exam 26 April 2015 Evening\15.ProgrammingBasicsExam26April2015Evening\01.CompoundInterest\bin\Debug\01.CompoundInterest.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\15.Programming Basics Exam 26 April 2015 Evening\15.ProgrammingBasicsExam26April2015Evening\01.CompoundInterest\obj\Debug\01.CompoundInterest.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\15.Programming Basics Exam 26 April 2015 Evening\15.ProgrammingBasicsExam26April2015Evening\01.CompoundInterest\obj\Debug\01.CompoundInterest.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\15.Programming Basics Exam 26 April 2015 Evening\15.ProgrammingBasicsExam26April2015Evening\01.CompoundInterest\bin\Debug\01.CompoundInterest.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\15.Programming Basics Exam 26 April 2015 Evening\15.ProgrammingBasicsExam26April2015Evening\01.CompoundInterest\bin\Debug\01.CompoundInterest.pdb

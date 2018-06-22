@@ -1,0 +1,9 @@
+C:\Users\lenovo\Desktop\17.ProgrammingBasicsExam30August2015\01.DailyCalorieIntake\bin\Debug\01.DailyCalorieIntake.exe.config
+C:\Users\lenovo\Desktop\17.ProgrammingBasicsExam30August2015\01.DailyCalorieIntake\obj\Debug\01.DailyCalorieIntake.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\17.ProgrammingBasicsExam30August2015\01.DailyCalorieIntake\bin\Debug\01.DailyCalorieIntake.exe
+C:\Users\lenovo\Desktop\17.ProgrammingBasicsExam30August2015\01.DailyCalorieIntake\bin\Debug\01.DailyCalorieIntake.pdb
+C:\Users\lenovo\Desktop\17.ProgrammingBasicsExam30August2015\01.DailyCalorieIntake\obj\Debug\01.DailyCalorieIntake.exe
+C:\Users\lenovo\Desktop\17.ProgrammingBasicsExam30August2015\01.DailyCalorieIntake\obj\Debug\01.DailyCalorieIntake.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\17.Programming Basics Exam - 30 August 2015\17.ProgrammingBasicsExam30August2015\01.DailyCalorieIntake\bin\Debug\01.DailyCalorieIntake.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\17.Programming Basics Exam - 30 August 2015\17.ProgrammingBasicsExam30August2015\01.DailyCalorieIntake\obj\Debug\01.DailyCalorieIntake.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\17.Programming Basics Exam - 30 August 2015\17.ProgrammingBasicsExam30August2015\01.DailyCalorieIntake\obj\Debug\01.DailyCalorieIntake.pdb

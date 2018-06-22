@@ -1,0 +1,9 @@
+C:\Users\lenovo\Desktop\11.CBasicsExam8November2014\01.Airlanes\bin\Debug\01.Airlanes.exe.config
+C:\Users\lenovo\Desktop\11.CBasicsExam8November2014\01.Airlanes\obj\Debug\01.Airlanes.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\11.CBasicsExam8November2014\01.Airlanes\bin\Debug\01.Airlanes.exe
+C:\Users\lenovo\Desktop\11.CBasicsExam8November2014\01.Airlanes\bin\Debug\01.Airlanes.pdb
+C:\Users\lenovo\Desktop\11.CBasicsExam8November2014\01.Airlanes\obj\Debug\01.Airlanes.exe
+C:\Users\lenovo\Desktop\11.CBasicsExam8November2014\01.Airlanes\obj\Debug\01.Airlanes.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\11.C# Basics Exam 8 November 2014\11.CBasicsExam8November2014\01.Airlanes\bin\Debug\01.Airlanes.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\11.C# Basics Exam 8 November 2014\11.CBasicsExam8November2014\01.Airlanes\obj\Debug\01.Airlanes.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\11.C# Basics Exam 8 November 2014\11.CBasicsExam8November2014\01.Airlanes\obj\Debug\01.Airlanes.pdb
