@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Car", "03.Car\03.Car.csproj", "{078070BB-735C-4490-8320-0D07F2E606F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Tables", "01.Tables\01.Tables.csproj", "{AE8F7A7D-0D38-4993-8AF0-A1688C09CE76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.BookOrder", "02.BookOrder\02.BookOrder.csproj", "{145532D7-76CD-4849-A03C-71D0B39C2D06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{078070BB-735C-4490-8320-0D07F2E606F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{078070BB-735C-4490-8320-0D07F2E606F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{078070BB-735C-4490-8320-0D07F2E606F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{078070BB-735C-4490-8320-0D07F2E606F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE8F7A7D-0D38-4993-8AF0-A1688C09CE76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE8F7A7D-0D38-4993-8AF0-A1688C09CE76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE8F7A7D-0D38-4993-8AF0-A1688C09CE76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE8F7A7D-0D38-4993-8AF0-A1688C09CE76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{145532D7-76CD-4849-A03C-71D0B39C2D06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{145532D7-76CD-4849-A03C-71D0B39C2D06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{145532D7-76CD-4849-A03C-71D0B39C2D06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{145532D7-76CD-4849-A03C-71D0B39C2D06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

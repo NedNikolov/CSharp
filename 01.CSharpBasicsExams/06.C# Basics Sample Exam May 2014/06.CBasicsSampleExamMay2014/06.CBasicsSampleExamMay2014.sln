@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.DrawFigure", "03.DrawFigure\03.DrawFigure.csproj", "{3B9E23DA-DFC2-4860-946C-891F8BE58223}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SoordinateSystem", "01.SoordinateSystem\01.SoordinateSystem.csproj", "{338BF473-8D6B-412E-9CAB-BE70AD7C03AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Fib", "02.Fib\02.Fib.csproj", "{EB51E244-18A0-44FC-B722-A7109D3E301B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B9E23DA-DFC2-4860-946C-891F8BE58223}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B9E23DA-DFC2-4860-946C-891F8BE58223}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B9E23DA-DFC2-4860-946C-891F8BE58223}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B9E23DA-DFC2-4860-946C-891F8BE58223}.Release|Any CPU.Build.0 = Release|Any CPU
+		{338BF473-8D6B-412E-9CAB-BE70AD7C03AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{338BF473-8D6B-412E-9CAB-BE70AD7C03AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{338BF473-8D6B-412E-9CAB-BE70AD7C03AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{338BF473-8D6B-412E-9CAB-BE70AD7C03AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB51E244-18A0-44FC-B722-A7109D3E301B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB51E244-18A0-44FC-B722-A7109D3E301B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB51E244-18A0-44FC-B722-A7109D3E301B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB51E244-18A0-44FC-B722-A7109D3E301B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

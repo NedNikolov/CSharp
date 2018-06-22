@@ -1,0 +1,6 @@
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\08.C# Basics Exam 22 August 2014\08.CBasicsExam22August2014\01.Tables\bin\Debug\01.Tables.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\08.C# Basics Exam 22 August 2014\08.CBasicsExam22August2014\01.Tables\bin\Debug\01.Tables.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\08.C# Basics Exam 22 August 2014\08.CBasicsExam22August2014\01.Tables\bin\Debug\01.Tables.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\08.C# Basics Exam 22 August 2014\08.CBasicsExam22August2014\01.Tables\obj\Debug\01.Tables.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\08.C# Basics Exam 22 August 2014\08.CBasicsExam22August2014\01.Tables\obj\Debug\01.Tables.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\08.C# Basics Exam 22 August 2014\08.CBasicsExam22August2014\01.Tables\obj\Debug\01.Tables.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Evening\07.CBasicsExam25July2014Evening\01.Electricity\bin\Debug\01.Electricity.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Evening\07.CBasicsExam25July2014Evening\01.Electricity\bin\Debug\01.Electricity.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Evening\07.CBasicsExam25July2014Evening\01.Electricity\bin\Debug\01.Electricity.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Evening\07.CBasicsExam25July2014Evening\01.Electricity\obj\Debug\01.Electricity.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Evening\07.CBasicsExam25July2014Evening\01.Electricity\obj\Debug\01.Electricity.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Evening\07.CBasicsExam25July2014Evening\01.Electricity\obj\Debug\01.Electricity.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Evening - Electricity\07.CBasicsExam25July2014Evening\01.Electricity\bin\Debug\01.Electricity.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Evening - Electricity\07.CBasicsExam25July2014Evening\01.Electricity\obj\Debug\01.Electricity.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Evening - Electricity\07.CBasicsExam25July2014Evening\01.Electricity\obj\Debug\01.Electricity.pdb

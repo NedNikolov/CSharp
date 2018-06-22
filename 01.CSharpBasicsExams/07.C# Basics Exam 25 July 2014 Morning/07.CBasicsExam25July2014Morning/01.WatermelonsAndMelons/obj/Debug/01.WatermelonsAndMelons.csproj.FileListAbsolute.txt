@@ -1,0 +1,5 @@
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Morning\07.CBasicsExam25July2014Morning\01.WatermelonsAndMelons\bin\Debug\01.WatermelonsAndMelons.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Morning\07.CBasicsExam25July2014Morning\01.WatermelonsAndMelons\bin\Debug\01.WatermelonsAndMelons.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Morning\07.CBasicsExam25July2014Morning\01.WatermelonsAndMelons\bin\Debug\01.WatermelonsAndMelons.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Morning\07.CBasicsExam25July2014Morning\01.WatermelonsAndMelons\obj\Debug\01.WatermelonsAndMelons.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Morning\07.CBasicsExam25July2014Morning\01.WatermelonsAndMelons\obj\Debug\01.WatermelonsAndMelons.pdb

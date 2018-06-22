@@ -1,0 +1,6 @@
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\09.C# Basics Exam 26 August 2014\09.CBasicsExam26August2014\01.TicTac\bin\Debug\01.TicTac.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\09.C# Basics Exam 26 August 2014\09.CBasicsExam26August2014\01.TicTac\bin\Debug\01.TicTac.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\09.C# Basics Exam 26 August 2014\09.CBasicsExam26August2014\01.TicTac\bin\Debug\01.TicTac.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\09.C# Basics Exam 26 August 2014\09.CBasicsExam26August2014\01.TicTac\obj\Debug\01.TicTac.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\09.C# Basics Exam 26 August 2014\09.CBasicsExam26August2014\01.TicTac\obj\Debug\01.TicTac.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\09.C# Basics Exam 26 August 2014\09.CBasicsExam26August2014\01.TicTac\obj\Debug\01.TicTac.pdb

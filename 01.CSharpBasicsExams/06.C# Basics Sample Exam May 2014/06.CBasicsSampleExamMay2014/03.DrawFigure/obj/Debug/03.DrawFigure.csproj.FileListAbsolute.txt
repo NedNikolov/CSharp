@@ -1,0 +1,9 @@
+C:\Users\lenovo\Desktop\06.CBasicsSampleExamMay2014\03.DrawFigure\bin\Debug\03.DrawFigure.exe.config
+C:\Users\lenovo\Desktop\06.CBasicsSampleExamMay2014\03.DrawFigure\bin\Debug\03.DrawFigure.exe
+C:\Users\lenovo\Desktop\06.CBasicsSampleExamMay2014\03.DrawFigure\bin\Debug\03.DrawFigure.pdb
+C:\Users\lenovo\Desktop\06.CBasicsSampleExamMay2014\03.DrawFigure\obj\Debug\03.DrawFigure.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\06.CBasicsSampleExamMay2014\03.DrawFigure\obj\Debug\03.DrawFigure.exe
+C:\Users\lenovo\Desktop\06.CBasicsSampleExamMay2014\03.DrawFigure\obj\Debug\03.DrawFigure.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\06.C# Basics Sample Exam May 2014\06.CBasicsSampleExamMay2014\03.DrawFigure\bin\Debug\03.DrawFigure.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\06.C# Basics Sample Exam May 2014\06.CBasicsSampleExamMay2014\03.DrawFigure\obj\Debug\03.DrawFigure.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\06.C# Basics Sample Exam May 2014\06.CBasicsSampleExamMay2014\03.DrawFigure\obj\Debug\03.DrawFigure.pdb

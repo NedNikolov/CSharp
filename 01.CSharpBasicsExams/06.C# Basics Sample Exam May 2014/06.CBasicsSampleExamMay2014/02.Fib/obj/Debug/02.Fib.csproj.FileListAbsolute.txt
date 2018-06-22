@@ -1,0 +1,6 @@
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\06.C# Basics Sample Exam May 2014\06.CBasicsSampleExamMay2014\02.Fib\bin\Debug\02.Fib.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\06.C# Basics Sample Exam May 2014\06.CBasicsSampleExamMay2014\02.Fib\bin\Debug\02.Fib.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\06.C# Basics Sample Exam May 2014\06.CBasicsSampleExamMay2014\02.Fib\bin\Debug\02.Fib.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\06.C# Basics Sample Exam May 2014\06.CBasicsSampleExamMay2014\02.Fib\obj\Debug\02.Fib.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\06.C# Basics Sample Exam May 2014\06.CBasicsSampleExamMay2014\02.Fib\obj\Debug\02.Fib.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\06.C# Basics Sample Exam May 2014\06.CBasicsSampleExamMay2014\02.Fib\obj\Debug\02.Fib.pdb

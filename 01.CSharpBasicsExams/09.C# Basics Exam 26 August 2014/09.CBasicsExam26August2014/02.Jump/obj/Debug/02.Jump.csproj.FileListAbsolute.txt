@@ -1,0 +1,6 @@
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\09.C# Basics Exam 26 August 2014\09.CBasicsExam26August2014\02.Jump\bin\Debug\02.Jump.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\09.C# Basics Exam 26 August 2014\09.CBasicsExam26August2014\02.Jump\bin\Debug\02.Jump.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\09.C# Basics Exam 26 August 2014\09.CBasicsExam26August2014\02.Jump\bin\Debug\02.Jump.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\09.C# Basics Exam 26 August 2014\09.CBasicsExam26August2014\02.Jump\obj\Debug\02.Jump.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\09.C# Basics Exam 26 August 2014\09.CBasicsExam26August2014\02.Jump\obj\Debug\02.Jump.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\09.C# Basics Exam 26 August 2014\09.CBasicsExam26August2014\02.Jump\obj\Debug\02.Jump.pdb

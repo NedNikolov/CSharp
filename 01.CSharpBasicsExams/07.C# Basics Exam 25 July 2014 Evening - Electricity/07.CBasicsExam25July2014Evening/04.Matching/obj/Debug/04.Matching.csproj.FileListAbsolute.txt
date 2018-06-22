@@ -1,0 +1,6 @@
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Evening - Electricity\07.CBasicsExam25July2014Evening\04.Matching\bin\Debug\04.Matching.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Evening - Electricity\07.CBasicsExam25July2014Evening\04.Matching\bin\Debug\04.Matching.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Evening - Electricity\07.CBasicsExam25July2014Evening\04.Matching\bin\Debug\04.Matching.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Evening - Electricity\07.CBasicsExam25July2014Evening\04.Matching\obj\Debug\04.Matching.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Evening - Electricity\07.CBasicsExam25July2014Evening\04.Matching\obj\Debug\04.Matching.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Evening - Electricity\07.CBasicsExam25July2014Evening\04.Matching\obj\Debug\04.Matching.pdb

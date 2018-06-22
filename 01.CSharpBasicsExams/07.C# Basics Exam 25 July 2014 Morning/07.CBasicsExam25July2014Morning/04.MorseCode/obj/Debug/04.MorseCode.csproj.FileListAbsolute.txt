@@ -1,0 +1,6 @@
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Morning\07.CBasicsExam25July2014Morning\04.MorseCode\bin\Debug\04.MorseCode.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Morning\07.CBasicsExam25July2014Morning\04.MorseCode\bin\Debug\04.MorseCode.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Morning\07.CBasicsExam25July2014Morning\04.MorseCode\bin\Debug\04.MorseCode.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Morning\07.CBasicsExam25July2014Morning\04.MorseCode\obj\Debug\04.MorseCode.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Morning\07.CBasicsExam25July2014Morning\04.MorseCode\obj\Debug\04.MorseCode.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Morning\07.CBasicsExam25July2014Morning\04.MorseCode\obj\Debug\04.MorseCode.pdb

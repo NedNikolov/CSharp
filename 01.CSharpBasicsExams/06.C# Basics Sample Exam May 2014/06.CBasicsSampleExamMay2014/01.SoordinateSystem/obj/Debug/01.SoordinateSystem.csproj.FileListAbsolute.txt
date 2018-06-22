@@ -1,0 +1,6 @@
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\06.C# Basics Sample Exam May 2014\06.CBasicsSampleExamMay2014\01.SoordinateSystem\bin\Debug\01.SoordinateSystem.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\06.C# Basics Sample Exam May 2014\06.CBasicsSampleExamMay2014\01.SoordinateSystem\bin\Debug\01.SoordinateSystem.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\06.C# Basics Sample Exam May 2014\06.CBasicsSampleExamMay2014\01.SoordinateSystem\bin\Debug\01.SoordinateSystem.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\06.C# Basics Sample Exam May 2014\06.CBasicsSampleExamMay2014\01.SoordinateSystem\obj\Debug\01.SoordinateSystem.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\06.C# Basics Sample Exam May 2014\06.CBasicsSampleExamMay2014\01.SoordinateSystem\obj\Debug\01.SoordinateSystem.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\06.C# Basics Sample Exam May 2014\06.CBasicsSampleExamMay2014\01.SoordinateSystem\obj\Debug\01.SoordinateSystem.pdb

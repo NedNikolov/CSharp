@@ -1,0 +1,6 @@
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Morning\07.CBasicsExam25July2014Morning\02.lsnCheck\bin\Debug\02.lsnCheck.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Morning\07.CBasicsExam25July2014Morning\02.lsnCheck\obj\Debug\02.lsnCheck.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Morning\07.CBasicsExam25July2014Morning\02.lsnCheck\bin\Debug\02.lsnCheck.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Morning\07.CBasicsExam25July2014Morning\02.lsnCheck\bin\Debug\02.lsnCheck.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Morning\07.CBasicsExam25July2014Morning\02.lsnCheck\obj\Debug\02.lsnCheck.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Morning\07.CBasicsExam25July2014Morning\02.lsnCheck\obj\Debug\02.lsnCheck.pdb

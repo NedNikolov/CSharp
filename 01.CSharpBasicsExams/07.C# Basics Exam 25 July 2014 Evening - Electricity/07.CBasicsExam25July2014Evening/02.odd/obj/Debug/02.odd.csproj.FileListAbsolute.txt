@@ -1,0 +1,6 @@
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Evening - Electricity\07.CBasicsExam25July2014Evening\02.odd\bin\Debug\02.odd.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Evening - Electricity\07.CBasicsExam25July2014Evening\02.odd\bin\Debug\02.odd.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Evening - Electricity\07.CBasicsExam25July2014Evening\02.odd\bin\Debug\02.odd.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Evening - Electricity\07.CBasicsExam25July2014Evening\02.odd\obj\Debug\02.odd.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Evening - Electricity\07.CBasicsExam25July2014Evening\02.odd\obj\Debug\02.odd.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Evening - Electricity\07.CBasicsExam25July2014Evening\02.odd\obj\Debug\02.odd.pdb

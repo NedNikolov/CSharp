@@ -1,0 +1,6 @@
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\05.C# Basics Exam 28 April 2014 - DISK\06.CBasicsExam28April2014\02.KNum\bin\Debug\02.KNum.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\05.C# Basics Exam 28 April 2014 - DISK\06.CBasicsExam28April2014\02.KNum\bin\Debug\02.KNum.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\05.C# Basics Exam 28 April 2014 - DISK\06.CBasicsExam28April2014\02.KNum\bin\Debug\02.KNum.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\05.C# Basics Exam 28 April 2014 - DISK\06.CBasicsExam28April2014\02.KNum\obj\Debug\02.KNum.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\05.C# Basics Exam 28 April 2014 - DISK\06.CBasicsExam28April2014\02.KNum\obj\Debug\02.KNum.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\05.C# Basics Exam 28 April 2014 - DISK\06.CBasicsExam28April2014\02.KNum\obj\Debug\02.KNum.pdb

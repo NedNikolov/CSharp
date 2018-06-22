@@ -1,0 +1,8 @@
+C:\Users\lenovo\Desktop\07.CBasicsExam25July2014Morning\03.PandaFlag\bin\Debug\03.PandaFlag.exe.config
+C:\Users\lenovo\Desktop\07.CBasicsExam25July2014Morning\03.PandaFlag\bin\Debug\03.PandaFlag.exe
+C:\Users\lenovo\Desktop\07.CBasicsExam25July2014Morning\03.PandaFlag\bin\Debug\03.PandaFlag.pdb
+C:\Users\lenovo\Desktop\07.CBasicsExam25July2014Morning\03.PandaFlag\obj\Debug\03.PandaFlag.exe
+C:\Users\lenovo\Desktop\07.CBasicsExam25July2014Morning\03.PandaFlag\obj\Debug\03.PandaFlag.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Morning\07.CBasicsExam25July2014Morning\03.PandaFlag\bin\Debug\03.PandaFlag.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Morning\07.CBasicsExam25July2014Morning\03.PandaFlag\obj\Debug\03.PandaFlag.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Morning\07.CBasicsExam25July2014Morning\03.PandaFlag\obj\Debug\03.PandaFlag.pdb

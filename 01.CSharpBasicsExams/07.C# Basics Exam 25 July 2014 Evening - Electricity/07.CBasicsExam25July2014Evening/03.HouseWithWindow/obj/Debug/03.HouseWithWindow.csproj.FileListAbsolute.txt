@@ -1,0 +1,12 @@
+C:\Users\lenovo\Desktop\07.CBasicsExam25July2014Evening\03.HouseWithWindow\bin\Debug\03.HouseWithWindow.exe.config
+C:\Users\lenovo\Desktop\07.CBasicsExam25July2014Evening\03.HouseWithWindow\bin\Debug\03.HouseWithWindow.exe
+C:\Users\lenovo\Desktop\07.CBasicsExam25July2014Evening\03.HouseWithWindow\bin\Debug\03.HouseWithWindow.pdb
+C:\Users\lenovo\Desktop\07.CBasicsExam25July2014Evening\03.HouseWithWindow\obj\Debug\03.HouseWithWindow.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\07.CBasicsExam25July2014Evening\03.HouseWithWindow\obj\Debug\03.HouseWithWindow.exe
+C:\Users\lenovo\Desktop\07.CBasicsExam25July2014Evening\03.HouseWithWindow\obj\Debug\03.HouseWithWindow.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Evening\07.CBasicsExam25July2014Evening\03.HouseWithWindow\bin\Debug\03.HouseWithWindow.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Evening\07.CBasicsExam25July2014Evening\03.HouseWithWindow\obj\Debug\03.HouseWithWindow.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Evening\07.CBasicsExam25July2014Evening\03.HouseWithWindow\obj\Debug\03.HouseWithWindow.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Evening - Electricity\07.CBasicsExam25July2014Evening\03.HouseWithWindow\bin\Debug\03.HouseWithWindow.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Evening - Electricity\07.CBasicsExam25July2014Evening\03.HouseWithWindow\obj\Debug\03.HouseWithWindow.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\07.C# Basics Exam 25 July 2014 Evening - Electricity\07.CBasicsExam25July2014Evening\03.HouseWithWindow\obj\Debug\03.HouseWithWindow.pdb

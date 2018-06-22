@@ -1,0 +1,12 @@
+C:\Users\lenovo\Desktop\08.CBasicsExam22August2014\03.Car\bin\Debug\03.Car.exe.config
+C:\Users\lenovo\Desktop\08.CBasicsExam22August2014\03.Car\bin\Debug\03.Car.exe
+C:\Users\lenovo\Desktop\08.CBasicsExam22August2014\03.Car\bin\Debug\03.Car.pdb
+C:\Users\lenovo\Desktop\08.CBasicsExam22August2014\03.Car\obj\Debug\03.Car.exe
+C:\Users\lenovo\Desktop\08.CBasicsExam22August2014\03.Car\obj\Debug\03.Car.pdb
+C:\Users\lenovo\Desktop\08.CBasicsExam22August2014\03.Car\obj\Debug\03.Car.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\08.C# Basics Exam 22 August 2014\08.CBasicsExam22August2014\03.Car\bin\Debug\03.Car.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\08.C# Basics Exam 22 August 2014\08.CBasicsExam22August2014\03.Car\obj\Debug\03.Car.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\08.C# Basics Exam 22 August 2014\08.CBasicsExam22August2014\03.Car\obj\Debug\03.Car.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\08.C# Basics Exam 22 August 2014\08.CBasicsExam22August2014\03.Car\bin\Debug\03.Car.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\08.C# Basics Exam 22 August 2014\08.CBasicsExam22August2014\03.Car\bin\Debug\03.Car.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\08.C# Basics Exam 22 August 2014\08.CBasicsExam22August2014\03.Car\obj\Debug\03.Car.csprojResolveAssemblyReference.cache

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Disk", "03.Disk\03.Disk.csproj", "{92955B92-0B09-4D1C-9116-0C065775931E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.FitBoxInBox", "01.FitBoxInBox\01.FitBoxInBox.csproj", "{B1AEEDF5-CE2B-4E6B-9555-EBFA09A35455}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.KNum", "02.KNum\02.KNum.csproj", "{B50FA022-F71C-4852-B25B-337720BB7DEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92955B92-0B09-4D1C-9116-0C065775931E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92955B92-0B09-4D1C-9116-0C065775931E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92955B92-0B09-4D1C-9116-0C065775931E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92955B92-0B09-4D1C-9116-0C065775931E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1AEEDF5-CE2B-4E6B-9555-EBFA09A35455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1AEEDF5-CE2B-4E6B-9555-EBFA09A35455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1AEEDF5-CE2B-4E6B-9555-EBFA09A35455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1AEEDF5-CE2B-4E6B-9555-EBFA09A35455}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B50FA022-F71C-4852-B25B-337720BB7DEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B50FA022-F71C-4852-B25B-337720BB7DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B50FA022-F71C-4852-B25B-337720BB7DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B50FA022-F71C-4852-B25B-337720BB7DEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

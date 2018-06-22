@@ -1,0 +1,6 @@
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\08.C# Basics Exam 22 August 2014\08.CBasicsExam22August2014\02.BookOrder\bin\Debug\02.BookOrder.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\08.C# Basics Exam 22 August 2014\08.CBasicsExam22August2014\02.BookOrder\bin\Debug\02.BookOrder.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\08.C# Basics Exam 22 August 2014\08.CBasicsExam22August2014\02.BookOrder\bin\Debug\02.BookOrder.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\08.C# Basics Exam 22 August 2014\08.CBasicsExam22August2014\02.BookOrder\obj\Debug\02.BookOrder.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\08.C# Basics Exam 22 August 2014\08.CBasicsExam22August2014\02.BookOrder\obj\Debug\02.BookOrder.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\08.C# Basics Exam 22 August 2014\08.CBasicsExam22August2014\02.BookOrder\obj\Debug\02.BookOrder.pdb
