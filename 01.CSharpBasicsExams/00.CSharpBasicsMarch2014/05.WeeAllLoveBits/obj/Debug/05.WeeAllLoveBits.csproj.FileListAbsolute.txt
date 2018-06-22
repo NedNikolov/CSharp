@@ -1,0 +1,6 @@
+C:\Users\lenovo\Desktop\PodgotovkaCSharpBasics\05.WeeAllLoveBits\bin\Debug\05.WeeAllLoveBits.exe.config
+C:\Users\lenovo\Desktop\PodgotovkaCSharpBasics\05.WeeAllLoveBits\bin\Debug\05.WeeAllLoveBits.exe
+C:\Users\lenovo\Desktop\PodgotovkaCSharpBasics\05.WeeAllLoveBits\bin\Debug\05.WeeAllLoveBits.pdb
+C:\Users\lenovo\Desktop\PodgotovkaCSharpBasics\05.WeeAllLoveBits\obj\Debug\05.WeeAllLoveBits.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\PodgotovkaCSharpBasics\05.WeeAllLoveBits\obj\Debug\05.WeeAllLoveBits.exe
+C:\Users\lenovo\Desktop\PodgotovkaCSharpBasics\05.WeeAllLoveBits\obj\Debug\05.WeeAllLoveBits.pdb
