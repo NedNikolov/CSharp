@@ -1,0 +1,10 @@
+C:\Users\Ned\Desktop\ExamSolutions\02.HornetComm\bin\Debug\netcoreapp2.0\02.HornetComm.deps.json
+C:\Users\Ned\Desktop\ExamSolutions\02.HornetComm\bin\Debug\netcoreapp2.0\02.HornetComm.runtimeconfig.json
+C:\Users\Ned\Desktop\ExamSolutions\02.HornetComm\bin\Debug\netcoreapp2.0\02.HornetComm.runtimeconfig.dev.json
+C:\Users\Ned\Desktop\ExamSolutions\02.HornetComm\bin\Debug\netcoreapp2.0\02.HornetComm.dll
+C:\Users\Ned\Desktop\ExamSolutions\02.HornetComm\bin\Debug\netcoreapp2.0\02.HornetComm.pdb
+C:\Users\Ned\Desktop\ExamSolutions\02.HornetComm\obj\Debug\netcoreapp2.0\02.HornetComm.csproj.CoreCompileInputs.cache
+C:\Users\Ned\Desktop\ExamSolutions\02.HornetComm\obj\Debug\netcoreapp2.0\02.HornetComm.AssemblyInfoInputs.cache
+C:\Users\Ned\Desktop\ExamSolutions\02.HornetComm\obj\Debug\netcoreapp2.0\02.HornetComm.AssemblyInfo.cs
+C:\Users\Ned\Desktop\ExamSolutions\02.HornetComm\obj\Debug\netcoreapp2.0\02.HornetComm.dll
+C:\Users\Ned\Desktop\ExamSolutions\02.HornetComm\obj\Debug\netcoreapp2.0\02.HornetComm.pdb
