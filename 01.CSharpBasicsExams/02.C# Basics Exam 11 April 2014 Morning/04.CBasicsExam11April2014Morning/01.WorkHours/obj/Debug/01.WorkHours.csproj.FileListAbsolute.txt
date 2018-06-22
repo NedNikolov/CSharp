@@ -1,0 +1,6 @@
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\02.C# Basics Exam 11 April 2014 Morning\04.CBasicsExam11April2014Morning\01.WorkHours\bin\Debug\01.WorkHours.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\02.C# Basics Exam 11 April 2014 Morning\04.CBasicsExam11April2014Morning\01.WorkHours\bin\Debug\01.WorkHours.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\02.C# Basics Exam 11 April 2014 Morning\04.CBasicsExam11April2014Morning\01.WorkHours\bin\Debug\01.WorkHours.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\02.C# Basics Exam 11 April 2014 Morning\04.CBasicsExam11April2014Morning\01.WorkHours\obj\Debug\01.WorkHours.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\02.C# Basics Exam 11 April 2014 Morning\04.CBasicsExam11April2014Morning\01.WorkHours\obj\Debug\01.WorkHours.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\02.C# Basics Exam 11 April 2014 Morning\04.CBasicsExam11April2014Morning\01.WorkHours\obj\Debug\01.WorkHours.pdb

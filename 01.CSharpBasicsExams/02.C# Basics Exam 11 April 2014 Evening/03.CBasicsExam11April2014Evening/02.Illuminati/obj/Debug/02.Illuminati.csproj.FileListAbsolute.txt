@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\03.CBasicsExam11April2014Evening\02.Illuminati\bin\Debug\02.Illuminati.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\02.C# Basics Exam 11 April 2014 Evening\03.CBasicsExam11April2014Evening\02.Illuminati\bin\Debug\02.Illuminati.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\02.C# Basics Exam 11 April 2014 Evening\03.CBasicsExam11April2014Evening\02.Illuminati\bin\Debug\02.Illuminati.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\02.C# Basics Exam 11 April 2014 Evening\03.CBasicsExam11April2014Evening\02.Illuminati\bin\Debug\02.Illuminati.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\02.C# Basics Exam 11 April 2014 Evening\03.CBasicsExam11April2014Evening\02.Illuminati\obj\Debug\02.Illuminati.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\02.C# Basics Exam 11 April 2014 Evening\03.CBasicsExam11April2014Evening\02.Illuminati\obj\Debug\02.Illuminati.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\02.C# Basics Exam 11 April 2014 Evening\03.CBasicsExam11April2014Evening\02.Illuminati\obj\Debug\02.Illuminati.pdb

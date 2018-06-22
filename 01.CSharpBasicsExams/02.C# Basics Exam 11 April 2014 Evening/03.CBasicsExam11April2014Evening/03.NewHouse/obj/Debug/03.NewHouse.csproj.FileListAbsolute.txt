@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\03.CBasicsExam11April2014Evening\03.NewHouse\bin\Debug\03.NewHouse.exe.config
+C:\Users\lenovo\Desktop\03.CBasicsExam11April2014Evening\03.NewHouse\bin\Debug\03.NewHouse.exe
+C:\Users\lenovo\Desktop\03.CBasicsExam11April2014Evening\03.NewHouse\bin\Debug\03.NewHouse.pdb
+C:\Users\lenovo\Desktop\03.CBasicsExam11April2014Evening\03.NewHouse\obj\Debug\03.NewHouse.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\03.CBasicsExam11April2014Evening\03.NewHouse\obj\Debug\03.NewHouse.exe
+C:\Users\lenovo\Desktop\03.CBasicsExam11April2014Evening\03.NewHouse\obj\Debug\03.NewHouse.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\02.C# Basics Exam 11 April 2014 Evening\03.CBasicsExam11April2014Evening\03.NewHouse\bin\Debug\03.NewHouse.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\02.C# Basics Exam 11 April 2014 Evening\03.CBasicsExam11April2014Evening\03.NewHouse\obj\Debug\03.NewHouse.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\02.C# Basics Exam 11 April 2014 Evening\03.CBasicsExam11April2014Evening\03.NewHouse\obj\Debug\03.NewHouse.pdb
+E:\SOFTUNI\.0. C#\Задачи за изпита\02.C# Basics Exam 11 April 2014 Evening\03.CBasicsExam11April2014Evening\03.NewHouse\bin\Debug\03.NewHouse.exe.config
+E:\SOFTUNI\.0. C#\Задачи за изпита\02.C# Basics Exam 11 April 2014 Evening\03.CBasicsExam11April2014Evening\03.NewHouse\obj\Debug\03.NewHouse.exe
+E:\SOFTUNI\.0. C#\Задачи за изпита\02.C# Basics Exam 11 April 2014 Evening\03.CBasicsExam11April2014Evening\03.NewHouse\obj\Debug\03.NewHouse.pdb
+E:\SOFTUNI\.0. C#\Задачи за изпита\02.C# Basics Exam 11 April 2014 Evening\03.CBasicsExam11April2014Evening\03.NewHouse\bin\Debug\03.NewHouse.exe
+E:\SOFTUNI\.0. C#\Задачи за изпита\02.C# Basics Exam 11 April 2014 Evening\03.CBasicsExam11April2014Evening\03.NewHouse\bin\Debug\03.NewHouse.pdb
+E:\SOFTUNI\.0. C#\Задачи за изпита\02.C# Basics Exam 11 April 2014 Evening\03.CBasicsExam11April2014Evening\03.NewHouse\obj\Debug\03.NewHouse.csprojResolveAssemblyReference.cache

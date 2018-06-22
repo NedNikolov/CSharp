@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\03.CBasicsExam11April2014Evening\04.CrossingSequences\bin\Debug\04.CrossingSequences.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\02.C# Basics Exam 11 April 2014 Evening\03.CBasicsExam11April2014Evening\04.CrossingSequences\bin\Debug\04.CrossingSequences.exe.config
+E:\SOFTUNI\.0. C#\Задачи за изпита\02.C# Basics Exam 11 April 2014 Evening\03.CBasicsExam11April2014Evening\04.CrossingSequences\bin\Debug\04.CrossingSequences.exe.config
+E:\SOFTUNI\.0. C#\Задачи за изпита\02.C# Basics Exam 11 April 2014 Evening\03.CBasicsExam11April2014Evening\04.CrossingSequences\bin\Debug\04.CrossingSequences.exe
+E:\SOFTUNI\.0. C#\Задачи за изпита\02.C# Basics Exam 11 April 2014 Evening\03.CBasicsExam11April2014Evening\04.CrossingSequences\bin\Debug\04.CrossingSequences.pdb
+E:\SOFTUNI\.0. C#\Задачи за изпита\02.C# Basics Exam 11 April 2014 Evening\03.CBasicsExam11April2014Evening\04.CrossingSequences\obj\Debug\04.CrossingSequences.exe
+E:\SOFTUNI\.0. C#\Задачи за изпита\02.C# Basics Exam 11 April 2014 Evening\03.CBasicsExam11April2014Evening\04.CrossingSequences\obj\Debug\04.CrossingSequences.pdb

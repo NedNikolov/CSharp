@@ -1,0 +1,6 @@
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\02.C# Basics Exam 11 April 2014 Morning\04.CBasicsExam11April2014Morning\02.SumElements\bin\Debug\02.SumElements.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\02.C# Basics Exam 11 April 2014 Morning\04.CBasicsExam11April2014Morning\02.SumElements\bin\Debug\02.SumElements.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\02.C# Basics Exam 11 April 2014 Morning\04.CBasicsExam11April2014Morning\02.SumElements\bin\Debug\02.SumElements.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\02.C# Basics Exam 11 April 2014 Morning\04.CBasicsExam11April2014Morning\02.SumElements\obj\Debug\02.SumElements.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\02.C# Basics Exam 11 April 2014 Morning\04.CBasicsExam11April2014Morning\02.SumElements\obj\Debug\02.SumElements.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\02.C# Basics Exam 11 April 2014 Morning\04.CBasicsExam11April2014Morning\02.SumElements\obj\Debug\02.SumElements.pdb
