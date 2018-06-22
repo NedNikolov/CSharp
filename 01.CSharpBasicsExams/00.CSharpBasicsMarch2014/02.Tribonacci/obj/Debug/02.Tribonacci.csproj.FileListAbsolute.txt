@@ -1,0 +1,12 @@
+C:\Users\lenovo\Desktop\PodgotovkaCSharpBasics\02.Tribonacci\bin\Debug\02.Tribonacci.exe.config
+C:\Users\lenovo\Desktop\PodgotovkaCSharpBasics\02.Tribonacci\obj\Debug\02.Tribonacci.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\PodgotovkaCSharpBasics\02.Tribonacci\bin\Debug\02.Tribonacci.exe
+C:\Users\lenovo\Desktop\PodgotovkaCSharpBasics\02.Tribonacci\bin\Debug\02.Tribonacci.pdb
+C:\Users\lenovo\Desktop\PodgotovkaCSharpBasics\02.Tribonacci\obj\Debug\02.Tribonacci.exe
+C:\Users\lenovo\Desktop\PodgotovkaCSharpBasics\02.Tribonacci\obj\Debug\02.Tribonacci.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\00.CSharpBasicsMarch2014\02.Tribonacci\bin\Debug\02.Tribonacci.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\00.CSharpBasicsMarch2014\02.Tribonacci\obj\Debug\02.Tribonacci.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\00.CSharpBasicsMarch2014\02.Tribonacci\obj\Debug\02.Tribonacci.pdb
+E:\SOFTUNI\.0. C#\Задачи за изпита\00.CSharpBasicsMarch2014\02.Tribonacci\bin\Debug\02.Tribonacci.exe.config
+E:\SOFTUNI\.0. C#\Задачи за изпита\00.CSharpBasicsMarch2014\02.Tribonacci\obj\Debug\02.Tribonacci.exe
+E:\SOFTUNI\.0. C#\Задачи за изпита\00.CSharpBasicsMarch2014\02.Tribonacci\obj\Debug\02.Tribonacci.pdb

@@ -1,0 +1,18 @@
+C:\Users\lenovo\Desktop\PodgotovkaCSharpBasics\03.SandGlass\bin\Debug\03.SandGlass.exe.config
+C:\Users\lenovo\Desktop\PodgotovkaCSharpBasics\03.SandGlass\bin\Debug\03.SandGlass.exe
+C:\Users\lenovo\Desktop\PodgotovkaCSharpBasics\03.SandGlass\bin\Debug\03.SandGlass.pdb
+C:\Users\lenovo\Desktop\PodgotovkaCSharpBasics\03.SandGlass\obj\Debug\03.SandGlass.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\PodgotovkaCSharpBasics\03.SandGlass\obj\Debug\03.SandGlass.exe
+C:\Users\lenovo\Desktop\PodgotovkaCSharpBasics\03.SandGlass\obj\Debug\03.SandGlass.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\00.CSharpBasicsMarch2014\03.SandGlass\bin\Debug\03.SandGlass.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\00.CSharpBasicsMarch2014\03.SandGlass\obj\Debug\03.SandGlass.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\00.CSharpBasicsMarch2014\03.SandGlass\obj\Debug\03.SandGlass.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\00.CSharpBasicsMarch2014\03.SandGlass\bin\Debug\03.SandGlass.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\00.CSharpBasicsMarch2014\03.SandGlass\bin\Debug\03.SandGlass.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\00.CSharpBasicsMarch2014\03.SandGlass\obj\Debug\03.SandGlass.csprojResolveAssemblyReference.cache
+E:\SOFTUNI\.0. C#\Задачи за изпита\00.CSharpBasicsMarch2014\03.SandGlass\bin\Debug\03.SandGlass.exe.config
+E:\SOFTUNI\.0. C#\Задачи за изпита\00.CSharpBasicsMarch2014\03.SandGlass\obj\Debug\03.SandGlass.exe
+E:\SOFTUNI\.0. C#\Задачи за изпита\00.CSharpBasicsMarch2014\03.SandGlass\obj\Debug\03.SandGlass.pdb
+E:\SOFTUNI\.0. C#\Задачи за изпита\00.CSharpBasicsMarch2014\03.SandGlass\bin\Debug\03.SandGlass.exe
+E:\SOFTUNI\.0. C#\Задачи за изпита\00.CSharpBasicsMarch2014\03.SandGlass\bin\Debug\03.SandGlass.pdb
+E:\SOFTUNI\.0. C#\Задачи за изпита\00.CSharpBasicsMarch2014\03.SandGlass\obj\Debug\03.SandGlass.csprojResolveAssemblyReference.cache
