@@ -1,0 +1,8 @@
+C:\Users\lenovo\Desktop\05.CBasicsExam10April2014Morning\03.Sunglasses\bin\Debug\03.Sunglasses.exe.config
+C:\Users\lenovo\Desktop\05.CBasicsExam10April2014Morning\03.Sunglasses\bin\Debug\03.Sunglasses.exe
+C:\Users\lenovo\Desktop\05.CBasicsExam10April2014Morning\03.Sunglasses\bin\Debug\03.Sunglasses.pdb
+C:\Users\lenovo\Desktop\05.CBasicsExam10April2014Morning\03.Sunglasses\obj\Debug\03.Sunglasses.exe
+C:\Users\lenovo\Desktop\05.CBasicsExam10April2014Morning\03.Sunglasses\obj\Debug\03.Sunglasses.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\01.C# Basics Exam 10 April 2014 Morning\05.CBasicsExam10April2014Morning\03.Sunglasses\bin\Debug\03.Sunglasses.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\01.C# Basics Exam 10 April 2014 Morning\05.CBasicsExam10April2014Morning\03.Sunglasses\obj\Debug\03.Sunglasses.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\01.C# Basics Exam 10 April 2014 Morning\05.CBasicsExam10April2014Morning\03.Sunglasses\obj\Debug\03.Sunglasses.pdb

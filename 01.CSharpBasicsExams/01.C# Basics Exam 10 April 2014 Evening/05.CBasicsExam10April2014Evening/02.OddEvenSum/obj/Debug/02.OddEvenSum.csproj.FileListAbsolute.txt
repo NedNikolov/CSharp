@@ -1,0 +1,12 @@
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\01.C# Basics Exam 10 April 2014 Evening\05.CBasicsExam10April2014Evening\02.OddEvenSum\bin\Debug\02.OddEvenSum.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\01.C# Basics Exam 10 April 2014 Evening\05.CBasicsExam10April2014Evening\02.OddEvenSum\bin\Debug\02.OddEvenSum.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\01.C# Basics Exam 10 April 2014 Evening\05.CBasicsExam10April2014Evening\02.OddEvenSum\bin\Debug\02.OddEvenSum.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\01.C# Basics Exam 10 April 2014 Evening\05.CBasicsExam10April2014Evening\02.OddEvenSum\obj\Debug\02.OddEvenSum.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\01.C# Basics Exam 10 April 2014 Evening\05.CBasicsExam10April2014Evening\02.OddEvenSum\obj\Debug\02.OddEvenSum.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\01.C# Basics Exam 10 April 2014 Evening\05.CBasicsExam10April2014Evening\02.OddEvenSum\obj\Debug\02.OddEvenSum.pdb
+E:\SOFTUNI\.0. C#\Задачи за изпита\01.C# Basics Exam 10 April 2014 Evening\05.CBasicsExam10April2014Evening\02.OddEvenSum\bin\Debug\02.OddEvenSum.exe.config
+E:\SOFTUNI\.0. C#\Задачи за изпита\01.C# Basics Exam 10 April 2014 Evening\05.CBasicsExam10April2014Evening\02.OddEvenSum\obj\Debug\02.OddEvenSum.exe
+E:\SOFTUNI\.0. C#\Задачи за изпита\01.C# Basics Exam 10 April 2014 Evening\05.CBasicsExam10April2014Evening\02.OddEvenSum\obj\Debug\02.OddEvenSum.pdb
+D:\SOFTUNI\Professional Module\01. Java Fundamentals\Задачи\Задачи от изпити\Java Basics\Задачи за изпита\01.C# Basics Exam 10 April 2014 Evening\05.CBasicsExam10April2014Evening\02.OddEvenSum\bin\Debug\02.OddEvenSum.exe.config
+D:\SOFTUNI\Professional Module\01. Java Fundamentals\Задачи\Задачи от изпити\Java Basics\Задачи за изпита\01.C# Basics Exam 10 April 2014 Evening\05.CBasicsExam10April2014Evening\02.OddEvenSum\obj\Debug\02.OddEvenSum.exe
+D:\SOFTUNI\Professional Module\01. Java Fundamentals\Задачи\Задачи от изпити\Java Basics\Задачи за изпита\01.C# Basics Exam 10 April 2014 Evening\05.CBasicsExam10April2014Evening\02.OddEvenSum\obj\Debug\02.OddEvenSum.pdb

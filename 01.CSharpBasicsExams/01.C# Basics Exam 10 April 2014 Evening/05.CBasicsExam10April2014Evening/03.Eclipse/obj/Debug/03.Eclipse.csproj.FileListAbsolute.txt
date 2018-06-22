@@ -1,0 +1,11 @@
+C:\Users\lenovo\Desktop\05.CBasicsExam10April2014Evening\03.Eclipse\bin\Debug\03.Eclipse.exe.config
+C:\Users\lenovo\Desktop\05.CBasicsExam10April2014Evening\03.Eclipse\bin\Debug\03.Eclipse.exe
+C:\Users\lenovo\Desktop\05.CBasicsExam10April2014Evening\03.Eclipse\bin\Debug\03.Eclipse.pdb
+C:\Users\lenovo\Desktop\05.CBasicsExam10April2014Evening\03.Eclipse\obj\Debug\03.Eclipse.exe
+C:\Users\lenovo\Desktop\05.CBasicsExam10April2014Evening\03.Eclipse\obj\Debug\03.Eclipse.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\01.C# Basics Exam 10 April 2014 Evening\05.CBasicsExam10April2014Evening\03.Eclipse\bin\Debug\03.Eclipse.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\01.C# Basics Exam 10 April 2014 Evening\05.CBasicsExam10April2014Evening\03.Eclipse\obj\Debug\03.Eclipse.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\01.C# Basics Exam 10 April 2014 Evening\05.CBasicsExam10April2014Evening\03.Eclipse\obj\Debug\03.Eclipse.pdb
+E:\SOFTUNI\.0. C#\Задачи за изпита\01.C# Basics Exam 10 April 2014 Evening\05.CBasicsExam10April2014Evening\03.Eclipse\bin\Debug\03.Eclipse.exe.config
+E:\SOFTUNI\.0. C#\Задачи за изпита\01.C# Basics Exam 10 April 2014 Evening\05.CBasicsExam10April2014Evening\03.Eclipse\obj\Debug\03.Eclipse.exe
+E:\SOFTUNI\.0. C#\Задачи за изпита\01.C# Basics Exam 10 April 2014 Evening\05.CBasicsExam10April2014Evening\03.Eclipse\obj\Debug\03.Eclipse.pdb

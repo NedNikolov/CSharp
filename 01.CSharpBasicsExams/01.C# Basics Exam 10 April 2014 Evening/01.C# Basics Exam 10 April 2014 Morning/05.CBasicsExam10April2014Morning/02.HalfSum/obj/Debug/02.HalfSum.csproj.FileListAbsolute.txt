@@ -1,0 +1,5 @@
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\01.C# Basics Exam 10 April 2014 Morning\05.CBasicsExam10April2014Morning\02.HalfSum\bin\Debug\02.HalfSum.exe.config
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\01.C# Basics Exam 10 April 2014 Morning\05.CBasicsExam10April2014Morning\02.HalfSum\bin\Debug\02.HalfSum.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\01.C# Basics Exam 10 April 2014 Morning\05.CBasicsExam10April2014Morning\02.HalfSum\bin\Debug\02.HalfSum.pdb
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\01.C# Basics Exam 10 April 2014 Morning\05.CBasicsExam10April2014Morning\02.HalfSum\obj\Debug\02.HalfSum.exe
+D:\SOFTUNI\.0. Подготвително ниво - C#\Задачи за изпита\01.C# Basics Exam 10 April 2014 Morning\05.CBasicsExam10April2014Morning\02.HalfSum\obj\Debug\02.HalfSum.pdb
