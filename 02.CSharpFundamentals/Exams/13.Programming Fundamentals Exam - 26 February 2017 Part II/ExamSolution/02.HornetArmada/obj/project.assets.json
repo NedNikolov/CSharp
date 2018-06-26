@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ned\\Desktop\\ExamSolution\\02.HornetArmada\\02.HornetArmada.csproj",
+      "projectUniqueName": "D:\\Програмиране\\SOFTUNI\\CSharp\\02.CSharpFundamentals\\Exams\\13.Programming Fundamentals Exam - 26 February 2017 Part II\\ExamSolution\\02.HornetArmada\\02.HornetArmada.csproj",
       "projectName": "02.HornetArmada",
-      "projectPath": "C:\\Users\\Ned\\Desktop\\ExamSolution\\02.HornetArmada\\02.HornetArmada.csproj",
+      "projectPath": "D:\\Програмиране\\SOFTUNI\\CSharp\\02.CSharpFundamentals\\Exams\\13.Programming Fundamentals Exam - 26 February 2017 Part II\\ExamSolution\\02.HornetArmada\\02.HornetArmada.csproj",
       "packagesPath": "C:\\Users\\Ned\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ned\\Desktop\\ExamSolution\\02.HornetArmada\\obj\\",
+      "outputPath": "D:\\Програмиране\\SOFTUNI\\CSharp\\02.CSharpFundamentals\\Exams\\13.Programming Fundamentals Exam - 26 February 2017 Part II\\ExamSolution\\02.HornetArmada\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
