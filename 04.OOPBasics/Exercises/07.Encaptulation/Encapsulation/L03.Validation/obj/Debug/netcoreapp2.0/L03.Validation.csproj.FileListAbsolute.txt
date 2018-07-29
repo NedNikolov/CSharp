@@ -1,0 +1,11 @@
+C:\Users\Ned\Desktop\Encapsulation\L03.Validation\bin\Debug\netcoreapp2.0\L03.Validation.deps.json
+C:\Users\Ned\Desktop\Encapsulation\L03.Validation\bin\Debug\netcoreapp2.0\L03.Validation.runtimeconfig.json
+C:\Users\Ned\Desktop\Encapsulation\L03.Validation\bin\Debug\netcoreapp2.0\L03.Validation.runtimeconfig.dev.json
+C:\Users\Ned\Desktop\Encapsulation\L03.Validation\bin\Debug\netcoreapp2.0\L03.Validation.dll
+C:\Users\Ned\Desktop\Encapsulation\L03.Validation\bin\Debug\netcoreapp2.0\L03.Validation.pdb
+C:\Users\Ned\Desktop\Encapsulation\L03.Validation\obj\Debug\netcoreapp2.0\L03.Validation.csprojResolveAssemblyReference.cache
+C:\Users\Ned\Desktop\Encapsulation\L03.Validation\obj\Debug\netcoreapp2.0\L03.Validation.csproj.CoreCompileInputs.cache
+C:\Users\Ned\Desktop\Encapsulation\L03.Validation\obj\Debug\netcoreapp2.0\L03.Validation.AssemblyInfoInputs.cache
+C:\Users\Ned\Desktop\Encapsulation\L03.Validation\obj\Debug\netcoreapp2.0\L03.Validation.AssemblyInfo.cs
+C:\Users\Ned\Desktop\Encapsulation\L03.Validation\obj\Debug\netcoreapp2.0\L03.Validation.dll
+C:\Users\Ned\Desktop\Encapsulation\L03.Validation\obj\Debug\netcoreapp2.0\L03.Validation.pdb

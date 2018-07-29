@@ -1,0 +1,11 @@
+C:\Users\Ned\Desktop\Inheritance\L.03HierarchicalInheritance\bin\Debug\netcoreapp2.0\L.03HierarchicalInheritance.deps.json
+C:\Users\Ned\Desktop\Inheritance\L.03HierarchicalInheritance\bin\Debug\netcoreapp2.0\L.03HierarchicalInheritance.runtimeconfig.json
+C:\Users\Ned\Desktop\Inheritance\L.03HierarchicalInheritance\bin\Debug\netcoreapp2.0\L.03HierarchicalInheritance.runtimeconfig.dev.json
+C:\Users\Ned\Desktop\Inheritance\L.03HierarchicalInheritance\bin\Debug\netcoreapp2.0\L.03HierarchicalInheritance.dll
+C:\Users\Ned\Desktop\Inheritance\L.03HierarchicalInheritance\bin\Debug\netcoreapp2.0\L.03HierarchicalInheritance.pdb
+C:\Users\Ned\Desktop\Inheritance\L.03HierarchicalInheritance\obj\Debug\netcoreapp2.0\L.03HierarchicalInheritance.csprojResolveAssemblyReference.cache
+C:\Users\Ned\Desktop\Inheritance\L.03HierarchicalInheritance\obj\Debug\netcoreapp2.0\L.03HierarchicalInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Ned\Desktop\Inheritance\L.03HierarchicalInheritance\obj\Debug\netcoreapp2.0\L.03HierarchicalInheritance.AssemblyInfoInputs.cache
+C:\Users\Ned\Desktop\Inheritance\L.03HierarchicalInheritance\obj\Debug\netcoreapp2.0\L.03HierarchicalInheritance.AssemblyInfo.cs
+C:\Users\Ned\Desktop\Inheritance\L.03HierarchicalInheritance\obj\Debug\netcoreapp2.0\L.03HierarchicalInheritance.dll
+C:\Users\Ned\Desktop\Inheritance\L.03HierarchicalInheritance\obj\Debug\netcoreapp2.0\L.03HierarchicalInheritance.pdb

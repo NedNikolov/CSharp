@@ -1,0 +1,11 @@
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\15.DrawningTool\bin\Debug\netcoreapp2.0\15.DrawningTool.deps.json
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\15.DrawningTool\bin\Debug\netcoreapp2.0\15.DrawningTool.runtimeconfig.json
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\15.DrawningTool\bin\Debug\netcoreapp2.0\15.DrawningTool.runtimeconfig.dev.json
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\15.DrawningTool\bin\Debug\netcoreapp2.0\15.DrawningTool.dll
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\15.DrawningTool\bin\Debug\netcoreapp2.0\15.DrawningTool.pdb
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\15.DrawningTool\obj\Debug\netcoreapp2.0\15.DrawningTool.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\15.DrawningTool\obj\Debug\netcoreapp2.0\15.DrawningTool.AssemblyInfoInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\15.DrawningTool\obj\Debug\netcoreapp2.0\15.DrawningTool.AssemblyInfo.cs
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\15.DrawningTool\obj\Debug\netcoreapp2.0\15.DrawningTool.dll
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\15.DrawningTool\obj\Debug\netcoreapp2.0\15.DrawningTool.pdb
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\15.DrawningTool\obj\Debug\netcoreapp2.0\15.DrawningTool.csprojResolveAssemblyReference.cache

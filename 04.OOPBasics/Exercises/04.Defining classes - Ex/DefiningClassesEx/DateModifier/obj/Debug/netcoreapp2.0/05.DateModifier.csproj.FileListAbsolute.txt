@@ -1,0 +1,21 @@
+C:\Users\Ned\Desktop\DefiningClassesEx\DateModifier\bin\Debug\netcoreapp2.0\05.DateModifier.deps.json
+C:\Users\Ned\Desktop\DefiningClassesEx\DateModifier\bin\Debug\netcoreapp2.0\05.DateModifier.runtimeconfig.json
+C:\Users\Ned\Desktop\DefiningClassesEx\DateModifier\bin\Debug\netcoreapp2.0\05.DateModifier.runtimeconfig.dev.json
+C:\Users\Ned\Desktop\DefiningClassesEx\DateModifier\bin\Debug\netcoreapp2.0\05.DateModifier.dll
+C:\Users\Ned\Desktop\DefiningClassesEx\DateModifier\bin\Debug\netcoreapp2.0\05.DateModifier.pdb
+C:\Users\Ned\Desktop\DefiningClassesEx\DateModifier\obj\Debug\netcoreapp2.0\05.DateModifier.csproj.CoreCompileInputs.cache
+C:\Users\Ned\Desktop\DefiningClassesEx\DateModifier\obj\Debug\netcoreapp2.0\05.DateModifier.AssemblyInfoInputs.cache
+C:\Users\Ned\Desktop\DefiningClassesEx\DateModifier\obj\Debug\netcoreapp2.0\05.DateModifier.AssemblyInfo.cs
+C:\Users\Ned\Desktop\DefiningClassesEx\DateModifier\obj\Debug\netcoreapp2.0\05.DateModifier.dll
+C:\Users\Ned\Desktop\DefiningClassesEx\DateModifier\obj\Debug\netcoreapp2.0\05.DateModifier.pdb
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\DateModifier\bin\Debug\netcoreapp2.0\05.DateModifier.deps.json
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\DateModifier\bin\Debug\netcoreapp2.0\05.DateModifier.runtimeconfig.json
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\DateModifier\bin\Debug\netcoreapp2.0\05.DateModifier.runtimeconfig.dev.json
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\DateModifier\bin\Debug\netcoreapp2.0\05.DateModifier.dll
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\DateModifier\bin\Debug\netcoreapp2.0\05.DateModifier.pdb
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\DateModifier\obj\Debug\netcoreapp2.0\05.DateModifier.csprojResolveAssemblyReference.cache
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\DateModifier\obj\Debug\netcoreapp2.0\05.DateModifier.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\DateModifier\obj\Debug\netcoreapp2.0\05.DateModifier.AssemblyInfoInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\DateModifier\obj\Debug\netcoreapp2.0\05.DateModifier.AssemblyInfo.cs
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\DateModifier\obj\Debug\netcoreapp2.0\05.DateModifier.dll
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\DateModifier\obj\Debug\netcoreapp2.0\05.DateModifier.pdb

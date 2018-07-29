@@ -1,0 +1,22 @@
+C:\Users\Ned\Desktop\DefiningClassesEx\08.RawData\bin\Debug\netcoreapp2.0\08.RawData.deps.json
+C:\Users\Ned\Desktop\DefiningClassesEx\08.RawData\bin\Debug\netcoreapp2.0\08.RawData.runtimeconfig.json
+C:\Users\Ned\Desktop\DefiningClassesEx\08.RawData\bin\Debug\netcoreapp2.0\08.RawData.runtimeconfig.dev.json
+C:\Users\Ned\Desktop\DefiningClassesEx\08.RawData\bin\Debug\netcoreapp2.0\08.RawData.dll
+C:\Users\Ned\Desktop\DefiningClassesEx\08.RawData\bin\Debug\netcoreapp2.0\08.RawData.pdb
+C:\Users\Ned\Desktop\DefiningClassesEx\08.RawData\obj\Debug\netcoreapp2.0\08.RawData.csproj.CoreCompileInputs.cache
+C:\Users\Ned\Desktop\DefiningClassesEx\08.RawData\obj\Debug\netcoreapp2.0\08.RawData.AssemblyInfoInputs.cache
+C:\Users\Ned\Desktop\DefiningClassesEx\08.RawData\obj\Debug\netcoreapp2.0\08.RawData.AssemblyInfo.cs
+C:\Users\Ned\Desktop\DefiningClassesEx\08.RawData\obj\Debug\netcoreapp2.0\08.RawData.dll
+C:\Users\Ned\Desktop\DefiningClassesEx\08.RawData\obj\Debug\netcoreapp2.0\08.RawData.pdb
+C:\Users\Ned\Desktop\DefiningClassesEx\08.RawData\obj\Debug\netcoreapp2.0\08.RawData.csprojResolveAssemblyReference.cache
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\08.RawData\bin\Debug\netcoreapp2.0\08.RawData.deps.json
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\08.RawData\bin\Debug\netcoreapp2.0\08.RawData.runtimeconfig.json
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\08.RawData\bin\Debug\netcoreapp2.0\08.RawData.runtimeconfig.dev.json
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\08.RawData\bin\Debug\netcoreapp2.0\08.RawData.dll
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\08.RawData\bin\Debug\netcoreapp2.0\08.RawData.pdb
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\08.RawData\obj\Debug\netcoreapp2.0\08.RawData.csprojResolveAssemblyReference.cache
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\08.RawData\obj\Debug\netcoreapp2.0\08.RawData.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\08.RawData\obj\Debug\netcoreapp2.0\08.RawData.AssemblyInfoInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\08.RawData\obj\Debug\netcoreapp2.0\08.RawData.AssemblyInfo.cs
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\08.RawData\obj\Debug\netcoreapp2.0\08.RawData.dll
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\08.RawData\obj\Debug\netcoreapp2.0\08.RawData.pdb

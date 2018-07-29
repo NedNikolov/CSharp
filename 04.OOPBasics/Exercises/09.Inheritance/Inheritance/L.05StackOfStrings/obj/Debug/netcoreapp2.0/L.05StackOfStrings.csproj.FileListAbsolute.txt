@@ -1,0 +1,11 @@
+C:\Users\Ned\Desktop\Inheritance\L.05StackOfStrings\bin\Debug\netcoreapp2.0\L.05StackOfStrings.deps.json
+C:\Users\Ned\Desktop\Inheritance\L.05StackOfStrings\bin\Debug\netcoreapp2.0\L.05StackOfStrings.runtimeconfig.json
+C:\Users\Ned\Desktop\Inheritance\L.05StackOfStrings\bin\Debug\netcoreapp2.0\L.05StackOfStrings.runtimeconfig.dev.json
+C:\Users\Ned\Desktop\Inheritance\L.05StackOfStrings\bin\Debug\netcoreapp2.0\L.05StackOfStrings.dll
+C:\Users\Ned\Desktop\Inheritance\L.05StackOfStrings\bin\Debug\netcoreapp2.0\L.05StackOfStrings.pdb
+C:\Users\Ned\Desktop\Inheritance\L.05StackOfStrings\obj\Debug\netcoreapp2.0\L.05StackOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\Ned\Desktop\Inheritance\L.05StackOfStrings\obj\Debug\netcoreapp2.0\L.05StackOfStrings.AssemblyInfoInputs.cache
+C:\Users\Ned\Desktop\Inheritance\L.05StackOfStrings\obj\Debug\netcoreapp2.0\L.05StackOfStrings.AssemblyInfo.cs
+C:\Users\Ned\Desktop\Inheritance\L.05StackOfStrings\obj\Debug\netcoreapp2.0\L.05StackOfStrings.dll
+C:\Users\Ned\Desktop\Inheritance\L.05StackOfStrings\obj\Debug\netcoreapp2.0\L.05StackOfStrings.pdb
+C:\Users\Ned\Desktop\Inheritance\L.05StackOfStrings\obj\Debug\netcoreapp2.0\L.05StackOfStrings.csprojResolveAssemblyReference.cache

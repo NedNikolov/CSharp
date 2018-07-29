@@ -1,0 +1,11 @@
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\01.DefinePersonClass\obj\Debug\netcoreapp2.0\01.DefinePersonClass.csprojResolveAssemblyReference.cache
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\01.DefinePersonClass\obj\Debug\netcoreapp2.0\01.DefinePersonClass.csproj.CoreCompileInputs.cache
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\01.DefinePersonClass\obj\Debug\netcoreapp2.0\01.DefinePersonClass.AssemblyInfoInputs.cache
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\01.DefinePersonClass\obj\Debug\netcoreapp2.0\01.DefinePersonClass.AssemblyInfo.cs
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\01.DefinePersonClass\bin\Debug\netcoreapp2.0\01.DefinePersonClass.deps.json
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\01.DefinePersonClass\bin\Debug\netcoreapp2.0\01.DefinePersonClass.runtimeconfig.json
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\01.DefinePersonClass\bin\Debug\netcoreapp2.0\01.DefinePersonClass.runtimeconfig.dev.json
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\01.DefinePersonClass\bin\Debug\netcoreapp2.0\01.DefinePersonClass.dll
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\01.DefinePersonClass\bin\Debug\netcoreapp2.0\01.DefinePersonClass.pdb
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\01.DefinePersonClass\obj\Debug\netcoreapp2.0\01.DefinePersonClass.dll
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\01.DefinePersonClass\obj\Debug\netcoreapp2.0\01.DefinePersonClass.pdb

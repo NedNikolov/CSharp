@@ -1,0 +1,11 @@
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\L02.Cars\bin\Debug\netcoreapp2.0\L02.Cars.deps.json
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\L02.Cars\bin\Debug\netcoreapp2.0\L02.Cars.runtimeconfig.json
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\L02.Cars\bin\Debug\netcoreapp2.0\L02.Cars.runtimeconfig.dev.json
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\L02.Cars\bin\Debug\netcoreapp2.0\L02.Cars.dll
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\L02.Cars\bin\Debug\netcoreapp2.0\L02.Cars.pdb
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\L02.Cars\obj\Debug\netcoreapp2.0\L02.Cars.csprojResolveAssemblyReference.cache
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\L02.Cars\obj\Debug\netcoreapp2.0\L02.Cars.csproj.CoreCompileInputs.cache
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\L02.Cars\obj\Debug\netcoreapp2.0\L02.Cars.AssemblyInfoInputs.cache
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\L02.Cars\obj\Debug\netcoreapp2.0\L02.Cars.AssemblyInfo.cs
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\L02.Cars\obj\Debug\netcoreapp2.0\L02.Cars.dll
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\L02.Cars\obj\Debug\netcoreapp2.0\L02.Cars.pdb

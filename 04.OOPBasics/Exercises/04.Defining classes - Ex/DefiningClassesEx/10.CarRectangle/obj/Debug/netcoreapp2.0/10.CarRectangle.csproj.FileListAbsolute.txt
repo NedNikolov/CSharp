@@ -1,0 +1,11 @@
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\10.CarRectangle\bin\Debug\netcoreapp2.0\10.CarRectangle.deps.json
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\10.CarRectangle\bin\Debug\netcoreapp2.0\10.CarRectangle.runtimeconfig.json
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\10.CarRectangle\bin\Debug\netcoreapp2.0\10.CarRectangle.runtimeconfig.dev.json
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\10.CarRectangle\bin\Debug\netcoreapp2.0\10.CarRectangle.dll
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\10.CarRectangle\bin\Debug\netcoreapp2.0\10.CarRectangle.pdb
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\10.CarRectangle\obj\Debug\netcoreapp2.0\10.CarRectangle.csprojResolveAssemblyReference.cache
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\10.CarRectangle\obj\Debug\netcoreapp2.0\10.CarRectangle.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\10.CarRectangle\obj\Debug\netcoreapp2.0\10.CarRectangle.AssemblyInfoInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\10.CarRectangle\obj\Debug\netcoreapp2.0\10.CarRectangle.AssemblyInfo.cs
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\10.CarRectangle\obj\Debug\netcoreapp2.0\10.CarRectangle.dll
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\10.CarRectangle\obj\Debug\netcoreapp2.0\10.CarRectangle.pdb

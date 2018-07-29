@@ -1,0 +1,11 @@
+C:\Users\Ned\Desktop\Encapsulation\L01.Person\bin\Debug\netcoreapp2.0\L01.Person.deps.json
+C:\Users\Ned\Desktop\Encapsulation\L01.Person\bin\Debug\netcoreapp2.0\L01.Person.runtimeconfig.json
+C:\Users\Ned\Desktop\Encapsulation\L01.Person\bin\Debug\netcoreapp2.0\L01.Person.runtimeconfig.dev.json
+C:\Users\Ned\Desktop\Encapsulation\L01.Person\bin\Debug\netcoreapp2.0\L01.Person.dll
+C:\Users\Ned\Desktop\Encapsulation\L01.Person\bin\Debug\netcoreapp2.0\L01.Person.pdb
+C:\Users\Ned\Desktop\Encapsulation\L01.Person\obj\Debug\netcoreapp2.0\L01.Person.csprojResolveAssemblyReference.cache
+C:\Users\Ned\Desktop\Encapsulation\L01.Person\obj\Debug\netcoreapp2.0\L01.Person.csproj.CoreCompileInputs.cache
+C:\Users\Ned\Desktop\Encapsulation\L01.Person\obj\Debug\netcoreapp2.0\L01.Person.AssemblyInfoInputs.cache
+C:\Users\Ned\Desktop\Encapsulation\L01.Person\obj\Debug\netcoreapp2.0\L01.Person.AssemblyInfo.cs
+C:\Users\Ned\Desktop\Encapsulation\L01.Person\obj\Debug\netcoreapp2.0\L01.Person.dll
+C:\Users\Ned\Desktop\Encapsulation\L01.Person\obj\Debug\netcoreapp2.0\L01.Person.pdb

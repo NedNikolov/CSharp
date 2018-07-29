@@ -1,0 +1,11 @@
+C:\Users\Ned\Desktop\Encapsulation\L02.Salary\obj\Debug\netcoreapp2.0\L02.Salary.csprojResolveAssemblyReference.cache
+C:\Users\Ned\Desktop\Encapsulation\L02.Salary\obj\Debug\netcoreapp2.0\L02.Salary.csproj.CoreCompileInputs.cache
+C:\Users\Ned\Desktop\Encapsulation\L02.Salary\obj\Debug\netcoreapp2.0\L02.Salary.AssemblyInfoInputs.cache
+C:\Users\Ned\Desktop\Encapsulation\L02.Salary\obj\Debug\netcoreapp2.0\L02.Salary.AssemblyInfo.cs
+C:\Users\Ned\Desktop\Encapsulation\L02.Salary\bin\Debug\netcoreapp2.0\L02.Salary.deps.json
+C:\Users\Ned\Desktop\Encapsulation\L02.Salary\bin\Debug\netcoreapp2.0\L02.Salary.runtimeconfig.json
+C:\Users\Ned\Desktop\Encapsulation\L02.Salary\bin\Debug\netcoreapp2.0\L02.Salary.runtimeconfig.dev.json
+C:\Users\Ned\Desktop\Encapsulation\L02.Salary\bin\Debug\netcoreapp2.0\L02.Salary.dll
+C:\Users\Ned\Desktop\Encapsulation\L02.Salary\bin\Debug\netcoreapp2.0\L02.Salary.pdb
+C:\Users\Ned\Desktop\Encapsulation\L02.Salary\obj\Debug\netcoreapp2.0\L02.Salary.dll
+C:\Users\Ned\Desktop\Encapsulation\L02.Salary\obj\Debug\netcoreapp2.0\L02.Salary.pdb

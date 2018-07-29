@@ -1,0 +1,11 @@
+C:\Users\Ned\Desktop\WorkWithAbstraction\L2.PointInRect\bin\Debug\netcoreapp2.0\L2.PointInRect.deps.json
+C:\Users\Ned\Desktop\WorkWithAbstraction\L2.PointInRect\bin\Debug\netcoreapp2.0\L2.PointInRect.runtimeconfig.json
+C:\Users\Ned\Desktop\WorkWithAbstraction\L2.PointInRect\bin\Debug\netcoreapp2.0\L2.PointInRect.runtimeconfig.dev.json
+C:\Users\Ned\Desktop\WorkWithAbstraction\L2.PointInRect\bin\Debug\netcoreapp2.0\L2.PointInRect.dll
+C:\Users\Ned\Desktop\WorkWithAbstraction\L2.PointInRect\bin\Debug\netcoreapp2.0\L2.PointInRect.pdb
+C:\Users\Ned\Desktop\WorkWithAbstraction\L2.PointInRect\obj\Debug\netcoreapp2.0\L2.PointInRect.csprojResolveAssemblyReference.cache
+C:\Users\Ned\Desktop\WorkWithAbstraction\L2.PointInRect\obj\Debug\netcoreapp2.0\L2.PointInRect.csproj.CoreCompileInputs.cache
+C:\Users\Ned\Desktop\WorkWithAbstraction\L2.PointInRect\obj\Debug\netcoreapp2.0\L2.PointInRect.AssemblyInfoInputs.cache
+C:\Users\Ned\Desktop\WorkWithAbstraction\L2.PointInRect\obj\Debug\netcoreapp2.0\L2.PointInRect.AssemblyInfo.cs
+C:\Users\Ned\Desktop\WorkWithAbstraction\L2.PointInRect\obj\Debug\netcoreapp2.0\L2.PointInRect.dll
+C:\Users\Ned\Desktop\WorkWithAbstraction\L2.PointInRect\obj\Debug\netcoreapp2.0\L2.PointInRect.pdb

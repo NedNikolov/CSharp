@@ -1,0 +1,11 @@
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\02.MultipleImplement\bin\Debug\netcoreapp2.0\02.MultipleImplement.deps.json
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\02.MultipleImplement\bin\Debug\netcoreapp2.0\02.MultipleImplement.runtimeconfig.json
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\02.MultipleImplement\bin\Debug\netcoreapp2.0\02.MultipleImplement.runtimeconfig.dev.json
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\02.MultipleImplement\bin\Debug\netcoreapp2.0\02.MultipleImplement.dll
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\02.MultipleImplement\bin\Debug\netcoreapp2.0\02.MultipleImplement.pdb
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\02.MultipleImplement\obj\Debug\netcoreapp2.0\02.MultipleImplement.csprojResolveAssemblyReference.cache
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\02.MultipleImplement\obj\Debug\netcoreapp2.0\02.MultipleImplement.csproj.CoreCompileInputs.cache
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\02.MultipleImplement\obj\Debug\netcoreapp2.0\02.MultipleImplement.AssemblyInfoInputs.cache
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\02.MultipleImplement\obj\Debug\netcoreapp2.0\02.MultipleImplement.AssemblyInfo.cs
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\02.MultipleImplement\obj\Debug\netcoreapp2.0\02.MultipleImplement.dll
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\02.MultipleImplement\obj\Debug\netcoreapp2.0\02.MultipleImplement.pdb

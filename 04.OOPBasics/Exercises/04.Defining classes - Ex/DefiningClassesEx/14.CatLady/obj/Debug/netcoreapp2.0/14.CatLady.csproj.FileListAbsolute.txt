@@ -1,0 +1,11 @@
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\14.CatLady\bin\Debug\netcoreapp2.0\14.CatLady.deps.json
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\14.CatLady\bin\Debug\netcoreapp2.0\14.CatLady.runtimeconfig.json
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\14.CatLady\bin\Debug\netcoreapp2.0\14.CatLady.runtimeconfig.dev.json
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\14.CatLady\bin\Debug\netcoreapp2.0\14.CatLady.dll
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\14.CatLady\bin\Debug\netcoreapp2.0\14.CatLady.pdb
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\14.CatLady\obj\Debug\netcoreapp2.0\14.CatLady.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\14.CatLady\obj\Debug\netcoreapp2.0\14.CatLady.AssemblyInfoInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\14.CatLady\obj\Debug\netcoreapp2.0\14.CatLady.AssemblyInfo.cs
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\14.CatLady\obj\Debug\netcoreapp2.0\14.CatLady.dll
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\14.CatLady\obj\Debug\netcoreapp2.0\14.CatLady.pdb
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\14.CatLady\obj\Debug\netcoreapp2.0\14.CatLady.csprojResolveAssemblyReference.cache

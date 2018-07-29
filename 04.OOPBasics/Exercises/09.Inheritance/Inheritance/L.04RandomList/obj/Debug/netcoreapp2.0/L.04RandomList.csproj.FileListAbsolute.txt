@@ -1,0 +1,11 @@
+C:\Users\Ned\Desktop\Inheritance\L.04RandomList\bin\Debug\netcoreapp2.0\L.04RandomList.deps.json
+C:\Users\Ned\Desktop\Inheritance\L.04RandomList\bin\Debug\netcoreapp2.0\L.04RandomList.runtimeconfig.json
+C:\Users\Ned\Desktop\Inheritance\L.04RandomList\bin\Debug\netcoreapp2.0\L.04RandomList.runtimeconfig.dev.json
+C:\Users\Ned\Desktop\Inheritance\L.04RandomList\bin\Debug\netcoreapp2.0\L.04RandomList.dll
+C:\Users\Ned\Desktop\Inheritance\L.04RandomList\bin\Debug\netcoreapp2.0\L.04RandomList.pdb
+C:\Users\Ned\Desktop\Inheritance\L.04RandomList\obj\Debug\netcoreapp2.0\L.04RandomList.csprojResolveAssemblyReference.cache
+C:\Users\Ned\Desktop\Inheritance\L.04RandomList\obj\Debug\netcoreapp2.0\L.04RandomList.csproj.CoreCompileInputs.cache
+C:\Users\Ned\Desktop\Inheritance\L.04RandomList\obj\Debug\netcoreapp2.0\L.04RandomList.AssemblyInfoInputs.cache
+C:\Users\Ned\Desktop\Inheritance\L.04RandomList\obj\Debug\netcoreapp2.0\L.04RandomList.AssemblyInfo.cs
+C:\Users\Ned\Desktop\Inheritance\L.04RandomList\obj\Debug\netcoreapp2.0\L.04RandomList.dll
+C:\Users\Ned\Desktop\Inheritance\L.04RandomList\obj\Debug\netcoreapp2.0\L.04RandomList.pdb

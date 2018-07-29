@@ -1,0 +1,10 @@
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\13.FamilyTree\bin\Debug\netcoreapp2.0\13.FamilyTree.deps.json
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\13.FamilyTree\bin\Debug\netcoreapp2.0\13.FamilyTree.runtimeconfig.json
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\13.FamilyTree\bin\Debug\netcoreapp2.0\13.FamilyTree.runtimeconfig.dev.json
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\13.FamilyTree\bin\Debug\netcoreapp2.0\13.FamilyTree.dll
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\13.FamilyTree\bin\Debug\netcoreapp2.0\13.FamilyTree.pdb
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\13.FamilyTree\obj\Debug\netcoreapp2.0\13.FamilyTree.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\13.FamilyTree\obj\Debug\netcoreapp2.0\13.FamilyTree.AssemblyInfoInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\13.FamilyTree\obj\Debug\netcoreapp2.0\13.FamilyTree.AssemblyInfo.cs
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\13.FamilyTree\obj\Debug\netcoreapp2.0\13.FamilyTree.dll
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\13.FamilyTree\obj\Debug\netcoreapp2.0\13.FamilyTree.pdb

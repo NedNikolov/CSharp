@@ -1,0 +1,11 @@
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\06.BDayCelebrations\bin\Debug\netcoreapp2.0\06.BDayCelebrations.deps.json
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\06.BDayCelebrations\bin\Debug\netcoreapp2.0\06.BDayCelebrations.runtimeconfig.json
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\06.BDayCelebrations\bin\Debug\netcoreapp2.0\06.BDayCelebrations.runtimeconfig.dev.json
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\06.BDayCelebrations\bin\Debug\netcoreapp2.0\06.BDayCelebrations.dll
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\06.BDayCelebrations\bin\Debug\netcoreapp2.0\06.BDayCelebrations.pdb
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\06.BDayCelebrations\obj\Debug\netcoreapp2.0\06.BDayCelebrations.csprojResolveAssemblyReference.cache
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\06.BDayCelebrations\obj\Debug\netcoreapp2.0\06.BDayCelebrations.csproj.CoreCompileInputs.cache
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\06.BDayCelebrations\obj\Debug\netcoreapp2.0\06.BDayCelebrations.AssemblyInfoInputs.cache
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\06.BDayCelebrations\obj\Debug\netcoreapp2.0\06.BDayCelebrations.AssemblyInfo.cs
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\06.BDayCelebrations\obj\Debug\netcoreapp2.0\06.BDayCelebrations.dll
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\06.BDayCelebrations\obj\Debug\netcoreapp2.0\06.BDayCelebrations.pdb

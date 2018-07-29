@@ -1,0 +1,11 @@
+C:\Users\Ned\Desktop\Inheritance\03.Mankind\bin\Debug\netcoreapp2.0\03.Mankind.deps.json
+C:\Users\Ned\Desktop\Inheritance\03.Mankind\bin\Debug\netcoreapp2.0\03.Mankind.runtimeconfig.json
+C:\Users\Ned\Desktop\Inheritance\03.Mankind\bin\Debug\netcoreapp2.0\03.Mankind.runtimeconfig.dev.json
+C:\Users\Ned\Desktop\Inheritance\03.Mankind\bin\Debug\netcoreapp2.0\03.Mankind.dll
+C:\Users\Ned\Desktop\Inheritance\03.Mankind\bin\Debug\netcoreapp2.0\03.Mankind.pdb
+C:\Users\Ned\Desktop\Inheritance\03.Mankind\obj\Debug\netcoreapp2.0\03.Mankind.csproj.CoreCompileInputs.cache
+C:\Users\Ned\Desktop\Inheritance\03.Mankind\obj\Debug\netcoreapp2.0\03.Mankind.AssemblyInfoInputs.cache
+C:\Users\Ned\Desktop\Inheritance\03.Mankind\obj\Debug\netcoreapp2.0\03.Mankind.AssemblyInfo.cs
+C:\Users\Ned\Desktop\Inheritance\03.Mankind\obj\Debug\netcoreapp2.0\03.Mankind.dll
+C:\Users\Ned\Desktop\Inheritance\03.Mankind\obj\Debug\netcoreapp2.0\03.Mankind.pdb
+C:\Users\Ned\Desktop\Inheritance\03.Mankind\obj\Debug\netcoreapp2.0\03.Mankind.csprojResolveAssemblyReference.cache

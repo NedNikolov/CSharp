@@ -1,0 +1,11 @@
+C:\Users\Ned\Desktop\DefiningClassesEx\OpinionRoll\bin\Debug\netcoreapp2.0\OpinionRoll.deps.json
+C:\Users\Ned\Desktop\DefiningClassesEx\OpinionRoll\bin\Debug\netcoreapp2.0\OpinionRoll.runtimeconfig.json
+C:\Users\Ned\Desktop\DefiningClassesEx\OpinionRoll\bin\Debug\netcoreapp2.0\OpinionRoll.runtimeconfig.dev.json
+C:\Users\Ned\Desktop\DefiningClassesEx\OpinionRoll\bin\Debug\netcoreapp2.0\OpinionRoll.dll
+C:\Users\Ned\Desktop\DefiningClassesEx\OpinionRoll\bin\Debug\netcoreapp2.0\OpinionRoll.pdb
+C:\Users\Ned\Desktop\DefiningClassesEx\OpinionRoll\obj\Debug\netcoreapp2.0\OpinionRoll.csprojResolveAssemblyReference.cache
+C:\Users\Ned\Desktop\DefiningClassesEx\OpinionRoll\obj\Debug\netcoreapp2.0\OpinionRoll.csproj.CoreCompileInputs.cache
+C:\Users\Ned\Desktop\DefiningClassesEx\OpinionRoll\obj\Debug\netcoreapp2.0\OpinionRoll.AssemblyInfoInputs.cache
+C:\Users\Ned\Desktop\DefiningClassesEx\OpinionRoll\obj\Debug\netcoreapp2.0\OpinionRoll.AssemblyInfo.cs
+C:\Users\Ned\Desktop\DefiningClassesEx\OpinionRoll\obj\Debug\netcoreapp2.0\OpinionRoll.dll
+C:\Users\Ned\Desktop\DefiningClassesEx\OpinionRoll\obj\Debug\netcoreapp2.0\OpinionRoll.pdb

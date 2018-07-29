@@ -1,0 +1,11 @@
+C:\Users\Ned\Desktop\DefiningClassesEx\StartUp\bin\Debug\netcoreapp2.0\StartUp.deps.json
+C:\Users\Ned\Desktop\DefiningClassesEx\StartUp\bin\Debug\netcoreapp2.0\StartUp.runtimeconfig.json
+C:\Users\Ned\Desktop\DefiningClassesEx\StartUp\bin\Debug\netcoreapp2.0\StartUp.runtimeconfig.dev.json
+C:\Users\Ned\Desktop\DefiningClassesEx\StartUp\bin\Debug\netcoreapp2.0\StartUp.dll
+C:\Users\Ned\Desktop\DefiningClassesEx\StartUp\bin\Debug\netcoreapp2.0\StartUp.pdb
+C:\Users\Ned\Desktop\DefiningClassesEx\StartUp\obj\Debug\netcoreapp2.0\StartUp.csprojResolveAssemblyReference.cache
+C:\Users\Ned\Desktop\DefiningClassesEx\StartUp\obj\Debug\netcoreapp2.0\StartUp.csproj.CoreCompileInputs.cache
+C:\Users\Ned\Desktop\DefiningClassesEx\StartUp\obj\Debug\netcoreapp2.0\StartUp.AssemblyInfoInputs.cache
+C:\Users\Ned\Desktop\DefiningClassesEx\StartUp\obj\Debug\netcoreapp2.0\StartUp.AssemblyInfo.cs
+C:\Users\Ned\Desktop\DefiningClassesEx\StartUp\obj\Debug\netcoreapp2.0\StartUp.dll
+C:\Users\Ned\Desktop\DefiningClassesEx\StartUp\obj\Debug\netcoreapp2.0\StartUp.pdb

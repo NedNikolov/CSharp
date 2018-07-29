@@ -1,0 +1,11 @@
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\L01.Shapes\bin\Debug\netcoreapp2.0\L01.Shapes.deps.json
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\L01.Shapes\bin\Debug\netcoreapp2.0\L01.Shapes.runtimeconfig.json
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\L01.Shapes\bin\Debug\netcoreapp2.0\L01.Shapes.runtimeconfig.dev.json
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\L01.Shapes\bin\Debug\netcoreapp2.0\L01.Shapes.dll
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\L01.Shapes\bin\Debug\netcoreapp2.0\L01.Shapes.pdb
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\L01.Shapes\obj\Debug\netcoreapp2.0\L01.Shapes.csprojResolveAssemblyReference.cache
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\L01.Shapes\obj\Debug\netcoreapp2.0\L01.Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\L01.Shapes\obj\Debug\netcoreapp2.0\L01.Shapes.AssemblyInfoInputs.cache
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\L01.Shapes\obj\Debug\netcoreapp2.0\L01.Shapes.AssemblyInfo.cs
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\L01.Shapes\obj\Debug\netcoreapp2.0\L01.Shapes.dll
+C:\Users\Ned\Desktop\InterfaceAndAbstraction\L01.Shapes\obj\Debug\netcoreapp2.0\L01.Shapes.pdb

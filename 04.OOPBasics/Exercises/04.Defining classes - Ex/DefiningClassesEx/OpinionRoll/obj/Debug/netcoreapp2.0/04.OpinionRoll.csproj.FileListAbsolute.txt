@@ -1,0 +1,22 @@
+C:\Users\Ned\Desktop\DefiningClassesEx\OpinionRoll\bin\Debug\netcoreapp2.0\04.OpinionRoll.deps.json
+C:\Users\Ned\Desktop\DefiningClassesEx\OpinionRoll\bin\Debug\netcoreapp2.0\04.OpinionRoll.runtimeconfig.json
+C:\Users\Ned\Desktop\DefiningClassesEx\OpinionRoll\bin\Debug\netcoreapp2.0\04.OpinionRoll.runtimeconfig.dev.json
+C:\Users\Ned\Desktop\DefiningClassesEx\OpinionRoll\bin\Debug\netcoreapp2.0\04.OpinionRoll.dll
+C:\Users\Ned\Desktop\DefiningClassesEx\OpinionRoll\bin\Debug\netcoreapp2.0\04.OpinionRoll.pdb
+C:\Users\Ned\Desktop\DefiningClassesEx\OpinionRoll\obj\Debug\netcoreapp2.0\04.OpinionRoll.csproj.CoreCompileInputs.cache
+C:\Users\Ned\Desktop\DefiningClassesEx\OpinionRoll\obj\Debug\netcoreapp2.0\04.OpinionRoll.AssemblyInfoInputs.cache
+C:\Users\Ned\Desktop\DefiningClassesEx\OpinionRoll\obj\Debug\netcoreapp2.0\04.OpinionRoll.AssemblyInfo.cs
+C:\Users\Ned\Desktop\DefiningClassesEx\OpinionRoll\obj\Debug\netcoreapp2.0\04.OpinionRoll.dll
+C:\Users\Ned\Desktop\DefiningClassesEx\OpinionRoll\obj\Debug\netcoreapp2.0\04.OpinionRoll.pdb
+C:\Users\Ned\Desktop\DefiningClassesEx\OpinionRoll\obj\Debug\netcoreapp2.0\04.OpinionRoll.csprojResolveAssemblyReference.cache
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\OpinionRoll\bin\Debug\netcoreapp2.0\04.OpinionRoll.deps.json
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\OpinionRoll\bin\Debug\netcoreapp2.0\04.OpinionRoll.runtimeconfig.json
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\OpinionRoll\bin\Debug\netcoreapp2.0\04.OpinionRoll.runtimeconfig.dev.json
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\OpinionRoll\bin\Debug\netcoreapp2.0\04.OpinionRoll.dll
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\OpinionRoll\bin\Debug\netcoreapp2.0\04.OpinionRoll.pdb
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\OpinionRoll\obj\Debug\netcoreapp2.0\04.OpinionRoll.csprojResolveAssemblyReference.cache
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\OpinionRoll\obj\Debug\netcoreapp2.0\04.OpinionRoll.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\OpinionRoll\obj\Debug\netcoreapp2.0\04.OpinionRoll.AssemblyInfoInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\OpinionRoll\obj\Debug\netcoreapp2.0\04.OpinionRoll.AssemblyInfo.cs
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\OpinionRoll\obj\Debug\netcoreapp2.0\04.OpinionRoll.dll
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\OpinionRoll\obj\Debug\netcoreapp2.0\04.OpinionRoll.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ned\Desktop\Encapsulation\L04.Team\bin\Debug\netcoreapp2.0\L04.Team.deps.json
+C:\Users\Ned\Desktop\Encapsulation\L04.Team\bin\Debug\netcoreapp2.0\L04.Team.runtimeconfig.json
+C:\Users\Ned\Desktop\Encapsulation\L04.Team\bin\Debug\netcoreapp2.0\L04.Team.runtimeconfig.dev.json
+C:\Users\Ned\Desktop\Encapsulation\L04.Team\bin\Debug\netcoreapp2.0\L04.Team.dll
+C:\Users\Ned\Desktop\Encapsulation\L04.Team\bin\Debug\netcoreapp2.0\L04.Team.pdb
+C:\Users\Ned\Desktop\Encapsulation\L04.Team\obj\Debug\netcoreapp2.0\L04.Team.csprojResolveAssemblyReference.cache
+C:\Users\Ned\Desktop\Encapsulation\L04.Team\obj\Debug\netcoreapp2.0\L04.Team.csproj.CoreCompileInputs.cache
+C:\Users\Ned\Desktop\Encapsulation\L04.Team\obj\Debug\netcoreapp2.0\L04.Team.AssemblyInfoInputs.cache
+C:\Users\Ned\Desktop\Encapsulation\L04.Team\obj\Debug\netcoreapp2.0\L04.Team.AssemblyInfo.cs
+C:\Users\Ned\Desktop\Encapsulation\L04.Team\obj\Debug\netcoreapp2.0\L04.Team.dll
+C:\Users\Ned\Desktop\Encapsulation\L04.Team\obj\Debug\netcoreapp2.0\L04.Team.pdb

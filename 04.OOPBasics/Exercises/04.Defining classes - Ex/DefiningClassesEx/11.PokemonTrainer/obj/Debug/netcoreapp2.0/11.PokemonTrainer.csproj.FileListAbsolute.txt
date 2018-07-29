@@ -1,0 +1,10 @@
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\11.PokemonTrainer\bin\Debug\netcoreapp2.0\11.PokemonTrainer.deps.json
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\11.PokemonTrainer\bin\Debug\netcoreapp2.0\11.PokemonTrainer.runtimeconfig.json
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\11.PokemonTrainer\bin\Debug\netcoreapp2.0\11.PokemonTrainer.runtimeconfig.dev.json
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\11.PokemonTrainer\bin\Debug\netcoreapp2.0\11.PokemonTrainer.dll
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\11.PokemonTrainer\bin\Debug\netcoreapp2.0\11.PokemonTrainer.pdb
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\11.PokemonTrainer\obj\Debug\netcoreapp2.0\11.PokemonTrainer.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\11.PokemonTrainer\obj\Debug\netcoreapp2.0\11.PokemonTrainer.AssemblyInfoInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\11.PokemonTrainer\obj\Debug\netcoreapp2.0\11.PokemonTrainer.AssemblyInfo.cs
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\11.PokemonTrainer\obj\Debug\netcoreapp2.0\11.PokemonTrainer.dll
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\11.PokemonTrainer\obj\Debug\netcoreapp2.0\11.PokemonTrainer.pdb

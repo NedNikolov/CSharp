@@ -1,0 +1,20 @@
+C:\Users\Ned\Desktop\DefiningClassesEx\SpeedRacing\bin\Debug\netcoreapp2.0\07.SpeedRacing.deps.json
+C:\Users\Ned\Desktop\DefiningClassesEx\SpeedRacing\bin\Debug\netcoreapp2.0\07.SpeedRacing.runtimeconfig.json
+C:\Users\Ned\Desktop\DefiningClassesEx\SpeedRacing\bin\Debug\netcoreapp2.0\07.SpeedRacing.runtimeconfig.dev.json
+C:\Users\Ned\Desktop\DefiningClassesEx\SpeedRacing\bin\Debug\netcoreapp2.0\07.SpeedRacing.dll
+C:\Users\Ned\Desktop\DefiningClassesEx\SpeedRacing\bin\Debug\netcoreapp2.0\07.SpeedRacing.pdb
+C:\Users\Ned\Desktop\DefiningClassesEx\SpeedRacing\obj\Debug\netcoreapp2.0\07.SpeedRacing.csproj.CoreCompileInputs.cache
+C:\Users\Ned\Desktop\DefiningClassesEx\SpeedRacing\obj\Debug\netcoreapp2.0\07.SpeedRacing.AssemblyInfoInputs.cache
+C:\Users\Ned\Desktop\DefiningClassesEx\SpeedRacing\obj\Debug\netcoreapp2.0\07.SpeedRacing.AssemblyInfo.cs
+C:\Users\Ned\Desktop\DefiningClassesEx\SpeedRacing\obj\Debug\netcoreapp2.0\07.SpeedRacing.dll
+C:\Users\Ned\Desktop\DefiningClassesEx\SpeedRacing\obj\Debug\netcoreapp2.0\07.SpeedRacing.pdb
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\SpeedRacing\bin\Debug\netcoreapp2.0\07.SpeedRacing.deps.json
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\SpeedRacing\bin\Debug\netcoreapp2.0\07.SpeedRacing.runtimeconfig.json
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\SpeedRacing\bin\Debug\netcoreapp2.0\07.SpeedRacing.runtimeconfig.dev.json
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\SpeedRacing\bin\Debug\netcoreapp2.0\07.SpeedRacing.dll
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\SpeedRacing\bin\Debug\netcoreapp2.0\07.SpeedRacing.pdb
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\SpeedRacing\obj\Debug\netcoreapp2.0\07.SpeedRacing.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\SpeedRacing\obj\Debug\netcoreapp2.0\07.SpeedRacing.AssemblyInfoInputs.cache
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\SpeedRacing\obj\Debug\netcoreapp2.0\07.SpeedRacing.AssemblyInfo.cs
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\SpeedRacing\obj\Debug\netcoreapp2.0\07.SpeedRacing.dll
+D:\Програмиране\SOFTUNI\Professional Module\01. C#\02.C# OOP Basics\Лекции\03.Defining classes - Ex\DefiningClassesEx\SpeedRacing\obj\Debug\netcoreapp2.0\07.SpeedRacing.pdb
