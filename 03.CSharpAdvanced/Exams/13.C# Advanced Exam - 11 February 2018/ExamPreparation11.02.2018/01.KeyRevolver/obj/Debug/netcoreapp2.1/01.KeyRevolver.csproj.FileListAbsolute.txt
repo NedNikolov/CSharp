@@ -1,0 +1,11 @@
+C:\Users\Ned\Desktop\ExamPreparation11.02.2018\01.KeyRevolver\bin\Debug\netcoreapp2.1\01.KeyRevolver.deps.json
+C:\Users\Ned\Desktop\ExamPreparation11.02.2018\01.KeyRevolver\bin\Debug\netcoreapp2.1\01.KeyRevolver.runtimeconfig.json
+C:\Users\Ned\Desktop\ExamPreparation11.02.2018\01.KeyRevolver\bin\Debug\netcoreapp2.1\01.KeyRevolver.runtimeconfig.dev.json
+C:\Users\Ned\Desktop\ExamPreparation11.02.2018\01.KeyRevolver\bin\Debug\netcoreapp2.1\01.KeyRevolver.dll
+C:\Users\Ned\Desktop\ExamPreparation11.02.2018\01.KeyRevolver\bin\Debug\netcoreapp2.1\01.KeyRevolver.pdb
+C:\Users\Ned\Desktop\ExamPreparation11.02.2018\01.KeyRevolver\obj\Debug\netcoreapp2.1\01.KeyRevolver.csprojAssemblyReference.cache
+C:\Users\Ned\Desktop\ExamPreparation11.02.2018\01.KeyRevolver\obj\Debug\netcoreapp2.1\01.KeyRevolver.csproj.CoreCompileInputs.cache
+C:\Users\Ned\Desktop\ExamPreparation11.02.2018\01.KeyRevolver\obj\Debug\netcoreapp2.1\01.KeyRevolver.AssemblyInfoInputs.cache
+C:\Users\Ned\Desktop\ExamPreparation11.02.2018\01.KeyRevolver\obj\Debug\netcoreapp2.1\01.KeyRevolver.AssemblyInfo.cs
+C:\Users\Ned\Desktop\ExamPreparation11.02.2018\01.KeyRevolver\obj\Debug\netcoreapp2.1\01.KeyRevolver.dll
+C:\Users\Ned\Desktop\ExamPreparation11.02.2018\01.KeyRevolver\obj\Debug\netcoreapp2.1\01.KeyRevolver.pdb

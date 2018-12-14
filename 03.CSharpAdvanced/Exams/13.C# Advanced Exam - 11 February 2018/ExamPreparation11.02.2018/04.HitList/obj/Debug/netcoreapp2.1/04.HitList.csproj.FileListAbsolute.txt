@@ -1,0 +1,11 @@
+C:\Users\Ned\Desktop\ExamPreparation11.02.2018\04.HitList\bin\Debug\netcoreapp2.1\04.HitList.deps.json
+C:\Users\Ned\Desktop\ExamPreparation11.02.2018\04.HitList\bin\Debug\netcoreapp2.1\04.HitList.runtimeconfig.json
+C:\Users\Ned\Desktop\ExamPreparation11.02.2018\04.HitList\bin\Debug\netcoreapp2.1\04.HitList.runtimeconfig.dev.json
+C:\Users\Ned\Desktop\ExamPreparation11.02.2018\04.HitList\bin\Debug\netcoreapp2.1\04.HitList.dll
+C:\Users\Ned\Desktop\ExamPreparation11.02.2018\04.HitList\bin\Debug\netcoreapp2.1\04.HitList.pdb
+C:\Users\Ned\Desktop\ExamPreparation11.02.2018\04.HitList\obj\Debug\netcoreapp2.1\04.HitList.csprojAssemblyReference.cache
+C:\Users\Ned\Desktop\ExamPreparation11.02.2018\04.HitList\obj\Debug\netcoreapp2.1\04.HitList.csproj.CoreCompileInputs.cache
+C:\Users\Ned\Desktop\ExamPreparation11.02.2018\04.HitList\obj\Debug\netcoreapp2.1\04.HitList.AssemblyInfoInputs.cache
+C:\Users\Ned\Desktop\ExamPreparation11.02.2018\04.HitList\obj\Debug\netcoreapp2.1\04.HitList.AssemblyInfo.cs
+C:\Users\Ned\Desktop\ExamPreparation11.02.2018\04.HitList\obj\Debug\netcoreapp2.1\04.HitList.dll
+C:\Users\Ned\Desktop\ExamPreparation11.02.2018\04.HitList\obj\Debug\netcoreapp2.1\04.HitList.pdb
