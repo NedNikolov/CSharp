@@ -1,0 +1,11 @@
+C:\Users\Ned\Desktop\Exam24April2018\01.Crossroads\bin\Debug\netcoreapp2.1\01.Crossroads.deps.json
+C:\Users\Ned\Desktop\Exam24April2018\01.Crossroads\bin\Debug\netcoreapp2.1\01.Crossroads.runtimeconfig.json
+C:\Users\Ned\Desktop\Exam24April2018\01.Crossroads\bin\Debug\netcoreapp2.1\01.Crossroads.runtimeconfig.dev.json
+C:\Users\Ned\Desktop\Exam24April2018\01.Crossroads\bin\Debug\netcoreapp2.1\01.Crossroads.dll
+C:\Users\Ned\Desktop\Exam24April2018\01.Crossroads\bin\Debug\netcoreapp2.1\01.Crossroads.pdb
+C:\Users\Ned\Desktop\Exam24April2018\01.Crossroads\obj\Debug\netcoreapp2.1\01.Crossroads.csprojAssemblyReference.cache
+C:\Users\Ned\Desktop\Exam24April2018\01.Crossroads\obj\Debug\netcoreapp2.1\01.Crossroads.csproj.CoreCompileInputs.cache
+C:\Users\Ned\Desktop\Exam24April2018\01.Crossroads\obj\Debug\netcoreapp2.1\01.Crossroads.AssemblyInfoInputs.cache
+C:\Users\Ned\Desktop\Exam24April2018\01.Crossroads\obj\Debug\netcoreapp2.1\01.Crossroads.AssemblyInfo.cs
+C:\Users\Ned\Desktop\Exam24April2018\01.Crossroads\obj\Debug\netcoreapp2.1\01.Crossroads.dll
+C:\Users\Ned\Desktop\Exam24April2018\01.Crossroads\obj\Debug\netcoreapp2.1\01.Crossroads.pdb

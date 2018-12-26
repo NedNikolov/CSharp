@@ -1,0 +1,11 @@
+D:\Програмиране\SOFTUNI\CSharp\03.CSharpAdvanced\Exams\11.C# Advanced Exam - 25 June 2017\SolutionProject\01.Regeh\bin\Debug\netcoreapp2.1\01.Regeh.deps.json
+D:\Програмиране\SOFTUNI\CSharp\03.CSharpAdvanced\Exams\11.C# Advanced Exam - 25 June 2017\SolutionProject\01.Regeh\bin\Debug\netcoreapp2.1\01.Regeh.runtimeconfig.json
+D:\Програмиране\SOFTUNI\CSharp\03.CSharpAdvanced\Exams\11.C# Advanced Exam - 25 June 2017\SolutionProject\01.Regeh\bin\Debug\netcoreapp2.1\01.Regeh.runtimeconfig.dev.json
+D:\Програмиране\SOFTUNI\CSharp\03.CSharpAdvanced\Exams\11.C# Advanced Exam - 25 June 2017\SolutionProject\01.Regeh\bin\Debug\netcoreapp2.1\01.Regeh.dll
+D:\Програмиране\SOFTUNI\CSharp\03.CSharpAdvanced\Exams\11.C# Advanced Exam - 25 June 2017\SolutionProject\01.Regeh\bin\Debug\netcoreapp2.1\01.Regeh.pdb
+D:\Програмиране\SOFTUNI\CSharp\03.CSharpAdvanced\Exams\11.C# Advanced Exam - 25 June 2017\SolutionProject\01.Regeh\obj\Debug\netcoreapp2.1\01.Regeh.csprojAssemblyReference.cache
+D:\Програмиране\SOFTUNI\CSharp\03.CSharpAdvanced\Exams\11.C# Advanced Exam - 25 June 2017\SolutionProject\01.Regeh\obj\Debug\netcoreapp2.1\01.Regeh.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\CSharp\03.CSharpAdvanced\Exams\11.C# Advanced Exam - 25 June 2017\SolutionProject\01.Regeh\obj\Debug\netcoreapp2.1\01.Regeh.AssemblyInfoInputs.cache
+D:\Програмиране\SOFTUNI\CSharp\03.CSharpAdvanced\Exams\11.C# Advanced Exam - 25 June 2017\SolutionProject\01.Regeh\obj\Debug\netcoreapp2.1\01.Regeh.AssemblyInfo.cs
+D:\Програмиране\SOFTUNI\CSharp\03.CSharpAdvanced\Exams\11.C# Advanced Exam - 25 June 2017\SolutionProject\01.Regeh\obj\Debug\netcoreapp2.1\01.Regeh.dll
+D:\Програмиране\SOFTUNI\CSharp\03.CSharpAdvanced\Exams\11.C# Advanced Exam - 25 June 2017\SolutionProject\01.Regeh\obj\Debug\netcoreapp2.1\01.Regeh.pdb

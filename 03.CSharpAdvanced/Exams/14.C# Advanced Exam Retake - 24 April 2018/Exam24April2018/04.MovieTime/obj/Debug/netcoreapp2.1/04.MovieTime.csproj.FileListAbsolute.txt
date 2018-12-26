@@ -1,0 +1,11 @@
+C:\Users\Ned\Desktop\Exam24April2018\04.MovieTime\bin\Debug\netcoreapp2.1\04.MovieTime.deps.json
+C:\Users\Ned\Desktop\Exam24April2018\04.MovieTime\bin\Debug\netcoreapp2.1\04.MovieTime.runtimeconfig.json
+C:\Users\Ned\Desktop\Exam24April2018\04.MovieTime\bin\Debug\netcoreapp2.1\04.MovieTime.runtimeconfig.dev.json
+C:\Users\Ned\Desktop\Exam24April2018\04.MovieTime\bin\Debug\netcoreapp2.1\04.MovieTime.dll
+C:\Users\Ned\Desktop\Exam24April2018\04.MovieTime\bin\Debug\netcoreapp2.1\04.MovieTime.pdb
+C:\Users\Ned\Desktop\Exam24April2018\04.MovieTime\obj\Debug\netcoreapp2.1\04.MovieTime.csprojAssemblyReference.cache
+C:\Users\Ned\Desktop\Exam24April2018\04.MovieTime\obj\Debug\netcoreapp2.1\04.MovieTime.csproj.CoreCompileInputs.cache
+C:\Users\Ned\Desktop\Exam24April2018\04.MovieTime\obj\Debug\netcoreapp2.1\04.MovieTime.AssemblyInfoInputs.cache
+C:\Users\Ned\Desktop\Exam24April2018\04.MovieTime\obj\Debug\netcoreapp2.1\04.MovieTime.AssemblyInfo.cs
+C:\Users\Ned\Desktop\Exam24April2018\04.MovieTime\obj\Debug\netcoreapp2.1\04.MovieTime.dll
+C:\Users\Ned\Desktop\Exam24April2018\04.MovieTime\obj\Debug\netcoreapp2.1\04.MovieTime.pdb

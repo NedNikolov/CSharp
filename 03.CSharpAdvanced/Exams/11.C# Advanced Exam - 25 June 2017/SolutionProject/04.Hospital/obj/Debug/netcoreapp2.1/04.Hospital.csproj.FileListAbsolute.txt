@@ -1,0 +1,11 @@
+D:\Програмиране\SOFTUNI\CSharp\03.CSharpAdvanced\Exams\11.C# Advanced Exam - 25 June 2017\SolutionProject\04.Hospital\bin\Debug\netcoreapp2.1\04.Hospital.deps.json
+D:\Програмиране\SOFTUNI\CSharp\03.CSharpAdvanced\Exams\11.C# Advanced Exam - 25 June 2017\SolutionProject\04.Hospital\bin\Debug\netcoreapp2.1\04.Hospital.runtimeconfig.json
+D:\Програмиране\SOFTUNI\CSharp\03.CSharpAdvanced\Exams\11.C# Advanced Exam - 25 June 2017\SolutionProject\04.Hospital\bin\Debug\netcoreapp2.1\04.Hospital.runtimeconfig.dev.json
+D:\Програмиране\SOFTUNI\CSharp\03.CSharpAdvanced\Exams\11.C# Advanced Exam - 25 June 2017\SolutionProject\04.Hospital\bin\Debug\netcoreapp2.1\04.Hospital.dll
+D:\Програмиране\SOFTUNI\CSharp\03.CSharpAdvanced\Exams\11.C# Advanced Exam - 25 June 2017\SolutionProject\04.Hospital\bin\Debug\netcoreapp2.1\04.Hospital.pdb
+D:\Програмиране\SOFTUNI\CSharp\03.CSharpAdvanced\Exams\11.C# Advanced Exam - 25 June 2017\SolutionProject\04.Hospital\obj\Debug\netcoreapp2.1\04.Hospital.csprojAssemblyReference.cache
+D:\Програмиране\SOFTUNI\CSharp\03.CSharpAdvanced\Exams\11.C# Advanced Exam - 25 June 2017\SolutionProject\04.Hospital\obj\Debug\netcoreapp2.1\04.Hospital.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\CSharp\03.CSharpAdvanced\Exams\11.C# Advanced Exam - 25 June 2017\SolutionProject\04.Hospital\obj\Debug\netcoreapp2.1\04.Hospital.AssemblyInfoInputs.cache
+D:\Програмиране\SOFTUNI\CSharp\03.CSharpAdvanced\Exams\11.C# Advanced Exam - 25 June 2017\SolutionProject\04.Hospital\obj\Debug\netcoreapp2.1\04.Hospital.AssemblyInfo.cs
+D:\Програмиране\SOFTUNI\CSharp\03.CSharpAdvanced\Exams\11.C# Advanced Exam - 25 June 2017\SolutionProject\04.Hospital\obj\Debug\netcoreapp2.1\04.Hospital.dll
+D:\Програмиране\SOFTUNI\CSharp\03.CSharpAdvanced\Exams\11.C# Advanced Exam - 25 June 2017\SolutionProject\04.Hospital\obj\Debug\netcoreapp2.1\04.Hospital.pdb

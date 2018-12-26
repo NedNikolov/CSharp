@@ -1,0 +1,11 @@
+C:\Users\Ned\Desktop\Exam24April2018\02.ParkingFeud\bin\Debug\netcoreapp2.1\02.ParkingFeud.deps.json
+C:\Users\Ned\Desktop\Exam24April2018\02.ParkingFeud\bin\Debug\netcoreapp2.1\02.ParkingFeud.runtimeconfig.json
+C:\Users\Ned\Desktop\Exam24April2018\02.ParkingFeud\bin\Debug\netcoreapp2.1\02.ParkingFeud.runtimeconfig.dev.json
+C:\Users\Ned\Desktop\Exam24April2018\02.ParkingFeud\bin\Debug\netcoreapp2.1\02.ParkingFeud.dll
+C:\Users\Ned\Desktop\Exam24April2018\02.ParkingFeud\bin\Debug\netcoreapp2.1\02.ParkingFeud.pdb
+C:\Users\Ned\Desktop\Exam24April2018\02.ParkingFeud\obj\Debug\netcoreapp2.1\02.ParkingFeud.csprojAssemblyReference.cache
+C:\Users\Ned\Desktop\Exam24April2018\02.ParkingFeud\obj\Debug\netcoreapp2.1\02.ParkingFeud.csproj.CoreCompileInputs.cache
+C:\Users\Ned\Desktop\Exam24April2018\02.ParkingFeud\obj\Debug\netcoreapp2.1\02.ParkingFeud.AssemblyInfoInputs.cache
+C:\Users\Ned\Desktop\Exam24April2018\02.ParkingFeud\obj\Debug\netcoreapp2.1\02.ParkingFeud.AssemblyInfo.cs
+C:\Users\Ned\Desktop\Exam24April2018\02.ParkingFeud\obj\Debug\netcoreapp2.1\02.ParkingFeud.dll
+C:\Users\Ned\Desktop\Exam24April2018\02.ParkingFeud\obj\Debug\netcoreapp2.1\02.ParkingFeud.pdb
