@@ -1,0 +1,52 @@
+CREATE DATABASE MusicStore
+USE MusicStore
+
+CREATE TABLE Artists(
+	ArtistId INT NOT NULL,
+	[Name] NVARCHAR(50) NOT NULL
+	CONSTRAINT PK_ArtistId PRIMARY KEY(ArtistId)
+)
+
+CREATE TABLE Genres(
+	GenreId INT NOT NULL,
+	[Name] NVARCHAR(50) NOT NULL,
+	[Description] NVARCHAR(MAX)
+	CONSTRAINT PK_Genres PRIMARY KEY(GenreId)
+)
+
+CREATE TABLE Albums(
+	AlbumId INT NOT NULL,
+	GenreId INT NOT NULL,
+	ArtistId INT NOT NULL,
+	Title VARCHAR(50) NOT NULL,
+	Price DECIMAL(15,2) NOT NULL,
+	AlbumsArtUrl VARCHAR(100),
+	CONSTRAINT PK_Albums PRIMARY KEY(AlbumId),
+	CONSTRAINT FK_Albums_Genres FOREIGN KEY(GenreId) REFERENCES Genres(GenreId),
+	CONSTRAINT FK_Albums_Artists FOREIGN KEY(ArtistId) REFERENCES Artists(ArtistId)
+)
+
+CREATE TABLE Orders(
+	OrderId	INT NOT NULL,
+	OrderDate DATE NOT NULL,
+	UserName NVARCHAR(50) NOT NULL,
+	FirstName NVARCHAR(50) NOT NULL,
+	LastName NVARCHAR(50) NOT NULL,
+	City NVARCHAR(50) NOT NULL,
+	Email NVARCHAR(50) NOT NULL,
+	CONSTRAINT PK_Orders PRIMARY KEY (OrderId)
+)
+
+CREATE TABLE OrdersDetails(
+	OrderDetailsId INT NOT NULL,
+	OrderId INT NOT NULL,
+	AlbumId INT NOT NULL,
+	Quantity INT NOT NULL,
+	UnitPrice DECIMAL(15,2) NOT NULL,
+	CONSTRAINT PK_OrdersDetails PRIMARY KEY (OrderDetailsId),
+	CONSTRAINT FK_OrdersDetails_Orders FOREIGN KEY (OrderId) REFERENCES Orders(OrderId),
+	CONSTRAINT FK_OrdersDetails_Albums FOREIGN KEY (AlbumId) REFERENCES Albums(AlbumId)
+)
+
+SELECT * FROM Artists
+
