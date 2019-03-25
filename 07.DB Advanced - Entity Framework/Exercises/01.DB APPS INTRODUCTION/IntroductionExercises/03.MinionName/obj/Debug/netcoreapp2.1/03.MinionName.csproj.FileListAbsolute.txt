@@ -1,0 +1,14 @@
+C:\Users\Ned\Desktop\IntroductionExercises\03.MinionName\obj\Debug\netcoreapp2.1\03.MinionName.csprojAssemblyReference.cache
+C:\Users\Ned\Desktop\IntroductionExercises\03.MinionName\obj\Debug\netcoreapp2.1\03.MinionName.csproj.CoreCompileInputs.cache
+C:\Users\Ned\Desktop\IntroductionExercises\03.MinionName\obj\Debug\netcoreapp2.1\03.MinionName.AssemblyInfoInputs.cache
+C:\Users\Ned\Desktop\IntroductionExercises\03.MinionName\obj\Debug\netcoreapp2.1\03.MinionName.AssemblyInfo.cs
+C:\Users\Ned\Desktop\IntroductionExercises\03.MinionName\bin\Debug\netcoreapp2.1\03.MinionName.deps.json
+C:\Users\Ned\Desktop\IntroductionExercises\03.MinionName\bin\Debug\netcoreapp2.1\03.MinionName.runtimeconfig.json
+C:\Users\Ned\Desktop\IntroductionExercises\03.MinionName\bin\Debug\netcoreapp2.1\03.MinionName.runtimeconfig.dev.json
+C:\Users\Ned\Desktop\IntroductionExercises\03.MinionName\bin\Debug\netcoreapp2.1\03.MinionName.dll
+C:\Users\Ned\Desktop\IntroductionExercises\03.MinionName\bin\Debug\netcoreapp2.1\03.MinionName.pdb
+C:\Users\Ned\Desktop\IntroductionExercises\03.MinionName\bin\Debug\netcoreapp2.1\01.InstallSetup.dll
+C:\Users\Ned\Desktop\IntroductionExercises\03.MinionName\bin\Debug\netcoreapp2.1\01.InstallSetup.pdb
+C:\Users\Ned\Desktop\IntroductionExercises\03.MinionName\obj\Debug\netcoreapp2.1\03.MinionName.csproj.CopyComplete
+C:\Users\Ned\Desktop\IntroductionExercises\03.MinionName\obj\Debug\netcoreapp2.1\03.MinionName.dll
+C:\Users\Ned\Desktop\IntroductionExercises\03.MinionName\obj\Debug\netcoreapp2.1\03.MinionName.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ned\Desktop\IntroductionExercises\04.AddMinions\bin\Debug\netcoreapp2.1\04.AddMinions.deps.json
+C:\Users\Ned\Desktop\IntroductionExercises\04.AddMinions\bin\Debug\netcoreapp2.1\04.AddMinions.runtimeconfig.json
+C:\Users\Ned\Desktop\IntroductionExercises\04.AddMinions\bin\Debug\netcoreapp2.1\04.AddMinions.runtimeconfig.dev.json
+C:\Users\Ned\Desktop\IntroductionExercises\04.AddMinions\bin\Debug\netcoreapp2.1\04.AddMinions.dll
+C:\Users\Ned\Desktop\IntroductionExercises\04.AddMinions\bin\Debug\netcoreapp2.1\04.AddMinions.pdb
+C:\Users\Ned\Desktop\IntroductionExercises\04.AddMinions\obj\Debug\netcoreapp2.1\04.AddMinions.csprojAssemblyReference.cache
+C:\Users\Ned\Desktop\IntroductionExercises\04.AddMinions\obj\Debug\netcoreapp2.1\04.AddMinions.csproj.CoreCompileInputs.cache
+C:\Users\Ned\Desktop\IntroductionExercises\04.AddMinions\obj\Debug\netcoreapp2.1\04.AddMinions.AssemblyInfoInputs.cache
+C:\Users\Ned\Desktop\IntroductionExercises\04.AddMinions\obj\Debug\netcoreapp2.1\04.AddMinions.AssemblyInfo.cs
+C:\Users\Ned\Desktop\IntroductionExercises\04.AddMinions\obj\Debug\netcoreapp2.1\04.AddMinions.dll
+C:\Users\Ned\Desktop\IntroductionExercises\04.AddMinions\obj\Debug\netcoreapp2.1\04.AddMinions.pdb

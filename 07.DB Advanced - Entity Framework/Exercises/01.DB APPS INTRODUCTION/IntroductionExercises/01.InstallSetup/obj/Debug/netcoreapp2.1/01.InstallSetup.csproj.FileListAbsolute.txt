@@ -1,0 +1,11 @@
+C:\Users\Ned\Desktop\IntroductionExercises\01.InstallSetup\bin\Debug\netcoreapp2.1\01.InstallSetup.deps.json
+C:\Users\Ned\Desktop\IntroductionExercises\01.InstallSetup\bin\Debug\netcoreapp2.1\01.InstallSetup.runtimeconfig.json
+C:\Users\Ned\Desktop\IntroductionExercises\01.InstallSetup\bin\Debug\netcoreapp2.1\01.InstallSetup.runtimeconfig.dev.json
+C:\Users\Ned\Desktop\IntroductionExercises\01.InstallSetup\bin\Debug\netcoreapp2.1\01.InstallSetup.dll
+C:\Users\Ned\Desktop\IntroductionExercises\01.InstallSetup\obj\Debug\netcoreapp2.1\01.InstallSetup.csprojAssemblyReference.cache
+C:\Users\Ned\Desktop\IntroductionExercises\01.InstallSetup\obj\Debug\netcoreapp2.1\01.InstallSetup.csproj.CoreCompileInputs.cache
+C:\Users\Ned\Desktop\IntroductionExercises\01.InstallSetup\obj\Debug\netcoreapp2.1\01.InstallSetup.AssemblyInfoInputs.cache
+C:\Users\Ned\Desktop\IntroductionExercises\01.InstallSetup\obj\Debug\netcoreapp2.1\01.InstallSetup.AssemblyInfo.cs
+C:\Users\Ned\Desktop\IntroductionExercises\01.InstallSetup\bin\Debug\netcoreapp2.1\01.InstallSetup.pdb
+C:\Users\Ned\Desktop\IntroductionExercises\01.InstallSetup\obj\Debug\netcoreapp2.1\01.InstallSetup.dll
+C:\Users\Ned\Desktop\IntroductionExercises\01.InstallSetup\obj\Debug\netcoreapp2.1\01.InstallSetup.pdb

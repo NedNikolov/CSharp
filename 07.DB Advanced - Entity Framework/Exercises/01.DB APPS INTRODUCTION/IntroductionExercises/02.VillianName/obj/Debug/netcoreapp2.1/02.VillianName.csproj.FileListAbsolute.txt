@@ -1,0 +1,14 @@
+C:\Users\Ned\Desktop\IntroductionExercises\02.VillianName\bin\Debug\netcoreapp2.1\02.VillianName.deps.json
+C:\Users\Ned\Desktop\IntroductionExercises\02.VillianName\bin\Debug\netcoreapp2.1\02.VillianName.runtimeconfig.json
+C:\Users\Ned\Desktop\IntroductionExercises\02.VillianName\bin\Debug\netcoreapp2.1\02.VillianName.runtimeconfig.dev.json
+C:\Users\Ned\Desktop\IntroductionExercises\02.VillianName\bin\Debug\netcoreapp2.1\02.VillianName.dll
+C:\Users\Ned\Desktop\IntroductionExercises\02.VillianName\bin\Debug\netcoreapp2.1\02.VillianName.pdb
+C:\Users\Ned\Desktop\IntroductionExercises\02.VillianName\bin\Debug\netcoreapp2.1\01.InstallSetup.dll
+C:\Users\Ned\Desktop\IntroductionExercises\02.VillianName\bin\Debug\netcoreapp2.1\01.InstallSetup.pdb
+C:\Users\Ned\Desktop\IntroductionExercises\02.VillianName\obj\Debug\netcoreapp2.1\02.VillianName.csprojAssemblyReference.cache
+C:\Users\Ned\Desktop\IntroductionExercises\02.VillianName\obj\Debug\netcoreapp2.1\02.VillianName.csproj.CoreCompileInputs.cache
+C:\Users\Ned\Desktop\IntroductionExercises\02.VillianName\obj\Debug\netcoreapp2.1\02.VillianName.AssemblyInfoInputs.cache
+C:\Users\Ned\Desktop\IntroductionExercises\02.VillianName\obj\Debug\netcoreapp2.1\02.VillianName.AssemblyInfo.cs
+C:\Users\Ned\Desktop\IntroductionExercises\02.VillianName\obj\Debug\netcoreapp2.1\02.VillianName.csproj.CopyComplete
+C:\Users\Ned\Desktop\IntroductionExercises\02.VillianName\obj\Debug\netcoreapp2.1\02.VillianName.dll
+C:\Users\Ned\Desktop\IntroductionExercises\02.VillianName\obj\Debug\netcoreapp2.1\02.VillianName.pdb
