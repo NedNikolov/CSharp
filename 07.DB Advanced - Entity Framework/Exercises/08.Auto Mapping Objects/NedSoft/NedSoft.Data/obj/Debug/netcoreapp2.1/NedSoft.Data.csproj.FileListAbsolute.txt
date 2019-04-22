@@ -1,0 +1,9 @@
+C:\Users\Ned\Desktop\NedSoft\NedSoft.Data\bin\Debug\netcoreapp2.1\NedSoft.Data.deps.json
+C:\Users\Ned\Desktop\NedSoft\NedSoft.Data\bin\Debug\netcoreapp2.1\NedSoft.Data.runtimeconfig.json
+C:\Users\Ned\Desktop\NedSoft\NedSoft.Data\bin\Debug\netcoreapp2.1\NedSoft.Data.runtimeconfig.dev.json
+C:\Users\Ned\Desktop\NedSoft\NedSoft.Data\bin\Debug\netcoreapp2.1\NedSoft.Data.dll
+C:\Users\Ned\Desktop\NedSoft\NedSoft.Data\obj\Debug\netcoreapp2.1\NedSoft.Data.csprojAssemblyReference.cache
+C:\Users\Ned\Desktop\NedSoft\NedSoft.Data\obj\Debug\netcoreapp2.1\NedSoft.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ned\Desktop\NedSoft\NedSoft.Data\obj\Debug\netcoreapp2.1\NedSoft.Data.AssemblyInfoInputs.cache
+C:\Users\Ned\Desktop\NedSoft\NedSoft.Data\obj\Debug\netcoreapp2.1\NedSoft.Data.AssemblyInfo.cs
+C:\Users\Ned\Desktop\NedSoft\NedSoft.Data\bin\Debug\netcoreapp2.1\NedSoft.Models.dll

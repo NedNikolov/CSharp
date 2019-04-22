@@ -1,0 +1,4 @@
+C:\Users\Ned\Desktop\ProductShop\ProductShop.Models\obj\Debug\netcoreapp2.1\ProductShop.Models.csprojAssemblyReference.cache
+C:\Users\Ned\Desktop\ProductShop\ProductShop.Models\obj\Debug\netcoreapp2.1\ProductShop.Models.csproj.CoreCompileInputs.cache
+C:\Users\Ned\Desktop\ProductShop\ProductShop.Models\obj\Debug\netcoreapp2.1\ProductShop.Models.AssemblyInfoInputs.cache
+C:\Users\Ned\Desktop\ProductShop\ProductShop.Models\obj\Debug\netcoreapp2.1\ProductShop.Models.AssemblyInfo.cs

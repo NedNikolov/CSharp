@@ -1,0 +1,12 @@
+﻿#content {
+	background: #EEE;
+}
+p {
+	font-size: 24pt;
+}
+
+.special {
+	font-style: italic;
+	font-weight: bold;
+	color: blue;
+}

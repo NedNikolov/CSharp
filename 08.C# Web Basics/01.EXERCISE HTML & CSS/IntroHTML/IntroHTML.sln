@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.HTML", "01.HTML", "{9D1B4B23-3DFA-48F2-874C-FA30C48D2AA4}"
+	ProjectSection(SolutionItems) = preProject
+		01.html = 01.html
+		02.html = 02.html
+		03.html = 03.html
+		04.html = 04.html
+		05.html = 05.html
+		06.html = 06.html
+		07.html = 07.html
+		08.html = 08.html
+		09.html = 09.html
+		form.css = form.css
+		languages.css = languages.css
+		style.css = style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Fruits", "Fruits", "{5DCF350B-4C4A-48D5-89C4-FFBCF5022D1C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "style", "style", "{789C8FD4-731E-48DF-BE44-1B2944560D82}"
+	ProjectSection(SolutionItems) = preProject
+		all-beers.html = all-beers.html
+		index.html = index.html
+		login.html = login.html
+		order.html = order.html
+		register.html = register.html
+		styles.css = styles.css
+		template.html = template.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5DCF350B-4C4A-48D5-89C4-FFBCF5022D1C} = {9D1B4B23-3DFA-48F2-874C-FA30C48D2AA4}
+		{789C8FD4-731E-48DF-BE44-1B2944560D82} = {9D1B4B23-3DFA-48F2-874C-FA30C48D2AA4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F5A2F33-490D-4386-8DF8-C96C64EF53F0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+C:\Users\Ned\Desktop\NedSoft\edSoft.Services\obj\Debug\netcoreapp2.1\NedSoft.Services.csprojAssemblyReference.cache
+C:\Users\Ned\Desktop\NedSoft\edSoft.Services\obj\Debug\netcoreapp2.1\NedSoft.Services.csproj.CoreCompileInputs.cache
+C:\Users\Ned\Desktop\NedSoft\edSoft.Services\obj\Debug\netcoreapp2.1\NedSoft.Services.AssemblyInfoInputs.cache
+C:\Users\Ned\Desktop\NedSoft\edSoft.Services\obj\Debug\netcoreapp2.1\NedSoft.Services.AssemblyInfo.cs

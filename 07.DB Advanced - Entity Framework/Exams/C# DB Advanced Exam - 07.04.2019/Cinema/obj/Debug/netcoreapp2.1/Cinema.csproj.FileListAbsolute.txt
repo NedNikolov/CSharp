@@ -1,0 +1,11 @@
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exams\C# DB Advanced Exam - 07.04.2019\Cinema\bin\Debug\netcoreapp2.1\Cinema.deps.json
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exams\C# DB Advanced Exam - 07.04.2019\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.json
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exams\C# DB Advanced Exam - 07.04.2019\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.dev.json
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exams\C# DB Advanced Exam - 07.04.2019\Cinema\bin\Debug\netcoreapp2.1\Cinema.dll
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exams\C# DB Advanced Exam - 07.04.2019\Cinema\bin\Debug\netcoreapp2.1\Cinema.pdb
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exams\C# DB Advanced Exam - 07.04.2019\Cinema\obj\Debug\netcoreapp2.1\Cinema.csprojAssemblyReference.cache
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exams\C# DB Advanced Exam - 07.04.2019\Cinema\obj\Debug\netcoreapp2.1\Cinema.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exams\C# DB Advanced Exam - 07.04.2019\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfoInputs.cache
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exams\C# DB Advanced Exam - 07.04.2019\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfo.cs
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exams\C# DB Advanced Exam - 07.04.2019\Cinema\obj\Debug\netcoreapp2.1\Cinema.dll
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exams\C# DB Advanced Exam - 07.04.2019\Cinema\obj\Debug\netcoreapp2.1\Cinema.pdb

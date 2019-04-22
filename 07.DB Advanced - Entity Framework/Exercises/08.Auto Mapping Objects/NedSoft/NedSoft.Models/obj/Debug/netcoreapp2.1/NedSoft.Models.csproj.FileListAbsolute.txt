@@ -1,0 +1,4 @@
+C:\Users\Ned\Desktop\NedSoft\NedSoft.Models\obj\Debug\netcoreapp2.1\NedSoft.Models.csprojAssemblyReference.cache
+C:\Users\Ned\Desktop\NedSoft\NedSoft.Models\obj\Debug\netcoreapp2.1\NedSoft.Models.csproj.CoreCompileInputs.cache
+C:\Users\Ned\Desktop\NedSoft\NedSoft.Models\obj\Debug\netcoreapp2.1\NedSoft.Models.AssemblyInfoInputs.cache
+C:\Users\Ned\Desktop\NedSoft\NedSoft.Models\obj\Debug\netcoreapp2.1\NedSoft.Models.AssemblyInfo.cs

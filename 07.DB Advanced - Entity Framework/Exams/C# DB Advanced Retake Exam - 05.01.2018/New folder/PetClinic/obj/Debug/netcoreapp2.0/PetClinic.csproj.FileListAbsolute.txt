@@ -1,0 +1,11 @@
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exams\C# DB Advanced Retake Exam - 05.01.2018\New folder\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.csprojAssemblyReference.cache
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exams\C# DB Advanced Retake Exam - 05.01.2018\New folder\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exams\C# DB Advanced Retake Exam - 05.01.2018\New folder\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.AssemblyInfoInputs.cache
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exams\C# DB Advanced Retake Exam - 05.01.2018\New folder\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.AssemblyInfo.cs
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exams\C# DB Advanced Retake Exam - 05.01.2018\New folder\PetClinic\bin\Debug\netcoreapp2.0\PetClinic.deps.json
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exams\C# DB Advanced Retake Exam - 05.01.2018\New folder\PetClinic\bin\Debug\netcoreapp2.0\PetClinic.runtimeconfig.json
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exams\C# DB Advanced Retake Exam - 05.01.2018\New folder\PetClinic\bin\Debug\netcoreapp2.0\PetClinic.runtimeconfig.dev.json
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exams\C# DB Advanced Retake Exam - 05.01.2018\New folder\PetClinic\bin\Debug\netcoreapp2.0\PetClinic.dll
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exams\C# DB Advanced Retake Exam - 05.01.2018\New folder\PetClinic\bin\Debug\netcoreapp2.0\PetClinic.pdb
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exams\C# DB Advanced Retake Exam - 05.01.2018\New folder\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.dll
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exams\C# DB Advanced Retake Exam - 05.01.2018\New folder\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.pdb

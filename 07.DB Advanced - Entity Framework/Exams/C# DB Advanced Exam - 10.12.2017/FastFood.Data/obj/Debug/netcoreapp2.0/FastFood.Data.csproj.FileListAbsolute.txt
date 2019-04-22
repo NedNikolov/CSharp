@@ -1,0 +1,12 @@
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exams\C# DB Advanced Exam - 10.12.2017\FastFood.Data\bin\Debug\netcoreapp2.0\FastFood.Data.deps.json
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exams\C# DB Advanced Exam - 10.12.2017\FastFood.Data\bin\Debug\netcoreapp2.0\FastFood.Data.dll
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exams\C# DB Advanced Exam - 10.12.2017\FastFood.Data\bin\Debug\netcoreapp2.0\FastFood.Data.pdb
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exams\C# DB Advanced Exam - 10.12.2017\FastFood.Data\bin\Debug\netcoreapp2.0\FastFood.Models.dll
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exams\C# DB Advanced Exam - 10.12.2017\FastFood.Data\bin\Debug\netcoreapp2.0\FastFood.Models.pdb
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exams\C# DB Advanced Exam - 10.12.2017\FastFood.Data\obj\Debug\netcoreapp2.0\FastFood.Data.csprojAssemblyReference.cache
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exams\C# DB Advanced Exam - 10.12.2017\FastFood.Data\obj\Debug\netcoreapp2.0\FastFood.Data.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exams\C# DB Advanced Exam - 10.12.2017\FastFood.Data\obj\Debug\netcoreapp2.0\FastFood.Data.AssemblyInfoInputs.cache
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exams\C# DB Advanced Exam - 10.12.2017\FastFood.Data\obj\Debug\netcoreapp2.0\FastFood.Data.AssemblyInfo.cs
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exams\C# DB Advanced Exam - 10.12.2017\FastFood.Data\obj\Debug\netcoreapp2.0\FastFood.Data.csproj.CopyComplete
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exams\C# DB Advanced Exam - 10.12.2017\FastFood.Data\obj\Debug\netcoreapp2.0\FastFood.Data.dll
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exams\C# DB Advanced Exam - 10.12.2017\FastFood.Data\obj\Debug\netcoreapp2.0\FastFood.Data.pdb

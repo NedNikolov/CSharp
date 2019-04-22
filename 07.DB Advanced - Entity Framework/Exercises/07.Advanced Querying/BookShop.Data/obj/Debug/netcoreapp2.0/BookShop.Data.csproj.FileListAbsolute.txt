@@ -1,0 +1,12 @@
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exercises\07.Advanced Querying\BookShop.Data\bin\Debug\netcoreapp2.0\BookShop.Data.deps.json
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exercises\07.Advanced Querying\BookShop.Data\bin\Debug\netcoreapp2.0\BookShop.Data.dll
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exercises\07.Advanced Querying\BookShop.Data\bin\Debug\netcoreapp2.0\BookShop.Data.pdb
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exercises\07.Advanced Querying\BookShop.Data\bin\Debug\netcoreapp2.0\BookShop.Models.dll
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exercises\07.Advanced Querying\BookShop.Data\bin\Debug\netcoreapp2.0\BookShop.Models.pdb
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exercises\07.Advanced Querying\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.csprojAssemblyReference.cache
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exercises\07.Advanced Querying\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.csproj.CoreCompileInputs.cache
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exercises\07.Advanced Querying\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.AssemblyInfoInputs.cache
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exercises\07.Advanced Querying\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.AssemblyInfo.cs
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exercises\07.Advanced Querying\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.csproj.CopyComplete
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exercises\07.Advanced Querying\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.dll
+D:\Програмиране\SOFTUNI\CSharp\07.DB Advanced - Entity Framework\Exercises\07.Advanced Querying\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.pdb
